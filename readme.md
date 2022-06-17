@@ -1,32 +1,4 @@
----
-'0': W
-'1': e
-'2': l
-'3': c
-'4': o
-'5': m
-'6': e
-'7': ' '
-'8': t
-'9': o
-'10': ' '
-'11': S
-'12': E
-'13': I
-'14': ' '
-'15': E
-'16': x
-'17': a
-'18': m
-'19': p
-'20': l
-'21': e
-'22': '!'
-coverY: 0
----
-
 # Introduction
-
 
 
 You are officially a `Software Engineer`.
@@ -41,17 +13,16 @@ Let's enjoy the ride 🎢 `together`. Let's go!
 
 | Name            | Role                    | Slack           | Email                            |
 | --------------- | ----------------------- | --------------- | -------------------------------- |
-| Joel Hughes     | Lead Instructor         | @Joel Hughes    | Joel.Hughes@generalassemb.ly     |
-| Eric Klimowich  | Lead Instructor         | @Eric Klimowich | eric.klimowich@generalassemb.ly  |
 | Rome Bell       | Lead Instructor         | @rome           | rome.bell@generalassemb.ly       |
-| Doireann Herold | Instructional Associate | @DoireannJane   | doireann.herold@generalassemb.ly |
-| Jurgen Stevens  | Instructional Associate | @Jurgen Stevens | jurgen.stevens@generalassemb.ly  |
+| Joel Gear  | Lead Instructor         | @joel gear | joel.gear@generalassemb.ly  |
+| Avisa | Instructional Associate | @avisa   | avisa@generalassemb.ly |
+| Kevin  | Instructional Associate | @kevin | kevin@generalassemb.ly  |
 
 ## GA SEI Graduation Requirements
 
 General Assembly's courses are pass/fail programs. We have certain requirements in order to be considered a `graduate` of the SEI program:
 
-* No more than 3 days absent from class over the duration of the course (3 tardies equals 1 absence)
+* No more than 24 hours absent from class over the duration of the course (3 tardies equals 4 hours)
 * Successful completion of four assigned projects
 * Participating in GA’s mid-course and end-of-course feedback surveys
 * Complete 80% of assigned `deliverables`
@@ -66,7 +37,7 @@ When you complete our program with passing status, you unlock our alumni perks:
 ## Suggested Repo Structure
 
 ```
-SEI-59
+SEI-621
 ├── unit-1
 │   └── resources
 │   └── codealongs
