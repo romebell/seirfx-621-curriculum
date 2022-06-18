@@ -94,6 +94,11 @@ To be able to open VS Code from any directory, add it to your path inside your \
 
 ```bash
 export PATH=$PATH:"/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+
+# setting code on path
+export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+alias code="/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code"
+
 ```
 
 Save this file and then fully restart your terminal window (quit and restart.)
@@ -135,6 +140,10 @@ If you have successfully configured zsh and vs code, the following command shoul
 
 ```
 code ~/.zshrc
+# PostgreSQL psql
+# open your ~/.zshrc and copy & paste this command below
+export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/latest/bin
+
 ```
 
 
