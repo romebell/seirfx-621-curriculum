@@ -1,6 +1,5 @@
 # Introduction
 
-
 You are officially a `Software Engineer`.
 
 Please `download` the following content to your brain 🧠
@@ -11,12 +10,12 @@ Let's enjoy the ride 🎢 `together`. Let's go!
 
 ## Instructional Team
 
-| Name            | Role                    | Slack           | Email                            |
-| --------------- | ----------------------- | --------------- | -------------------------------- |
-| Rome Bell       | Lead Instructor         | @rome           | rome.bell@generalassemb.ly       |
-| Joel Gear  | Lead Instructor         | @joel gear | joel.gear@generalassemb.ly  |
-| Avisa | Instructional Associate | @avisa   | avisa@generalassemb.ly |
-| Kevin  | Instructional Associate | @kevin | kevin@generalassemb.ly  |
+| Name                | Role                    | Slack                    | Email                                     |
+| ------------------- | ----------------------- | ------------------------ | ----------------------------------------- |
+| Rome Bell           | Lead Instructor         | @rome                    | rome.bell@generalassemb.ly                |
+| Joel Gear           | Lead Instructor         | @joel gear               | joel.gear@generalassemb.ly                |
+| Avisa AP Poshtkouhi | Instructional Associate | @Avisa - IA SEI          | avisa.avazpourposhtkouhi@generalassemb.ly |
+| Keith Baskerville   | Instructional Associate | @Keith (Ohz) Baskerville | keith.baskerville@generalassemb.ly        |
 
 ## GA SEI Graduation Requirements
 
