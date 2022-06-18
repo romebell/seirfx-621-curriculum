@@ -194,7 +194,8 @@ mongod --config /opt/homebrew/etc/mongod.conf --fork
 or 
 1. Go to your developer account
 2. Search for Command Line Tools for Xcode 13.2 and install the package
-3. run ``` brew tap mongodb/brew ```
+3. run ```js
+brew tap mongodb/brew ```
 4. run ``` brew services start mongodb-community@5.0 ```
 5. run ``` mongod --config /opt/homebrew/etc/mongod.conf ```
 6. thun ``` mongo ```
