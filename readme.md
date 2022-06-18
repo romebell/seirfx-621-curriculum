@@ -15,8 +15,8 @@ Let's enjoy the ride 🎢 `together`. Let's go!
 | --------------- | ----------------------- | --------------- | -------------------------------- |
 | Rome Bell       | Lead Instructor         | @rome           | rome.bell@generalassemb.ly       |
 | Joel Gear  | Lead Instructor         | @joel gear | joel.gear@generalassemb.ly  |
-| Avisa | Instructional Associate | @Avisa - IA SEI   | avisa@generalassemb.ly |
-| Keith(Ohz)  | Instructional Associate | @Keith (Ohz) Baskerville   | keith.baskerville@generalassemb.ly  |
+| Avisa A Poshtkouhi  | Instructional Associate | @Avisa - IA SEI   | avisa.avazpourposhtkouhi@generalassemb.ly |
+| Keith(Ohz) Baskerville  | Instructional Associate | @Keith (Ohz) Baskerville   | keith.baskerville@generalassemb.ly  |
 
 ## GA SEI Graduation Requirements
 
