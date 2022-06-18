@@ -56,6 +56,29 @@
 
 </table>
 
+### Week 1 - Deliverables
+
+<p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Deliverable</td>
+<td>Final Due Date</td>
+</tr>
+</thead>
+<tbody>
+
+<tr><td>6/25</td>
+<td><a href="https://git.generalassemb.ly/WC-SEI-322/HW-Loops-Conditionals">Loops & Conditionals</a></td>
+<td>3/29</td>
+</tr>
+<tr><td>6/28</td>
+<td><a href="https://git.generalassemb.ly/WC-SEI-322/functions-scope-hw">Functions</a></td>
+<td>3/29</td>
+</tr>
+
+</table>
+
 ## Unit One: Week 2 - JS Fundamentals!
 
 <table>
