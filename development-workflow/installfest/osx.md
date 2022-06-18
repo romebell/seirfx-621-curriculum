@@ -141,7 +141,7 @@ If you have successfully configured zsh and vs code, the following command shoul
 ```
 code ~/.zshrc
 # PostgreSQL psql
-# open your ~/.zshrc and copy & paste this command below
+# open your ~/.zshrc , copy & paste this command below
 export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/latest/bin
 
 ```
