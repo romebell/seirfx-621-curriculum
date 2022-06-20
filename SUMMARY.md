@@ -26,6 +26,7 @@
   * [GitHub Workflow: Enterprise to Personal](development-workflow/github-fork-clone-enterprise-to-personal/github-fork-clone-enterprise-to-personal.md)
   * [Deployment to Github Pages](development-workflow/deployment-to-github-pages/deployment-to-github-pages.md)
   * [VS Code Tips & Tricks](development-workflow/01-using-vscode.md)
+  * [More VS Code](development-workflow/02-vs-code.md)
 * [HTML/CSS](html-css/README.md)
   * [HTML](html-css/html-review.md)
   * [Semantic HTML](html-css/semantic-html.md)
