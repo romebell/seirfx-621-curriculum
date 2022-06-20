@@ -32,7 +32,7 @@
 <td>Orientation</td>
 <td>Developer Expectations / Installfest</td>
 <td><a  href="https://git.generalassemb.ly/WC-SEI-322/intro-terminal](https://romebell.gitbook.io/seirfx-621/development-workflow/installfest)">Installfest</a> / <a  href="https://git.generalassemb.ly/WC-SEI-322/command-line-lab](https://romebell.gitbook.io/seirfx-621/development-workflow/01readme)">Intro to Command Line</a></td>
-<td><a href="https://git.generalassemb.ly/WC-SEI-322/hw-unix-cli-practice">Terminal Practice</a></td>
+<td><a href="https://git.generalassemb.ly/WC-SEI-322/hw-unix-cli-practice">Terminal Practice</a> | <a href="https://github.com/SEIRFX-621/command-line-murder-mystery">Command Line Murder Mystery</a></td>
 <td> <a href="https://www.notion.so/seir-flex/VS-Code-e1288a7b64174f6588dd0b87755e4d24"> Lecture: VS Code</td>
 </tr>
 
