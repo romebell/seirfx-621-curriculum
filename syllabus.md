@@ -19,18 +19,16 @@
 <th>Module 1</th>
 <th>Module 2</th>
 <th>Today's Lab</th>
-<th>IceBox</th>
 </tr>
 </thead>
 <tbody>
 
 <tr>
 <td><strong>Tuesday</strong><br/>(6/21)</td>
-<td>Ice Breaker</td>
+<td>Ice Breaker / Walkthrough</td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/development-workflow/installfest">Installfest</a></td>
 <td><a  href="https://romebell.gitbook.io/seirfx-621/development-workflow/01readme/02intro-terminal">Intro to Command Line</a></td>
 <td><a href="https://github.com/SEIRFX-621/command-line-murder-mystery">Command Line Murder Mystery</a></td>
-<td><a href="https://www.notion.so/seir-flex/VS-Code-e1288a7b64174f6588dd0b87755e4d24"> Lecture: VS Code</td>
 </tr>
 
 <tr>
@@ -39,7 +37,6 @@
 <td><a  href="https://romebell.gitbook.io/seirfx-621/development-workflow/how-to-submit-deliverables">How to Submit Deliverables</a></td>
 <td><a  href="https://git.generalassemb.ly/WC-SEI-322/github">Intro to HTML</a></td>
 <td><a  href="https://git.generalassemb.ly/WC-SEI-322/git-github-lab">Semantic HTML / CSS Lab </a></td>
-<td>Js foundations and Github basics</td>
 </tr>
 
 <tr>
@@ -48,7 +45,6 @@
 <td><a  href="https://git.generalassemb.ly/WC-SEI-322/conditionals-and-loops">Loops & Conditionals </a></td>
 <td><a  href="https://git.generalassemb.ly/WC-SEI-322/conditionals-and-loops">Loops & Conditionals </a>/ <a href="https://git.generalassemb.ly/WC-SEI-322/Choose-your-own-adventure">Choose your own adventure</a></td>
 <td><a href="https://git.generalassemb.ly/WC-SEI-322/Choose-your-own-adventure">Choose your own adventure</a></td>
-<td>Control flow and Arrays</td>
 </tr>
 </table>
 
@@ -64,13 +60,13 @@
 </thead>
 <tbody>
 
-<tr><td>6/25</td>
-<td><a href="https://git.generalassemb.ly/WC-SEI-322/HW-Loops-Conditionals">Loops & Conditionals</a></td>
-<td>3/29</td>
+<tr><td>6/22</td>
+<td><a href="">Not Posted</a></td>
+<td>6/26</td>
 </tr>
-<tr><td>6/28</td>
-<td><a href="https://git.generalassemb.ly/WC-SEI-322/functions-scope-hw">Functions</a></td>
-<td>3/29</td>
+<tr><td>6/26</td>
+<td><a href="">Not Posted</a></td>
+<td>6/28</td>
 </tr>
 
 </table>
@@ -85,7 +81,6 @@
 <th>Module 1</th>
 <th>Module 2</th>
 <th>Today's Lab</th>
-<th>IceBox</th>
 </tr>
 </thead>
 <tbody>
@@ -96,7 +91,6 @@
 <td>Developer Expectations / Installfest</td>
 <td><a  href="https://git.generalassemb.ly/WC-SEI-322/intro-terminal](https://romebell.gitbook.io/seirfx-621/development-workflow/installfest)">Installfest</a> / <a  href="https://git.generalassemb.ly/WC-SEI-322/command-line-lab](https://romebell.gitbook.io/seirfx-621/development-workflow/01readme)">Intro to Command Line</a></td>
 <td><a href="https://git.generalassemb.ly/WC-SEI-322/hw-unix-cli-practice">Terminal Practice</a></td>
-<td> <a href="https://www.notion.so/seir-flex/VS-Code-e1288a7b64174f6588dd0b87755e4d24"> Lecture: VS Code</td>
 </tr>
 
 <tr>
@@ -105,7 +99,6 @@
 <td><a  href="https://romebell.gitbook.io/seirfx-621/development-workflow/how-to-submit-deliverables">How to Submit Deliverables</a></td>
 <td><a  href="https://git.generalassemb.ly/WC-SEI-322/github">Intro to HTML</a></td>
 <td><a  href="https://git.generalassemb.ly/WC-SEI-322/git-github-lab">Semantic HTML / CSS Lab </a></td>
-<td>Js foundations and Github basics</td>
 </tr>
 
 <tr>
