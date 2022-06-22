@@ -44,7 +44,7 @@
 <td><a  href="https://romebell.gitbook.io/seirfx-621/html-css/css-selectors">CSS Selectors</a> | <a  href="https://romebell.gitbook.io/seirfx-621/html-css/00readme/01box-model">CSS Box Model</a></td>
 <td><a  href="https://romebell.gitbook.io/seirfx-621/html-css/00readme/02display-positioning">CSS Display and Positioning</a></td>
 <td><a  href="https://romebell.gitbook.io/seirfx-621/html-css/00readme/06flexbox">CSS Flexbox</a> | <a  href="https://romebell.gitbook.io/seirfx-621/html-css/00readme/07grid">CSS Grid</a></td>
-<td><a  href="https://flexboxfroggy.com">Flexbox</a> | <a  href="http://cssgridgarden.com">Grid Garden</a></td>
+<td><a  href="https://flexboxfroggy.com">Flexbox Froggy</a> | <a  href="http://cssgridgarden.com">Grid Garden</a></td>
 </tr>
 </table>
 
