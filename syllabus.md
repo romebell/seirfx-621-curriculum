@@ -41,10 +41,10 @@
 
 <tr>
 <td><strong>Saturday</strong><br />(6/25)</td>
-<td><a  href="https://romebell.gitbook.io/seirfx-621/html-css/css-selectors">CSS Selectors</a></td>
-<td><a  href="https://git.generalassemb.ly/WC-SEI-322/conditionals-and-loops">Loops & Conditionals </a></td>
-<td><a  href="https://git.generalassemb.ly/WC-SEI-322/conditionals-and-loops">Loops & Conditionals </a>/ <a href="https://git.generalassemb.ly/WC-SEI-322/Choose-your-own-adventure">Choose your own adventure</a></td>
-<td><a href="https://git.generalassemb.ly/WC-SEI-322/Choose-your-own-adventure">Choose your own adventure</a></td>
+<td><a  href="https://romebell.gitbook.io/seirfx-621/html-css/css-selectors">CSS Selectors</a> | <a  href="https://romebell.gitbook.io/seirfx-621/html-css/00readme/01box-model">CSS Box Model</a></td>
+<td><a  href="https://romebell.gitbook.io/seirfx-621/html-css/00readme/02display-positioning">CSS Display and Positioning</a></td>
+<td><a  href="https://romebell.gitbook.io/seirfx-621/html-css/00readme/06flexbox">CSS Flexbox</a> | <a  href="https://romebell.gitbook.io/seirfx-621/html-css/00readme/07grid">CSS Grid</a></td>
+<td><a  href="https://flexboxfroggy.com">Flexbox</a> | <a  href="http://cssgridgarden.com">Grid Garden</a></td>
 </tr>
 </table>
 
@@ -61,11 +61,11 @@
 <tbody>
 
 <tr><td>6/22</td>
-<td><a href="">Not Posted</a></td>
+<td><a href=""></a></td>
 <td>6/26</td>
 </tr>
 <tr><td>6/26</td>
-<td><a href="">Not Posted</a></td>
+<td><a href="https://github.com/SEIRFX-621/css-airbnb">CSS AirBnB</a></td>
 <td>6/28</td>
 </tr>
 
