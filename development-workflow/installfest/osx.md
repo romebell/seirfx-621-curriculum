@@ -83,6 +83,13 @@ git config --global credential.helper cache
 You might find your self having to re-authenticate GIT every time you work on your command line. Setup SSH Keys to let Github remember your machine in the future.
 
 * [Github Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys/)
+```
+ssh-keygen -t rsa
+
+//copy to clipboard
+pbcopy < ~/.ssh/id_rsa.pub
+
+```
 
 ### Install VS Code
 
