@@ -87,7 +87,6 @@
 
 <tr>
 <td><strong>Tuesday</strong><br />(6/28)</td>
-<td>None</td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-primitives">JavaScript Fundamentals</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-arrays">Arrays</a></td>
 
