@@ -78,18 +78,13 @@ git config --global push.default simple
 git config --global credential.helper cache
 ```
 
-**Setting up SSH Key**
+**Connecting to Github with SSH**
 
-You might find your self having to re-authenticate GIT every time you work on your command line. Setup SSH Keys to let Github remember your machine in the future.
+You might find your self having to re-authenticate GIT every time you work on your command line. Setup SSH Keys to let Github remember your machine in the future. We have <strong>two</strong> ways:
 
-* [Github Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys/)
-```
-ssh-keygen -t rsa
-
-//copy to clipboard
-pbcopy < ~/.ssh/id_rsa.pub
-
-```
+* [Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+* OR
+* [Adding a new SSH key to your GitHub account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 
 ### Install VS Code
 
