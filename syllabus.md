@@ -11,6 +11,8 @@
 
 `Important Disclaimer`: This schedule is a guideline and serves as an estimate for what your instructional staff would like to accomplish. This calendar is not set in stone and is subject to change at any time for reasons such as snow days, staff illness, special events, and individual class pacing.
 
+## Unit One: Week 1 - Welcome, HTML & CSS!
+
 <table>
 <thead>
 <tr>
@@ -22,6 +24,8 @@
 </tr>
 </thead>
 <tbody>
+
+
 
 <tr>
 <td><strong>Tuesday</strong><br/>(6/21)</td>
