@@ -88,17 +88,20 @@
 <tr>
 <td><strong>Tuesday</strong><br />(6/28)</td>
 <td>None</td>
-<td><a href="https://romebell.gitbook.io/seirfx-621/development-workflow/intro-git">Intro to Git/Github</a></td>
-<td><a href="https://romebell.gitbook.io/seirfx-621/html-css/html-review">HTML Review</a></td>
-<td><a href="https://git.generalassemb.ly/WC-SEI-322/hw-unix-cli-practice">Terminal Practice</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-primitives">JavaScript Fundamentals</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-arrays">Arrays</a></td>
+
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-objects">Objects</a></td>
+<td><a href="https://github.com/SEIRFX-621/js-object-challenges">Arrays Lab</a></td>
+
 </tr>
 
 <tr>
 <td><strong>Wednesday</strong><br />(6/29)</td>
-<td><a  href="https://romebell.gitbook.io/seirfx-621/development-workflow/intro-git">Intro to Git & GitHub</a></td>
-<td><a  href="https://romebell.gitbook.io/seirfx-621/development-workflow/how-to-submit-deliverables">How to Submit Deliverables</a></td>
-<td><a  href="https://romebell.gitbook.io/seirfx-621/html-css/html-review">Intro to HTML</a></td>
-<td><a  href="https://romebell.gitbook.io/seirfx-621/html-css/semantic-html">Semantic HTML Exercise</a></td>
+<td><a href="https://github.com/WDI-SEA/js-array-string-methods">JS Objects Challenge</a></td>
+<td><a  href="https://romebell.gitbook.io/seirfx-621/development-workflow/intro-git">Boolean Expressions</a> | <a  href="https://romebell.gitbook.io/seirfx-621/javascript/js-control-flow/03conditionals">Conditionals</a></td>
+<td><a  href="https://romebell.gitbook.io/seirfx-621/javascript/js-control-flow/04loops">Loops</a></td>
+
 </tr>
 
 <tr>
@@ -107,7 +110,6 @@
 <td>No Class</td>
 <td>No Class</td>
 <td>No Class</td>
-<td>No Classs</td>
 </tr>
 
 </table>
