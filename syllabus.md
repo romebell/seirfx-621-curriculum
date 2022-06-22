@@ -82,13 +82,13 @@
 <td>Recording Two</td>
 </tr>
 </thead>
-<tbody>
 <tr><td>6/21</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/s_A5VibdCO76l29hJWS7zFcapNtCQO5PW3FbFlflmJTry-IssDo8Qh82Eoo2-6mV.a1sAsaEUXboy1njL?startTime=1655862509000
 Passcode: %w88^RAi)">Installfest Part 1</a></td>
  
 <td><a href="https://generalassembly.zoom.us/rec/share/s_A5VibdCO76l29hJWS7zFcapNtCQO5PW3FbFlflmJTry-IssDo8Qh82Eoo2-6mV.a1sAsaEUXboy1njL?startTime=1655864488000
 Passcode: %w88^RAi">Installfest Part 2</a></td>
+</tr>
 </table>
 
 ## Unit One: Week 2 - JS Fundamentals!
