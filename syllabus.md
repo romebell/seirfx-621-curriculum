@@ -15,9 +15,9 @@
 <thead>
 <tr>
 <td> Date </td>
-<th>Daily StandUp</th>
 <th>Module 1</th>
 <th>Module 2</th>
+<th>Module 3</th>
 <th>Today's Lab</th>
 </tr>
 </thead>
@@ -36,12 +36,12 @@
 <td><a  href="https://romebell.gitbook.io/seirfx-621/development-workflow/intro-git">Intro to Git & GitHub</a></td>
 <td><a  href="https://romebell.gitbook.io/seirfx-621/development-workflow/how-to-submit-deliverables">How to Submit Deliverables</a></td>
 <td><a  href="https://git.generalassemb.ly/WC-SEI-322/github">Intro to HTML</a></td>
-<td><a  href="https://git.generalassemb.ly/WC-SEI-322/git-github-lab">Semantic HTML / CSS Lab </a></td>
+<td><a  href="https://git.generalassemb.ly/WC-SEI-322/git-github-lab">Semantic HTML</a></td>
 </tr>
 
 <tr>
 <td><strong>Saturday</strong><br />(6/25)</td>
-<td><a  href="https://git.generalassemb.ly/WC-SEI-322/css-selector-basics">CSS Intro </a></td>
+<td><a  href="https://romebell.gitbook.io/seirfx-621/html-css/css-selectors">CSS Selectors</a></td>
 <td><a  href="https://git.generalassemb.ly/WC-SEI-322/conditionals-and-loops">Loops & Conditionals </a></td>
 <td><a  href="https://git.generalassemb.ly/WC-SEI-322/conditionals-and-loops">Loops & Conditionals </a>/ <a href="https://git.generalassemb.ly/WC-SEI-322/Choose-your-own-adventure">Choose your own adventure</a></td>
 <td><a href="https://git.generalassemb.ly/WC-SEI-322/Choose-your-own-adventure">Choose your own adventure</a></td>
@@ -76,10 +76,10 @@
 <table>
 <thead>
 <tr>
-<td> Date </td>
-<th>Daily StandUp</th>
+<td>Date</td>
 <th>Module 1</th>
 <th>Module 2</th>
+<th>Module 3</th>
 <th>Today's Lab</th>
 </tr>
 </thead>
@@ -87,9 +87,9 @@
 
 <tr>
 <td><strong>Tuesday</strong><br />(6/28)</td>
-<td>Orientation</td>
-<td>Developer Expectations / Installfest</td>
-<td><a  href="https://git.generalassemb.ly/WC-SEI-322/intro-terminal](https://romebell.gitbook.io/seirfx-621/development-workflow/installfest)">Installfest</a> / <a  href="https://git.generalassemb.ly/WC-SEI-322/command-line-lab](https://romebell.gitbook.io/seirfx-621/development-workflow/01readme)">Intro to Command Line</a></td>
+<td>None</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/development-workflow/intro-git">Intro to Git/Github</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/html-css/html-review">HTML Review</a></td>
 <td><a href="https://git.generalassemb.ly/WC-SEI-322/hw-unix-cli-practice">Terminal Practice</a></td>
 </tr>
 
@@ -98,7 +98,7 @@
 <td><a  href="https://romebell.gitbook.io/seirfx-621/development-workflow/intro-git">Intro to Git & GitHub</a></td>
 <td><a  href="https://romebell.gitbook.io/seirfx-621/development-workflow/how-to-submit-deliverables">How to Submit Deliverables</a></td>
 <td><a  href="https://romebell.gitbook.io/seirfx-621/html-css/html-review">Intro to HTML</a></td>
-<td><a  href="https://romebell.gitbook.io/seirfx-621/html-css/semantic-html">Semantic HTML</a></td>
+<td><a  href="https://romebell.gitbook.io/seirfx-621/html-css/semantic-html">Semantic HTML Exercise</a></td>
 </tr>
 
 <tr>
