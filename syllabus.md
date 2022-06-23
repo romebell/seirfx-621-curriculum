@@ -86,8 +86,13 @@
 <tr><td>6/21</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/BejOZ4AlzlX4WwfqFH4ZQ_bLTx-bRQSrNK4SiFb3LlJoptyHa3ZxjygRyZARS6qe.mokAagylCLqXBLWD?startTime=1655862509000">Installfest Part 1</a></td>
 <td><a href="https://generalassembly.zoom.us/rec/share/s_A5VibdCO76l29hJWS7zFcapNtCQO5PW3FbFlflmJTry-IssDo8Qh82Eoo2-6mV.a1sAsaEUXboy1njL?startTime=1655864488000P">Installfest Part 2</a></td>
- <td>Passcode: %w88^RAi</td>
+ <td>Passcode: %w88^RAi</td> 
+</tr>
  
+<tr><td>6/22</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/NcisKwQtKgggc9N5ox-YGoyV8KonQKXx3EW46_ursGo0yEJbZARkahZ8ppB3FBdR._D7L0uj76NvFlSW2?startTime=1655948922000">GitHub Troubleshoot</a> | <a href="https://generalassembly.zoom.us/rec/share/NcisKwQtKgggc9N5ox-YGoyV8KonQKXx3EW46_ursGo0yEJbZARkahZ8ppB3FBdR._D7L0uj76NvFlSW2?startTime=1655952770000">Intro to Command Line</a> </td>
+<td><a href="https://generalassembly.zoom.us/rec/share/NcisKwQtKgggc9N5ox-YGoyV8KonQKXx3EW46_ursGo0yEJbZARkahZ8ppB3FBdR._D7L0uj76NvFlSW2?startTime=1655959065000">Pro Tips: Signal vs Noise </a> | <a href="https://generalassembly.zoom.us/rec/share/NcisKwQtKgggc9N5ox-YGoyV8KonQKXx3EW46_ursGo0yEJbZARkahZ8ppB3FBdR._D7L0uj76NvFlSW2?startTime=1655959648000">Folder Structure</a></td>
+ <td>Passcode: NQW&E#6M </td>
 </tr>
 </table>
 
