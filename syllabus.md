@@ -83,11 +83,10 @@
 </tr>
 </thead>
 <tr><td>6/21</td>
-<td><a href="https://generalassembly.zoom.us/rec/share/s_A5VibdCO76l29hJWS7zFcapNtCQO5PW3FbFlflmJTry-IssDo8Qh82Eoo2-6mV.a1sAsaEUXboy1njL?startTime=1655862509000
-Passcode: %w88^RAi)">Installfest Part 1</a></td>
+<td><a href="https://generalassembly.zoom.us/rec/share/BejOZ4AlzlX4WwfqFH4ZQ_bLTx-bRQSrNK4SiFb3LlJoptyHa3ZxjygRyZARS6qe.mokAagylCLqXBLWD?startTime=1655862509000">Installfest Part 1</a> Passcode: %w88^RA</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/s_A5VibdCO76l29hJWS7zFcapNtCQO5PW3FbFlflmJTry-IssDo8Qh82Eoo2-6mV.a1sAsaEUXboy1njL?startTime=1655864488000Passcode: %w88^RAi">Installfest Part 2</a></td>
+
  
-<td><a href="https://generalassembly.zoom.us/rec/share/s_A5VibdCO76l29hJWS7zFcapNtCQO5PW3FbFlflmJTry-IssDo8Qh82Eoo2-6mV.a1sAsaEUXboy1njL?startTime=1655864488000
-Passcode: %w88^RAi">Installfest Part 2</a></td>
 </tr>
 </table>
 
