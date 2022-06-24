@@ -39,7 +39,7 @@
 <td><strong>Wednesday</strong><br />(6/22)</td>
 <td><a  href="https://romebell.gitbook.io/seirfx-621/development-workflow/intro-git">Intro to Git & GitHub</a></td>
 <td><a  href="https://romebell.gitbook.io/seirfx-621/development-workflow/how-to-submit-deliverables">How to Submit Deliverables</a></td>
-<td><a  href="https://git.generalassemb.ly/WC-SEI-322/github">Intro to HTML</a></td>
+<td><a  href="https://romebell.gitbook.io/seirfx-621/html-css/html-review">Intro to HTML</a></td>
 <td><a  href="https://git.generalassemb.ly/WC-SEI-322/git-github-lab">Semantic HTML</a></td>
 </tr>
 
