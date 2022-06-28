@@ -143,3 +143,30 @@
 </tr>
 
 </table>
+
+### Week 2 - Deliverables
+
+<p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Deliverable</td>
+<td>Final Due Date</td>
+</tr>
+</thead>
+<tbody>
+
+<tr><td>6/28</td>
+<td><a href="https://github.com/SEIRFX-621/css-airbnb">CSS Airbnb Lab</a></td>
+<td>7/5</td>
+</tr>
+<tr><td>6/29</td>
+<td><a href="https://github.com/SEIRFX-621/lab-arrays">JavaScript Arrays Lab</a></td>
+<td>7/5</td>
+</tr>
+</tr>
+<tr><td>6/29</td>
+<td><a href="https://github.com/SEIRFX-621/js-object-challenges">JavaScript objects Lab</a></td>
+<td>7/5</td>
+</tr>
+</table>
