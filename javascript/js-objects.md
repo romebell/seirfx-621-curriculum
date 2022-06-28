@@ -39,7 +39,7 @@ Or we can use **bracket notation** similar to the way we use arrays. While this 
 friend["firstName"]
 
 // Or we can use whatever value is in this variable...
-var myKey = "lastName";
+let myKey = "lastName";
 friend[myKey];
 ```
 
