@@ -11,7 +11,7 @@
 
 `Important Disclaimer`: This schedule is a guideline and serves as an estimate for what your instructional staff would like to accomplish. This calendar is not set in stone and is subject to change at any time for reasons such as snow days, staff illness, special events, and individual class pacing.
 
-## Unit One: Week 1 - Welcome, HTML & CSS!
+## Unit 1: `Week 1 - Welcome, HTML & CSS!`
 
 <table>
 <thead>
@@ -103,7 +103,7 @@
  
 </table>
 
-## Unit One: Week 2 - JS Fundamentals!
+## Unit 1: `Week 2 - JS Fundamentals!`
 
 <table>
 <thead>
