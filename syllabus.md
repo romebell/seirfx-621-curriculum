@@ -122,7 +122,15 @@
 <td><a  href="https://romebell.gitbook.io/seirfx-621/html-css/00readme/06flexbox">CSS Flexbox</a></td>
 <td><a  href="https://romebell.gitbook.io/seirfx-621/html-css/00readme/07grid">CSS Grid</a></td>
 <td><a  href="https://flexboxfroggy.com">Flexbox Froggy</a> | <a  href="http://cssgridgarden.com">Grid Garden</a></td>
-<td><a href="https://github.com/SEIRFX-621/css-airbnb">CSS AirBnB</a> (Due Saturday)</td>
+<td><a href="https://github.com/SEIRFX-621/css-airbnb">CSS AirBnB</a> (Due Next Tuesday)</td>
+</tr>
+ 
+<tr>
+<td><strong>Wednesday</strong><br />(6/29)</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-primitives">JavaScript Fundamentals</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-arrays">Arrays</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-objects">Objects</a></td>
+<td><a href="https://github.com/SEIRFX-621/js-object-challenges">Arrays Lab</a></td>
 </tr>
 
 <tr>
