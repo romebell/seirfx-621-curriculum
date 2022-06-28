@@ -65,11 +65,11 @@
 <tbody>
 
 <tr><td>6/22</td>
-<td><a href="https://github.com/SEIRFX-621/html-css-review">HTML Review</a></td>
+<td><a href="https://github.com/SEIRFX-621/command-line-murder-mystery">Command Line Murder Mystery</a></td>
 <td>6/26</td>
 </tr>
 <tr><td>6/26</td>
-<td><a href="https://github.com/SEIRFX-621/css-airbnb">CSS AirBnB</a></td>
+<td><a href="https://github.com/SEIRFX-621/html-css-review">HTML Review</a></td>
 <td>6/28</td>
 </tr>
 </table>
