@@ -116,23 +116,13 @@
 </tr>
 </thead>
 <tbody>
-
+ 
 <tr>
 <td><strong>Tuesday</strong><br />(6/28)</td>
-<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-primitives">JavaScript Fundamentals</a></td>
-<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-arrays">Arrays</a></td>
-
-<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-objects">Objects</a></td>
-<td><a href="https://github.com/SEIRFX-621/js-object-challenges">Arrays Lab</a></td>
-
-</tr>
-
-<tr>
-<td><strong>Wednesday</strong><br />(6/29)</td>
-<td><a href="https://github.com/WDI-SEA/js-array-string-methods">JS Objects Challenge</a></td>
-<td><a  href="https://romebell.gitbook.io/seirfx-621/development-workflow/intro-git">Boolean Expressions</a> | <a  href="https://romebell.gitbook.io/seirfx-621/javascript/js-control-flow/03conditionals">Conditionals</a></td>
-<td><a  href="https://romebell.gitbook.io/seirfx-621/javascript/js-control-flow/04loops">Loops</a></td>
-
+<td><a  href="https://romebell.gitbook.io/seirfx-621/html-css/00readme/06flexbox">CSS Flexbox</a></td>
+<td><a  href="https://romebell.gitbook.io/seirfx-621/html-css/00readme/07grid">CSS Grid</a></td>
+<td><a  href="https://flexboxfroggy.com">Flexbox Froggy</a> | <a  href="http://cssgridgarden.com">Grid Garden</a></td>
+<td><a href="https://github.com/SEIRFX-621/css-airbnb">CSS AirBnB</a> (Due Saturday)</td>
 </tr>
 
 <tr>
