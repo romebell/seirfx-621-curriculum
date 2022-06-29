@@ -170,3 +170,19 @@
 <td>7/5</td>
 </tr>
 </table>
+
+### Class Recordings 
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Recording One</td>
+<td>Recording Two</td>
+<td>Passcode</td>
+</tr>
+</thead>
+<tr><td>6/28</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/cH5G9KVaeGTZyo5_mpXU8uR1nZw4EcVPyNX9o8aZ0uWlQdWnjCLVlfuhJvoqNTtU.rL3rltP5d4ZJnEMX?startTime=1656467601000">CSS FlexBox</a></td>
+<td><a href="https://generalassembly.zoom.us/rec/share/cH5G9KVaeGTZyo5_mpXU8uR1nZw4EcVPyNX9o8aZ0uWlQdWnjCLVlfuhJvoqNTtU.rL3rltP5d4ZJnEMX?startTime=1656475696000">CSS FlexGrid</a></td>
+ <td>Passcode: r?rPc0J5</td> 
+</tr>
+ </table>
