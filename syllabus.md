@@ -186,3 +186,57 @@
  <td>Passcode: r?rPc0J5</td> 
 </tr>
  </table>
+
+## Unit 1: `Week 3 - JS continued(control flows and functions)!`
+
+<table>
+<thead>
+<tr>
+<td>Date</td>
+<th>Module 1</th>
+<th>Module 2</th>
+<th>Module 3</th>
+<th>Today's Lab</th>
+</tr>
+</thead>
+<tbody>
+ 
+<tr>
+<td><strong>Tuesday</strong><br />(7/5)</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-control-flow">Control Flows</a> | <a href="https://romebell.gitbook.io/seirfx-621/javascript/js-control-flow/02boolean">Boolean Expressions</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-control-flow/03conditionals">Conditionals</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-control-flow/04loops">Loops</a></td>
+<td><a href="https://github.com/SEIRFX-621">TBD</a> (Due Next Tuesday)</td>
+</tr>
+ 
+<tr>
+<td><strong>Wednesday</strong><br />(7/6)</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/01functions">Functions</a> | <a href="https://romebell.gitbook.io/seirfx-621/javascript/01functions/02callbacks">Callbacks</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/01functions/03timing-functions">Timing Functions</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/01functions/04iterators">Iterators</a></td>
+<td><a href="https://github.com/SEIRFX-621">TBD</a> (Due Next Tuesday)</td>
+
+</tr>
+
+<tr>
+<td><strong>Saturday</strong><br />(7/9)</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/01readme">Dom and Events</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/02more-manipulation">Dom Manipulation</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-control-flow/05promises">Promises</a></td>
+<td><a href="https://github.com/SEIRFX-621/">TBD</a> (Due Next Tuesday)</td>
+</tr>
+
+</table>
+
+### Week 3 - Deliverables
+
+<p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Deliverable</td>
+<td>Final Due Date</td>
+</tr>
+</thead>
+<tbody>
+</table>
