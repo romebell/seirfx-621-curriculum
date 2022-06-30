@@ -130,7 +130,7 @@
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-primitives">JavaScript Fundamentals</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-arrays">Arrays</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-objects">Objects</a></td>
-<td><a href="https://github.com/SEIRFX-621/lab-arrays">Array Lab</a> | <a href="https://github.com/SEIRFX-621/js-object-challenge">Objects Challenge</a> (Due Next Tuesday)</td>
+<td><a href="https://github.com/SEIRFX-621/lab-arrays">Array Lab</a> | <a href="https://github.com/SEIRFX-621/js-object-challenges">Objects Challenge</a> (Due Next Tuesday)</td>
 
 </tr>
 
