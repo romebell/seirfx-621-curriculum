@@ -186,9 +186,9 @@
  <td>Passcode: r?rPc0J5</td> 
  
  <tr><td>6/29</td>
-<td><a href="">Intro to Javascipt</a></td>
-<td><a href="">Arrays | Objects</a></td>
- <td>Passcode: </td> 
+<td><a href="https://generalassembly.zoom.us/rec/share/flcTkKxwhG63GIxIlerncvuU_R4yYl1x2_22mQ-hqwhiQdJue7i798lYMBpzqDI5.KQbBtw4VPFsbDRAY?startTime=1656553178000">Intro to Javascipt | Arrays</a></td>
+  <td>N/A</a></td>
+ <td>Passcode:$Qs70Ed? </td> 
 </tr>
  
 </tr>
