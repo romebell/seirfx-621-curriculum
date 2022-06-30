@@ -184,6 +184,13 @@
 <td><a href="https://generalassembly.zoom.us/rec/share/cH5G9KVaeGTZyo5_mpXU8uR1nZw4EcVPyNX9o8aZ0uWlQdWnjCLVlfuhJvoqNTtU.rL3rltP5d4ZJnEMX?startTime=1656467601000">CSS FlexBox</a></td>
 <td><a href="https://generalassembly.zoom.us/rec/share/cH5G9KVaeGTZyo5_mpXU8uR1nZw4EcVPyNX9o8aZ0uWlQdWnjCLVlfuhJvoqNTtU.rL3rltP5d4ZJnEMX?startTime=1656475696000">CSS FlexGrid</a></td>
  <td>Passcode: r?rPc0J5</td> 
+ 
+ <tr><td>6/29</td>
+<td><a href="">Intro to Javascipt</a></td>
+<td><a href="">Arrays | Objects</a></td>
+ <td>Passcode: </td> 
+</tr>
+ 
 </tr>
  </table>
 
