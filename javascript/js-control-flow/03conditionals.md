@@ -121,5 +121,5 @@ if (num) {
 }
 ```
 
-More on this topic: [http://james.padolsey.com/javascript/truthy-falsey/](http://james.padolsey.com/javascript/truthy-falsey/)
+More on this topic: [https://developer.mozilla.org/en-US/docs/Glossary/Truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
 
