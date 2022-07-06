@@ -247,3 +247,19 @@
 </thead>
 <tbody>
 </table>
+
+### Class Recordings 
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Recording One</td>
+<td>Recording Two</td>
+<td>Passcode</td>
+</tr>
+</thead>
+<tr><td>7/5</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/vj6Af9EDFiKbAfvNqcOh9A_DGTQ5ts5Ts1WUbetfGKO1O2fsN-l4orw-aYQPaZxG.BWoZkVnOEKW5zWH-?startTime=1657071880000">Javascript Control Flow</a></td>
+<td><a href="https://generalassembly.zoom.us/rec/share/vj6Af9EDFiKbAfvNqcOh9A_DGTQ5ts5Ts1WUbetfGKO1O2fsN-l4orw-aYQPaZxG.BWoZkVnOEKW5zWH-?startTime=1657076757000">Conditionals and Loops</a></td>
+ <td>Passcode: #42NNXjX</td> 
+</tr>
+</table>
