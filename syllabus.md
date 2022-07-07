@@ -267,7 +267,7 @@
  <td>Passcode: #42NNXjX</td> 
 </tr>
  <tr><td>7/6</td>
-<td><a href="https://generalassembly.zoom.us/rec/share/R2XxttNt8jfotuprchC-twUOWQEq3hQDFqibufGuyH_m7mFTr8ElMV5mjNXeJ_EI.SNGr7QsrWaWdunoi?startTime=1657158618000">Pair Programming</a>|  <a href="https://generalassembly.zoom.us/rec/share/PGJXbIx8yHom4WwSbGYoib70X_aJD004e9jBWaZRPBkXmI0rswpw90-Z_VRWf5AM.DqPSbrJ43g96iySf?startTime=1657167554000">Loop Lab</a></td>
+<td><a href="https://generalassembly.zoom.us/rec/share/R2XxttNt8jfotuprchC-twUOWQEq3hQDFqibufGuyH_m7mFTr8ElMV5mjNXeJ_EI.SNGr7QsrWaWdunoi?startTime=1657158618000">Pair Programming</a> |  <a href="https://generalassembly.zoom.us/rec/share/PGJXbIx8yHom4WwSbGYoib70X_aJD004e9jBWaZRPBkXmI0rswpw90-Z_VRWf5AM.DqPSbrJ43g96iySf?startTime=1657167554000">Loop Lab</a></td>
  <td><a href="https://generalassembly.zoom.us/rec/share/PGJXbIx8yHom4WwSbGYoib70X_aJD004e9jBWaZRPBkXmI0rswpw90-Z_VRWf5AM.DqPSbrJ43g96iySf?startTime=1657167554000">Functions</a></td>
  <td>Passcode: *.%ZWi49</td> 
 </tr>
