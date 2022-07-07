@@ -246,6 +246,10 @@
 </tr>
 </thead>
 <tbody>
+<tr><td>7/6</td>
+<td><a href="https://github.com/SEIRFX-621/functions-deliverable">Functions Deliveriable</a></td>
+<td>7/10</td>
+</tr>
 </table>
 
 ### Class Recordings 
