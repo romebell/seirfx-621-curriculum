@@ -213,7 +213,7 @@
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-control-flow">Control Flows</a> | <a href="https://romebell.gitbook.io/seirfx-621/javascript/js-control-flow/02boolean">Boolean Expressions</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-control-flow/03conditionals">Conditionals</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-control-flow/04loops">Loops</a></td>
-<td><a href="https://github.com/SEIRFX-621/js-loops-lab">Javascript loops lab</a> (Due Next Tuesday)</td>
+<td><a href="https://github.com/SEIRFX-621/js-loops-lab">Javascript loops lab</a></td>
 </tr>
  
 <tr>
@@ -221,7 +221,7 @@
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/01functions">Functions</a> | <a href="https://romebell.gitbook.io/seirfx-621/javascript/01functions/02callbacks">Callbacks</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/01functions/03timing-functions">Timing Functions</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/01functions/04iterators">Iterators</a></td>
-<td><a href="https://github.com/SEIRFX-621">TBD</a> (Due Next Tuesday)</td>
+<td><a href="https://github.com/SEIRFX-621/functions-deliverable">Functions Deliverable</a></td>
 
 </tr>
 
@@ -230,7 +230,7 @@
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/01readme">Dom and Events</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/02more-manipulation">Dom Manipulation</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-control-flow/05promises">Promises</a></td>
-<td><a href="https://github.com/SEIRFX-621/">TBD</a> (Due Next Tuesday)</td>
+<td><a href="https://github.com/SEIRFX-621/dom-temperature-converter">DOM Temperature Converter</a> (Due Next Tuesday)</td>
 </tr>
 
 </table>
