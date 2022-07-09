@@ -24,7 +24,7 @@ Now draw out a diagram \(tree of nodes\) that represents the DOM that is loaded 
 
 ### Setup
 
-- Clone the [dom-practice repo](https://git.generalassemb.ly/Milcah/dom-practice.git).
+- Clone the [dom-practice repo](https://github.com/SEIRFX-621/dom-practice).
 
 - Let's quickly review the boilerplate together.
 
