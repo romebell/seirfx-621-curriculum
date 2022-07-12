@@ -300,7 +300,7 @@
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/02more-manipulation">Dom Manipulation (cont.)</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-control-flow/05promises">Promises</a></td>
 <td><a href="https://github.com/SEIRFX-621">Promises Exercise</a></td>
-<td><a href="https://github.com/SEIRFX-621/dom-temperature-converter">DOM Temperature Converter</a> (Due Next Tuesday)</td>
+<td><a href="https://github.com/SEIRFX-621/dom-temperature-converter">DOM Temperature Converter</a> (Due Saturday)</td>
 </tr>
  
 <tr>
