@@ -230,7 +230,7 @@
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/01readme">Dom and Events</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/02more-manipulation">Dom Manipulation</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-control-flow/05promises">Promises</a></td>
-<td><a href="https://github.com/SEIRFX-621/dom-temperature-converter">DOM Temperature Converter</a> (Due Next Tuesday)</td>
+<td><a href="https://github.com/SEIRFX-621/js-muscle-memory">JS Muscle memory</a> (Due Next Tuesday)</td>
 </tr>
 
 </table>
@@ -299,19 +299,24 @@
 <td><strong>Tuesday</strong><br />(7/12)</td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/02more-manipulation">Dom Manipulation (cont.)</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-control-flow/05promises">Promises</a></td>
-<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-classes-2022">Javascript Classes</a></td>
-<td><a href="https://github.com/SEIRFX-621">TBD lab</a></td>
+<td><a href="https://github.com/SEIRFX-621">Promises Exercise</a></td>
+<td><a href="https://github.com/SEIRFX-621/dom-temperature-converter">DOM Temperature Converter</a> (Due Next Tuesday)</td>
 </tr>
  
 <tr>
 <td><strong>Wednesday</strong><br />(7/13)</td>
-
-
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-scopes">JS SCoping</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/00readme/fetch">API Fetch</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/additional-topics/ajax-async-await">Async/await</a></td>
+<td><a href="https://github.com/SEIRFX-621/fetch-reddit-slideshow">Fetch Reddit Slideshow</a></td>
 </tr>
 
 <tr>
 <td><strong>Saturday</strong><br />(7/16)</td>
-
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-classes-2022">Javascript Classes</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/01-js-oop-2019">Javascript OOP</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/01readme-2">Inheritance</a> | <a href="https://romebell.gitbook.io/seirfx-621/javascript/01readme-2/02prototypalinheritance">Prototypal Inheritance</a> | <a href="https://romebell.gitbook.io/seirfx-621/javascript/01readme-2/04es6classes">ES6 Inheritance</a></td>
+<td><a href="TBD">TBD (maybe OOP Lab)</a></td>
 </tr>
 
 </table>
@@ -324,6 +329,13 @@
 <tr><td>Date Assigned</td>
 <td>Deliverable</td>
 <td>Final Due Date</td>
+<tr><td>7/12</td>
+<td><a href="https://github.com/SEIRFX-621/dom-temperature-converter">DOM Temperature Converter</a></td>
+<td>7/16</td>
+</tr>
+<tr><td>7/16</td>
+<td><a href="TBD">TBD</a></td>
+<td>7/19</td>
 </tr>
 </thead>
 <tbody>
