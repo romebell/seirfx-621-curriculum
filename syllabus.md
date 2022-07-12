@@ -281,7 +281,7 @@
 </table>
 
 
-## Unit 1: `Week 4 - JS continued(Promises and classes)!`
+## Unit 1: `Week 4 - JS continued(API, Classes, OOP, Scoping)!`
 
 <table>
 <thead>
