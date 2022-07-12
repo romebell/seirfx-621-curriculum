@@ -248,7 +248,7 @@
 <tbody>
 <tr><td>7/6</td>
 <td><a href="https://github.com/SEIRFX-621/functions-deliverable">Functions Deliveriable</a></td>
-<td>7/10</td>
+<td>7/12</td>
 </tr>
 </table>
 
@@ -278,4 +278,53 @@
  <td> <a href="https://generalassembly.zoom.us/rec/share/jOtQHs2FPezLdQu0URpHYkC8DY1OonqW_uKR0vSumM1Io2gi0SE7imOB_BxAsKSI.Yc5mJx4u7lHSPjR9?startTime=1657392749000">Timing Functions</a> | <a href="https://generalassembly.zoom.us/rec/share/jOtQHs2FPezLdQu0URpHYkC8DY1OonqW_uKR0vSumM1Io2gi0SE7imOB_BxAsKSI.Yc5mJx4u7lHSPjR9?startTime=1657408525000">DOM and Events</a></td>
  <td>Passcode: PdAR?51T </td> 
 </tr>
+</table>
+
+
+## Unit 1: `Week 4 - JS continued(Promises and classes)!`
+
+<table>
+<thead>
+<tr>
+<td>Date</td>
+<th>Module 1</th>
+<th>Module 2</th>
+<th>Module 3</th>
+<th>Today's Lab</th>
+</tr>
+</thead>
+<tbody>
+ 
+<tr>
+<td><strong>Tuesday</strong><br />(7/12)</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/02more-manipulation">Dom Manipulation (cont.)</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-control-flow/05promises">Promises</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-classes-2022">Javascript Classes</a></td>
+<td><a href="https://github.com/SEIRFX-621">TBD lab</a></td>
+</tr>
+ 
+<tr>
+<td><strong>Wednesday</strong><br />(7/13)</td>
+
+
+</tr>
+
+<tr>
+<td><strong>Saturday</strong><br />(7/16)</td>
+
+</tr>
+
+</table>
+
+### Week 4 - Deliverables
+
+<p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Deliverable</td>
+<td>Final Due Date</td>
+</tr>
+</thead>
+<tbody>
 </table>
