@@ -329,6 +329,9 @@
 <tr><td>Date Assigned</td>
 <td>Deliverable</td>
 <td>Final Due Date</td>
+<tr><td>7/9</td>
+<td><a href="https://github.com/SEIRFX-621/js-muscle-memory">JS Muscle Memory</a></td>
+<td>7/12</td>
 <tr><td>7/12</td>
 <td><a href="https://github.com/SEIRFX-621/dom-temperature-converter">DOM Temperature Converter</a></td>
 <td>7/16</td>
