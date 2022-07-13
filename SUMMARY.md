@@ -80,6 +80,7 @@
     * [Resources](javascript/01readme-2/05resources.md)
   * [Custom Node Modules](javascript/js-custom-node-module.md)
   * [Additional Topics](javascript/additional-topics/README.md)
+    * [Async/Await condensed](javascript/additional-topics/async-await.md)
     * [AJAX, Fetch, and Async/Await](javascript/additional-topics/ajax-async-await.md)
     * [AJAX w/JSON and Localstorage](javascript/additional-topics/ajax-localstorage/README.md)
       * [AJAX w/JSON](javascript/additional-topics/ajax-localstorage/02ajax.md)
