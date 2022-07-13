@@ -1,10 +1,8 @@
 # Async/Await
  
-Async/await is a syntax for working with promises that many feel is the easiest and most flexible. This is a generally new syntax supported in browser but has lived through various iterations in node.js and is present in other languages like c#.
+Async/await is a syntax for working with promises that many feel is the easiest and most flexible. This is a new syntax supported in browser but has lived through various iterations in node.js and is present in other languages like c#.
  
-How async/await works is that you will declare a function as an async function and this function will be awaited using the await keyword when you want to invoke the function in question.
- 
-You can only await a function that has been declared using the async keyword.
+How async/await requires that you declare a function as an async function and this function will be awaited using the await keyword when you want to invoke the function in question.
  
 You’ll create a function that is intended to perform some asynchronous task and when you are ready to receive the results of that asynchronous function you would await that function in your code. Async functions will return a value and you can assign that value to a variable like you would with any other function that returns a value.
  
@@ -13,6 +11,7 @@ You’ll create a function that is intended to perform some asynchronous task an
 1. Be able to explain what async/await is and when you'd want to use it.
 2. How to declare async functions.
 3. how to await the results of your async functions.
+4. Where you can use async/await
  
 ## Declaring an async function
  
@@ -41,9 +40,9 @@ const result = await ourFirstAsyncFunction();
 console.log(result);
 ```
  
-Something to note at this point. If your async function has a delay, say it is waiting for some API to return some results, our code will pause at the line our await statement is used for.
+Something to note at this point. If your async function has a delay, say it is waiting for some API to return some results, our code will pause at the line our await statement is executed on.
  
-Another note, await can only be used in the context of an async function, you will get an error if you attempt to use await inside of the context of a function that has not been declared using the async keyword. There is an exception where you can use await at the top level of a module, however for the purposes of this unit we will not be covering modules at this time, just be aware you can use await outside of an async function if you are at the root level of a module, this is due to the asynchronous nature of javascript modules. 
+Another note, await can only be used in the context of an async function, you will get an error if you attempt to use await inside of the context of a function that has not been declared using the async keyword. There is an exception where you can use await at the top level of a module, however for the purposes of this unit we will not be considering this scenarios. Be aware you can use await outside of an async function if you are at the root level of a module, this is due to the asynchronous nature of javascript modules, a topic we will cover in unit 2 with node.js.
  
 ### example of using await with a fetch
  
@@ -70,7 +69,7 @@ const users = await fetchUsers();
 console.log(users)
 ```
  
-notice how our fetchUsers functions retrieves users and returns them to our new variable users.
+notice how our fetchUsers function retrieves users and returns them to our new variable users.
 
 ## Resources
 
