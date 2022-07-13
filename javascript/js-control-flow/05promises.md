@@ -164,7 +164,7 @@ You’d want to use Promise.all instead of changing call backs, as changing call
 
 This code does the same thing as our code above, however we are not using promise.all and instead using just callbacks. 
 
-```js
+```javascript
 const promise1 = Promise.resolve('hello');
 const promise2 = Promise.resolve({
     text: 'this doesn\'t look like a promise?'
@@ -199,7 +199,7 @@ promise1.then((value1) => {
 
 Notice that catch can also be used with promise.all. An important thing to note when using catch and Promise.all is that as soon as any of your promises in your promise collection resolve with a rejection, the promise.all method will immediately jump to the catch statement and no other promises will resolve.
 
-```js
+```javascript
 const promise1 = Promise.resolve('hello');
 const promise2 = {
     text: 'this doesn\'t look like a promise?'
