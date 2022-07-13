@@ -160,7 +160,7 @@ Note that if you pass a non-promise into your collection of promises that promis
 
 You’d want to use Promise.all instead of changing call backs, as changing callbacks with promises can become extremely tedious and difficult to maintain over time, as well, you will end up writing much more boilerplate code than is needed.
 
-### Out Promise.all() basic example but with callbacks
+### Promise.all() basic example but with callbacks
 
 This code does the same thing as our code above, however we are not using promise.all and instead using just callbacks. 
 
