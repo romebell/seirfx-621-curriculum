@@ -75,4 +75,5 @@ notice how our fetchUsers functions retrieves users and returns them to our new 
 ## Resources
 
 [Mozilla async](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+
 [async/await tutorial](https://javascript.info/async-await)
