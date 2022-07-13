@@ -307,7 +307,7 @@
 <td><strong>Wednesday</strong><br />(7/13)</td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-scopes">JS Scoping</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/00readme/fetch">API Fetch</a></td>
-<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/additional-topics/async-await.md">Async/await</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/additional-topics/async-await">Async/await</a></td>
 <td><a href="https://github.com/SEIRFX-621/fetch-reddit-slideshow">Fetch Reddit Slideshow</a></td>
 </tr>
 
