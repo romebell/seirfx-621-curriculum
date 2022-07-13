@@ -16,7 +16,7 @@ You’ll create a function that is intended to perform some asynchronous task an
  
 ## Declaring an async function
  
-```js
+```javascript
 async function ourFirstAsyncFunction() {
     return 'hello, this is our first await function!!!';
 }
@@ -24,7 +24,7 @@ async function ourFirstAsyncFunction() {
  
 now you can resolve your async function in the same way you would resolve a promise.
  
-```js
+```javascript
 ourFirstAsyncFunction().then((value) => {
     console.log(value);
 })
@@ -36,7 +36,7 @@ Notice unlike with promises, we have to invoke our async function to use the 'th
  
 We wouldn't normally want to invoke our async function to return a promise and then use the 'then' method to resolve our promise. We can do all of this in a cleaner syntax and that syntax is our await syntax. See below how we could have resolved our async function from above using await.
  
-```js
+```javascript
 const result = await ourFirstAsyncFunction();
 console.log(result);
 ```
@@ -47,7 +47,7 @@ Another note, await can only be used in the context of an async function, you wi
  
 ### example of using await with a fetch
  
-```js
+```javascript
 async function printUsers() {
     const endpoint = 'https://jsonplaceholder.typicode.com/users';
     let users = await fetch(endpoint).then(res => res.json());
@@ -59,7 +59,7 @@ printUsers();
  
 notice how we used our await method on our fetch call. There are a number of native javascript methods that have asynchronous versions that will allow you to use an await like we did with fetch. Also notice we are not returning anything from printUsers(), this is why we did not need to use an await when invoking our printUsers function. If we were to also return a value from our await function, we would then want to await the results of printUsers. See the code snippet below for an example.
  
-```js
+```javascript
 async function fetchUsers() {
     const endpoint = 'https://jsonplaceholder.typicode.com/users';
     let users = await fetch(endpoint).then(res => res.json());
