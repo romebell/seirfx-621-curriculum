@@ -343,3 +343,33 @@
 </thead>
 <tbody>
 </table>
+
+
+### Class Recordings 
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Recording One</td>
+<td>Recording Two</td>
+<td>Passcode</td>
+</tr>
+</thead>
+ 
+<tr><td>7/12</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/3xjhKAKenomu6c1e1sR83j-wAQcZ0_5ekJBX2dOd_OzQCnBlYoLbQqeigxckZ5g-.bkOIMOu0P_MyFkHC?startTime=1657676404000">countScoresJs</a></td>
+<td><a href="https://generalassembly.zoom.us/rec/share/3xjhKAKenomu6c1e1sR83j-wAQcZ0_5ekJBX2dOd_OzQCnBlYoLbQqeigxckZ5g-.bkOIMOu0P_MyFkHC?startTime=1657678587000">Dom Manipultation</a> | <a href="https://generalassembly.zoom.us/rec/share/3xjhKAKenomu6c1e1sR83j-wAQcZ0_5ekJBX2dOd_OzQCnBlYoLbQqeigxckZ5g-.bkOIMOu0P_MyFkHC?startTime=1657685560000">Promises</a> </td>
+ <td>Passcode: PdY+&2v1</td> 
+</tr>
+ 
+<!--  <tr><td>7/13</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/R2XxttNt8jfotuprchC-twUOWQEq3hQDFqibufGuyH_m7mFTr8ElMV5mjNXeJ_EI.SNGr7QsrWaWdunoi?startTime=1657158618000">Pair Programming</a> |  <a href="https://generalassembly.zoom.us/rec/share/PGJXbIx8yHom4WwSbGYoib70X_aJD004e9jBWaZRPBkXmI0rswpw90-Z_VRWf5AM.DqPSbrJ43g96iySf?startTime=1657167554000">Loop Lab</a></td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/PGJXbIx8yHom4WwSbGYoib70X_aJD004e9jBWaZRPBkXmI0rswpw90-Z_VRWf5AM.DqPSbrJ43g96iySf?startTime=1657167554000">Functions</a></td>
+ <td>Passcode: *.%ZWi49</td> 
+</tr> -->
+ 
+<!--  <tr><td>7/9</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/jOtQHs2FPezLdQu0URpHYkC8DY1OonqW_uKR0vSumM1Io2gi0SE7imOB_BxAsKSI.Yc5mJx4u7lHSPjR9?startTime=1657386750000">Functions Lab</a> | <a href="https://generalassembly.zoom.us/rec/share/jOtQHs2FPezLdQu0URpHYkC8DY1OonqW_uKR0vSumM1Io2gi0SE7imOB_BxAsKSI.Yc5mJx4u7lHSPjR9?startTime=1657390710000">Functions Part 2</a></td>
+ <td> <a href="https://generalassembly.zoom.us/rec/share/jOtQHs2FPezLdQu0URpHYkC8DY1OonqW_uKR0vSumM1Io2gi0SE7imOB_BxAsKSI.Yc5mJx4u7lHSPjR9?startTime=1657392749000">Timing Functions</a> | <a href="https://generalassembly.zoom.us/rec/share/jOtQHs2FPezLdQu0URpHYkC8DY1OonqW_uKR0vSumM1Io2gi0SE7imOB_BxAsKSI.Yc5mJx4u7lHSPjR9?startTime=1657408525000">DOM and Events</a></td>
+ <td>Passcode: PdAR?51T </td> 
+</tr> -->
+</table>
