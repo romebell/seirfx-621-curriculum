@@ -43,40 +43,43 @@ Right now, our object doesn't do anything.  Let's have it do some stuff;
 
 ```javascript
 class Person {
-	greet(){
-		console.log('hi!');
-	}
-};
+  greet() {
+    console.log("hi!");
+  }
+}
 const me = new Person();
 me.greet();
+
 ```
 
 These methods can of course take parameters:
 
 ```javascript
 class Person {
-	greet(otherPerson){
-		console.log('hi ' + otherPerson + '!');
-	}
-};
+  greet(otherPerson) {
+    console.log("hi " + otherPerson + "!");
+  }
+}
 const me = new Person();
-me.greet('bob');
+me.greet("bob");
+
 ```
 
 If we have multiple methods, don't put commas between them:
 
 ```javascript
 class Person {
-	greet(otherPerson){
-		console.log('hi ' + otherPerson + '!');
-	}
-	jump(){
-		console.log('weeee!');
-	}
-};
+  greet(otherPerson) {
+    console.log("hi " + otherPerson + "!");
+  }
+  jump() {
+    console.log("weeee!");
+  }
+}
 const me = new Person();
-me.greet('bob');
+me.greet("bob");
 me.jump();
+
 ```
 
 ## Set properties on an instance of a class
@@ -85,36 +88,38 @@ If we log the instances of our class, we'll see they don't have any properties:
 
 ```javascript
 class Person {
-	greet(otherPerson){
-		console.log('hi ' + otherPerson + '!');
-	}
-	jump(){
-		console.log('weeee!');
-	}
-};
+  greet(otherPerson) {
+    console.log("hi " + otherPerson + "!");
+  }
+  jump() {
+    console.log("weeee!");
+  }
+}
 const me = new Person();
 console.log(me);
+
 ```
 
 Let's add some properties with a constructor function.  This is a function that gets called once, each time an object is created:
 
 ```javascript
 class Person {
-	constructor(){
-		this.legs = 2;
-		this.arms = 2;
-		this.eyes = 'blue';
-		this.hair = 'blonde';
-	}
-	greet(otherPerson){
-		console.log('hi ' + otherPerson + '!');
-	}
-	jump(){
-		console.log('weeee!');
-	}
-};
+  constructor() {
+    this.legs = 2;
+    this.arms = 2;
+    this.eyes = "blue";
+    this.hair = "blonde";
+  }
+  greet(otherPerson) {
+    console.log("hi " + otherPerson + "!");
+  }
+  jump() {
+    console.log("weeee!");
+  }
+}
 const me = new Person();
 console.log(me);
+
 ```
 
 ## Make an instance of each class customizable
@@ -123,23 +128,22 @@ Of course, our constructor function can take params which we can use to alter th
 
 ```javascript
 class Person {
-	constructor(name, age, eyes, hair){
-		this.legs = 2;
-		this.arms = 2;
-		this.name = name;
-		this.age = age;
-		this.eyes = eyes;
-		this.hair = hair;
-	}
-	greet(otherPerson){
-		console.log('hi ' + otherPerson + '!');
-	}
-	jump(){
-		console.log('weeee!');
-	}
-};
-const me = new Person('Matt', 36, 'blue', 'blonde');
+  constructor() {
+    this.legs = 2;
+    this.arms = 2;
+    this.eyes = "blue";
+    this.hair = "blonde";
+  }
+  greet(otherPerson) {
+    console.log("hi " + otherPerson + "!");
+  }
+  jump() {
+    console.log("weeee!");
+  }
+}
+const me = new Person();
 console.log(me);
+
 ```
 
 ## Create methods to alter the properties of an instance
@@ -155,28 +159,29 @@ But it's a nice practice to define a method that will alter that:
 
 ```javascript
 class Person {
-	constructor(name, age, eyes, hair){
-		this.legs = 2;
-		this.arms = 2;
-		this.name = name;
-		this.age = age;
-		this.eyes = eyes;
-		this.hair = hair;
-	}
-	setHair(hairColor){
-		this.hair = hairColor;
-	}
-	greet(otherPerson){
-		console.log('hi ' + otherPerson + '!');
-	}
-	jump(){
-		console.log('weeee!');
-	}
-};
-const me = new Person('Matt', 36, 'blue', 'blonde');
+  constructor(name, age, eyes, hair) {
+    this.legs = 2;
+    this.arms = 2;
+    this.name = name;
+    this.age = age;
+    this.eyes = eyes;
+    this.hair = hair;
+  }
+  setHair(hairColor) {
+    this.hair = hairColor;
+  }
+  greet(otherPerson) {
+    console.log("hi " + otherPerson + "!");
+  }
+  jump() {
+    console.log("weeee!");
+  }
+}
+const me = new Person("Matt", 36, "blue", "blonde");
 console.log(me);
-me.setHair('red');
+me.setHair("red");
 console.log(me);
+
 ```
 
 - This way, everything is done with methods
@@ -188,29 +193,27 @@ Sometimes we want to have a "parent" class that will have some basic attributes 
 
 ```javascript
 class Person {
-	constructor(name, age, eyes, hair){
-		this.legs = 2;
-		this.arms = 2;
-		this.name = name;
-		this.age = age;
-		this.eyes = eyes;
-		this.hair = hair;
-	}
-	setHair(hairColor){
-		this.hair = hairColor;
-	}
-	greet(otherPerson){
-		console.log('hi ' + otherPerson + '!');
-	}
-	jump(){
-		console.log('weeee!');
-	}
-};
+  constructor(name, age, eyes, hair) {
+    this.legs = 2;
+    this.arms = 2;
+    this.name = name;
+    this.age = age;
+    this.eyes = eyes;
+    this.hair = hair;
+  }
+  setHair(hairColor) {
+    this.hair = hairColor;
+  }
+  greet(otherPerson) {
+    console.log("hi " + otherPerson + "!");
+  }
+  jump() {
+    console.log("weeee!");
+  }
+}
 
-class Hero extends Person {
-
-};
-const spiderman = new Hero('Peter Parker', 16, 'blue', 'black')
+class Hero extends Person {}
+const spiderman = new Hero("Peter Parker", 16, "blue", "black");
 console.log(spiderman);
 ```
 
@@ -218,11 +221,11 @@ We can now add additional functionality:
 
 ```javascript
 class Hero extends Person {
-	fly(){
-		console.log('I can scale buildings!');
-	}
-};
-const spiderman = new Hero('Peter Parker', 16, 'blue', 'black')
+  fly() {
+    console.log("I can scale buildings!");
+  }
+}
+const spiderman = new Hero("Peter Parker", 16, "blue", "black");
 spiderman.fly();
 ```
 
@@ -230,33 +233,33 @@ And we can override previous functionality:
 
 ```javascript
 class Hero extends Person {
-	fly(){
-		console.log('I can scale buildings!');
-	}
-	greet(otherPerson){
-		console.log('Greetings ' + otherPerson);
-	}
-};
-const spiderman = new Hero('Peter Parker', 16, 'blue', 'black')
-spiderman.greet('Bob');
+  fly() {
+    console.log("I can scale buildings!");
+  }
+  greet(otherPerson) {
+    console.log("Greetings " + otherPerson);
+  }
+}
+const spiderman = new Hero("Peter Parker", 16, "blue", "black");
+spiderman.greet("Bob");
 ```
 
 We can even reference the parent class' method and extend its original functionality:
 
 ```javascript
 class Hero extends Person {
-	fly(){
-		console.log('I can scale buildings!');
-	}
-	greet(otherPerson){
-		console.log('Greetings ' + otherPerson);
-	}
-	jump(){
-		super.jump();
-		this.fly();
-	}
-};
-const spiderman = new Hero('Peter Parker', 16, 'blue', 'black')
+  fly() {
+    console.log("I can scale buildings!");
+  }
+  greet(otherPerson) {
+    console.log("Greetings " + otherPerson);
+  }
+  jump() {
+    super.jump();
+    this.fly();
+  }
+}
+const spiderman = new Hero("Peter Parker", 16, "blue", "black");
 spiderman.jump();
 ```
 
@@ -264,22 +267,31 @@ This is most useful on the constructor:
 
 ```javascript
 class Hero extends Person {
-	constructor(name, age, eyes, hair){
-		super(name, age, eyes, hair);
-		this.superPowers = ['flight', 'superhuman strength', 'x-ray vision', 'heat vision', 'cold breath', 'super-speed', 'enhanced hearing', 'nigh-invulnerability']
-	}
-	fly(){
-		console.log('I can scale buildings!');
-	}
-	greet(otherPerson){
-		console.log('Greetings ' + otherPerson);
-	}
-	jump(){
-		super.jump();
-		this.fly();
-	}
-};
-const spiderman = new Hero('Peter Parker', 16, 'blue', 'black')
+  constructor(name, age, eyes, hair) {
+    super(name, age, eyes, hair);
+    this.superPowers = [
+      "flight",
+      "superhuman strength",
+      "x-ray vision",
+      "heat vision",
+      "cold breath",
+      "super-speed",
+      "enhanced hearing",
+      "nigh-invulnerability",
+    ];
+  }
+  fly() {
+    console.log("I can scale buildings!");
+  }
+  greet(otherPerson) {
+    console.log("Greetings " + otherPerson);
+  }
+  jump() {
+    super.jump();
+    this.fly();
+  }
+}
+const spiderman = new Hero("Peter Parker", 16, "blue", "black");
 console.log(spiderman);
 ```
 
@@ -289,13 +301,13 @@ Sometimes you want to define properties that pertain to the class as a whole, no
 
 ```javascript
 class Person {
-	static eyeColors(){
-		return ['blue', 'green', 'brown']
-	}
-	//rest of class definition here...
+  static eyeColors() {
+    return ["blue", "green", "brown"];
+  }
+  //rest of class definition here...
 }
 //more code...
-const spiderman = new Hero('Peter Parker', 16, Person.eyeColors()[0], 'black');
+const spiderman = new Hero("Peter Parker", 16, Person.eyeColors()[0], "black");
 ```
 
 ## Create a factory
@@ -307,24 +319,24 @@ const spiderman = new Hero('Peter Parker', 16, Person.eyeColors()[0], 'black');
 
 ```javascript
 class Car {
-	constructor(serialNumber){
-		this.serialNumber = serialNumber;
-	}
-	drive(){
-		console.log('Vroom');
-	}
+  constructor(serialNumber) {
+    this.serialNumber = serialNumber;
+  }
+  drive() {
+    console.log("Vroom");
+  }
 }
 const factory = {
-	cars: [],
-	generateCar(){
-		const newCar = new Car(this.cars.length);
-		this.cars.push(newCar);
-		return newCar;
-	},
-	findCar(index){
-		return this.cars[index];
-	}
-}
+  cars: [],
+  generateCar() {
+    const newCar = new Car(this.cars.length);
+    this.cars.push(newCar);
+    return newCar;
+  },
+  findCar(index) {
+    return this.cars[index];
+  },
+};
 
 factory.generateCar();
 factory.generateCar();
