@@ -316,7 +316,7 @@
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-classes-2022">Javascript Classes</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/01-js-oop-2019">Javascript OOP</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/javascript/01readme-2">Inheritance</a> | <a href="https://romebell.gitbook.io/seirfx-621/javascript/01readme-2/02prototypalinheritance">Prototypal Inheritance</a> | <a href="https://romebell.gitbook.io/seirfx-621/javascript/01readme-2/04es6classes">ES6 Inheritance</a></td>
-<td><a href="TBD">TBD (maybe OOP Lab)</a></td>
+<td><a href="https://github.com/SEIRFX-621/oop-apartments">OOP Apartments</a></td> | <td><a href="https://github.com/SEIRFX-621/oop-inheritance-car">OOP Inheritance</a></td>
 </tr>
 
 </table>
