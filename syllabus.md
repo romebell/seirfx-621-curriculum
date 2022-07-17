@@ -337,8 +337,8 @@
 <td>7/16</td>
 </tr>
 <tr><td>7/16</td>
-<td><a href="TBD">TBD</a></td>
-<td>7/19</td>
+<td><a href="https://github.com/SEIRFX-621/oop-apartments">OOP Apartments</a> | <a href="https://github.com/SEIRFX-621/oop-inheritance-car">OOP Inheritance Cars</a></td>
+<td>7/20</td>
 </tr>
 </thead>
 <tbody>
