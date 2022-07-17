@@ -367,9 +367,9 @@
  <td>Passcode: +2sGK19^</td> 
 </tr>
  
-<!--  <tr><td>7/9</td>
-<td><a href="https://generalassembly.zoom.us/rec/share/jOtQHs2FPezLdQu0URpHYkC8DY1OonqW_uKR0vSumM1Io2gi0SE7imOB_BxAsKSI.Yc5mJx4u7lHSPjR9?startTime=1657386750000">Functions Lab</a> | <a href="https://generalassembly.zoom.us/rec/share/jOtQHs2FPezLdQu0URpHYkC8DY1OonqW_uKR0vSumM1Io2gi0SE7imOB_BxAsKSI.Yc5mJx4u7lHSPjR9?startTime=1657390710000">Functions Part 2</a></td>
- <td> <a href="https://generalassembly.zoom.us/rec/share/jOtQHs2FPezLdQu0URpHYkC8DY1OonqW_uKR0vSumM1Io2gi0SE7imOB_BxAsKSI.Yc5mJx4u7lHSPjR9?startTime=1657392749000">Timing Functions</a> | <a href="https://generalassembly.zoom.us/rec/share/jOtQHs2FPezLdQu0URpHYkC8DY1OonqW_uKR0vSumM1Io2gi0SE7imOB_BxAsKSI.Yc5mJx4u7lHSPjR9?startTime=1657408525000">DOM and Events</a></td>
- <td>Passcode: PdAR?51T </td> 
-</tr> -->
+ <tr><td>7/16</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/SGIc5q67axAINxfNo6JSwYS8HCHFlDSUt5iWJ9mjGmQA6zo7IoZBoEho-3mFAauM.5tMUEBx7k0humCMk?startTime=1658000539000">Js Classes</a> 
+ <td> <a href="https://generalassembly.zoom.us/rec/share/SGIc5q67axAINxfNo6JSwYS8HCHFlDSUt5iWJ9mjGmQA6zo7IoZBoEho-3mFAauM.5tMUEBx7k0humCMk?startTime=1658011535000">OOP</a></td>
+ <td>Passcode: 4E..%=EN </td> 
+</tr>
 </table>
