@@ -2,7 +2,7 @@
  
 Async/await is a syntax for working with promises that many feel is the easiest and most flexible. This is a new syntax supported in browser but has lived through various iterations in node.js and is present in other languages like c#.
  
-How async/await requires that you declare a function as an async function and this function will be awaited using the await keyword when you want to invoke the function in question.
+Sync/await requires that you declare a function as an async function and this function will be awaited using the await keyword when you want to invoke the function in question.
  
 You’ll create a function that is intended to perform some asynchronous task and when you are ready to receive the results of that asynchronous function you would await that function in your code. Async functions will return a value and you can assign that value to a variable like you would with any other function that returns a value.
  
@@ -42,7 +42,7 @@ console.log(result);
  
 Something to note at this point. If your async function has a delay, say it is waiting for some API to return some results, our code will pause at the line our await statement is executed on.
  
-Another note, await can only be used in the context of an async function, you will get an error if you attempt to use await inside of the context of a function that has not been declared using the async keyword. There is an exception where you can use await at the top level of a module, however for the purposes of this unit we will not be considering this scenarios. Be aware you can use await outside of an async function if you are at the root level of a module, this is due to the asynchronous nature of javascript modules, a topic we will cover in unit 2 with node.js.
+Another note, await can only be used in the context of an async function, you will get an error if you attempt to use await inside of the context of a function that has not been declared using the async keyword. There is an exception where you can use await at the top level of a module, however for the purposes of this unit we will not be considering this scenario. Be aware you can use await outside of an async function if you are at the root level of a module, this is due to the asynchronous nature of javascript modules, a topic we will cover in unit 2 with node.js.
  
 ### example of using await with a fetch
  
