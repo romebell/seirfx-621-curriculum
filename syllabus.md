@@ -373,3 +373,39 @@
  <td>Passcode: 4E..%=EN </td> 
 </tr>
 </table>
+
+## Unit 1: `Week 5 - DOM Labs, HTML Canvas Project 1)!`
+
+<table>
+<thead>
+<tr>
+<td>Date</td>
+<th>Module 1</th>
+<th>Module 2</th>
+<th>Module 3</th>
+<th>Today's Lab</th>
+</tr>
+</thead>
+<tbody>
+ 
+<tr>
+<td><strong>Tuesday</strong><br />(7/19)</td>
+<td><a href="https://github.com/SEIRFX-621/lord-of-the-rings">Lab: Lord of the Rings</a></td>
+<td><a href="https://github.com/SEIRFX-621/lord-of-the-rings">Lab Cont...</a></td>
+<td><a href="https://github.com/SEIRFX-621/lord-of-the-rings">Lab Cont...</a></td>
+<td><a href="https://github.com/SEIRFX-621/lord-of-the-rings">Lab Cont...</a></td>
+</tr>
+ 
+<tr>
+<td><strong>Wednesday</strong><br />(7/20)</td>
+<td><a href="https://github.com/SEIRFX-621/js-clock-intervals">Lab: JS Clock Interval</a></td>
+ <td><a href="https://github.com/SEIRFX-621/js-clock-intervals">Lab...</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-canvas">HTML Canvas</a></td>
+</tr>
+
+<tr>
+<td><strong>Saturday</strong><br />(7/)</td>
+<td><a href="https://github.com/SEIRFX-621/canvas-shrek-crawler">Shrek Canvas Crawler</a></td>
+</tr>
+
+</table>
