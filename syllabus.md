@@ -413,3 +413,32 @@
 </tr>
 
 </table>
+
+### Class Recordings 
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Recording One</td>
+<td>Recording Two</td>
+<td>Passcode</td>
+</tr>
+</thead>
+ 
+<tr><td>7/19</td>
+<td><No Recording </td>
+<td> No Recording </td>
+<td>Passcode: NO Recording</td> 
+</tr>
+
+<!--  <tr><td>7/20</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/6cCfhpzd_T_QgpUbeyR19YmjPZCqHafiPyNI-x-kLEarjdXE4KM0XesNI9xcn8mr.BA4T289PLclSvKyu?startTime=1657762703000">Fetch</a> |  <a href="https://generalassembly.zoom.us/rec/share/6cCfhpzd_T_QgpUbeyR19YmjPZCqHafiPyNI-x-kLEarjdXE4KM0XesNI9xcn8mr.BA4T289PLclSvKyu?startTime=1657769763000">Async Await</a></td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/6cCfhpzd_T_QgpUbeyR19YmjPZCqHafiPyNI-x-kLEarjdXE4KM0XesNI9xcn8mr.BA4T289PLclSvKyu?startTime=1657773042000">Namespaces</a></td>
+ <td>Passcode: NO Recording</td>  
+</tr> -->
+ 
+<!--  <tr><td>7/23</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/SGIc5q67axAINxfNo6JSwYS8HCHFlDSUt5iWJ9mjGmQA6zo7IoZBoEho-3mFAauM.5tMUEBx7k0humCMk?startTime=1658000539000">Js Classes</a> 
+ <td> <a href="https://generalassembly.zoom.us/rec/share/SGIc5q67axAINxfNo6JSwYS8HCHFlDSUt5iWJ9mjGmQA6zo7IoZBoEho-3mFAauM.5tMUEBx7k0humCMk?startTime=1658011535000">OOP</a></td>
+ <td>Passcode: 4E..%=EN </td> 
+</tr> -->
+</table>
