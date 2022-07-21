@@ -400,7 +400,7 @@
 <td><strong>Wednesday</strong><br />(7/20)</td>
 <td><a href="https://github.com/SEIRFX-621/js-clock-intervals">Lab: JS Clock Interval</a></td>
  <td><a href="https://github.com/SEIRFX-621/js-clock-intervals">Lab...</a></td>
-<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-canvas">HTML Canvas</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/javascript/js-canvas">HTML Canvas</a> | <a href="https://github.com/SEIRFX-621/html-canvas-class-notes">Lecture notes</a></td>
 </tr>
 
 <tr>
