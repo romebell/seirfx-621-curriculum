@@ -430,11 +430,11 @@
 <td>Passcode: NO Recording</td> 
 </tr>
 
-<!--  <tr><td>7/20</td>
-<td><a href="https://generalassembly.zoom.us/rec/share/6cCfhpzd_T_QgpUbeyR19YmjPZCqHafiPyNI-x-kLEarjdXE4KM0XesNI9xcn8mr.BA4T289PLclSvKyu?startTime=1657762703000">Fetch</a> |  <a href="https://generalassembly.zoom.us/rec/share/6cCfhpzd_T_QgpUbeyR19YmjPZCqHafiPyNI-x-kLEarjdXE4KM0XesNI9xcn8mr.BA4T289PLclSvKyu?startTime=1657769763000">Async Await</a></td>
- <td><a href="https://generalassembly.zoom.us/rec/share/6cCfhpzd_T_QgpUbeyR19YmjPZCqHafiPyNI-x-kLEarjdXE4KM0XesNI9xcn8mr.BA4T289PLclSvKyu?startTime=1657773042000">Namespaces</a></td>
- <td>Passcode: NO Recording</td>  
-</tr> -->
+ <tr><td>7/20</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/9zFMUYirbc1jCzsKQyjlCapeBWzJrCf48asMgUEwFq1Ww1Eetkl_6tszfBkh_wsl.truAD-TMS4kss_9o?startTime=1658377924000">HTML Canvas</a></td>
+ <td>No Recording</td>
+ <td>Passcode: P0uB3?YeY</td>  
+</tr>
  
 <!--  <tr><td>7/23</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/SGIc5q67axAINxfNo6JSwYS8HCHFlDSUt5iWJ9mjGmQA6zo7IoZBoEho-3mFAauM.5tMUEBx7k0humCMk?startTime=1658000539000">Js Classes</a> 
