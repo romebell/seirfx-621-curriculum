@@ -433,7 +433,7 @@
  <tr><td>7/20</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/9zFMUYirbc1jCzsKQyjlCapeBWzJrCf48asMgUEwFq1Ww1Eetkl_6tszfBkh_wsl.truAD-TMS4kss_9o?startTime=1658377924000">HTML Canvas</a></td>
  <td>No Recording</td>
- <td>Passcode: P0uB3?YeY</td>  
+ <td>Passcode: 0uB3?YeY</td>
 </tr>
  
 <!--  <tr><td>7/23</td>
