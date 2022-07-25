@@ -436,9 +436,10 @@
  <td>Passcode: 0uB3?YeY</td>
 </tr>
  
-<!--  <tr><td>7/23</td>
-<td><a href="https://generalassembly.zoom.us/rec/share/SGIc5q67axAINxfNo6JSwYS8HCHFlDSUt5iWJ9mjGmQA6zo7IoZBoEho-3mFAauM.5tMUEBx7k0humCMk?startTime=1658000539000">Js Classes</a> 
- <td> <a href="https://generalassembly.zoom.us/rec/share/SGIc5q67axAINxfNo6JSwYS8HCHFlDSUt5iWJ9mjGmQA6zo7IoZBoEho-3mFAauM.5tMUEBx7k0humCMk?startTime=1658011535000">OOP</a></td>
- <td>Passcode: 4E..%=EN </td> 
-</tr> -->
+ <tr><td>7/23</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/vS9AIvliBr9psnx9nJLsMODLy2w52nDrLV9G_deo7NNvQybuSS0ATgtR5dHpe-PS.H1MzKo4x9zO5H8sA?startTime=1658596294000"
+>Canvas Crawler</a> 
+ <td> <a href="https://generalassembly.zoom.us/rec/share/vS9AIvliBr9psnx9nJLsMODLy2w52nDrLV9G_deo7NNvQybuSS0ATgtR5dHpe-PS.H1MzKo4x9zO5H8sA?startTime=1658613518000">Project One Overview</a></td>
+ <td>Passcode: TJg7p!gN </td> 
+</tr>
 </table>
