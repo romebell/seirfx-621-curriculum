@@ -404,7 +404,7 @@
 </tr>
 
 <tr>
-<td><strong>Saturday</strong><br />(7/)</td>
+<td><strong>Saturday</strong><br />(7/23)</td>
 <td><a href="https://github.com/SEIRFX-621/canvas-shrek-crawler">Shrek Canvas Crawler</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/projects/project-1">Project 1</a></td>
 
