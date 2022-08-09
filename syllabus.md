@@ -409,9 +409,7 @@
 <td><a href="https://romebell.gitbook.io/seirfx-621/projects/project-1">Project 1</a></td>
 
 <td><a href="">Project 1</a></td>
-
 </tr>
-
 </table>
 
 ### Class Recordings 
@@ -445,7 +443,60 @@
  
 <table>
  <tr><td>8/3</td>
- <td><a href="https://generalassembly.zoom.us/rec/share/4xdHjWoR87bnMxTkaI5vMYM-bKxGYrUO-nm-dsmmTuuYvhBvbKcMd-fQZgdsXPWJ.iZydefIPrB439jGe?startTime=1659587828000">GitHub Pages</a> 
+ <td><a href="https://generalassembly.zoom.us/rec/share/4xdHjWoR87bnMxTkaI5vMYM-bKxGYrUO-nm-dsmmTuuYvhBvbKcMd-fQZgdsXPWJ.iZydefIPrB439jGe?startTime=1659587828000">Deploy to GitHub Pages</a> 
  <td>Passcode: Zx@d*C98 </td> 
 </tr>
+</table>
+
+## Unit 1: `Week 6 - Project 1`
+<table>
+<thead>
+<tr>
+<td>Date</td>
+<th>Worktime</th>
+</tr>
+</thead>
+<tbody>
+ 
+<tr>
+<td><strong>Tuesday</strong><br />(7/28)</td>
+<td>Software Engineer: Project 1</td>
+</tr>
+
+<tr>
+<td><strong>Wednesday</strong><br />(7/29)</td>
+<td>Software Engineer: Project 1</td>
+</tr>
+
+<tr>
+<td><strong>Saturday</strong><br />(8/2)</td>
+<td>Software Engineer: Project 1</td>
+</tr>
+
+</table>
+## Unit 1: `Week 7 - Project 1`
+<table>
+<thead>
+<tr>
+<td>Date</td>
+<th>Worktime</th>
+</tr>
+</thead>
+<tbody>
+ 
+<tr>
+<td><strong>Tuesday</strong><br />(8/5)</td>
+<td>Software Engineer: Project 1</td>
+</tr>
+
+<tr>
+<td><strong>Wednesday</strong><br />(8/6)</td>
+<td>Software Engineer: Project 1</td>
+</tr>
+
+<tr>
+<td><strong>Saturday</strong><br />(8/9)</td>
+<td>Project 1 Presentations</td>
+</tr>
+
 </table>
