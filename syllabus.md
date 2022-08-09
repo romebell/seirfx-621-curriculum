@@ -443,7 +443,6 @@
  <td>Passcode: TJg7p!gN </td> 
 </tr>
  
-### Project Week- Unit One 
 <table>
  <tr><td>8/3</td>
  <td><a href="https://generalassembly.zoom.us/rec/share/4xdHjWoR87bnMxTkaI5vMYM-bKxGYrUO-nm-dsmmTuuYvhBvbKcMd-fQZgdsXPWJ.iZydefIPrB439jGe?startTime=1659587828000">GitHub Pages</a> 
