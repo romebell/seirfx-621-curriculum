@@ -549,38 +549,155 @@
 
 <table>
 <thead>
-<tr>
-<td>Date</td>
-<th>Module 1</th>
-<th>Module 2</th>
-<th>Module 3</th>
-<th>Today's Lab</th>
-</tr>
+  <tr>
+    <td>Date</td>
+    <th>Module 1</th>
+    <th>Module 2</th>
+    <th>Module 3</th>
+    <th>Today's Lab</th>
+  </tr>
 </thead>
 <tbody>
- 
-<tr>
-<td><strong>Tuesday</strong><br />(8/9)</td>
-<td>Mid-Course Survey</td>
-<td><a href="https://github.com/SEIRFX-621/unit-1-assessment">Unit 1 Assessment</a></td>
-<td>---</td>
-<td>---</td>
-</tr>
- 
-<tr>
-<td><strong>Wednesday</strong><br />(8/10)</td>
-<td><a href="https://romebell.gitbook.io/seirfx-621/development-workflow/installfest/osx#node">Installation</a> | <a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme/01intro-to-node">Intro to Node<a></td>
-<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme/02modules">Node Modules</a></td>
-<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme/03packages">Node Package Manager (NPM)</a></td>
-<td><a href="https://github.com/SEIRFX-621/node_modules_practice/blob/main/README.md">Node Modules Practice</a></td>
-</tr>
+  <tr>
+    <td><strong>Tuesday</strong><br />(8/9)</td>
+    <td><a href="">Task 1</a></td>
+    <td><a href="">Task 1</a></td>
+    <td><a href="">Task 1</a></td>
+    <td><a href="">Task 1</a></td>
+  </tr>
+  
+  <tr>
+    <td><strong>Wednesday</strong><br />(8/10)</td>
+    <td><a href="">Task 2</a></td>
+    <td><a href="">Task 2</a></td>
+    <td><a href="">Task 2</a></td>
+    <td><a href="">Task 2</a></td>
+  </tr>
 
-<tr>
-<td><strong>Saturday</strong><br />(8/13)</td>
-<td><a href="https://romebell.gitbook.io/seirfx-621/databases/sql-intro">Into to SQL</a></td>
-<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express">Intro to Express</a></td>
-<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/02routes">Express Routes</a> | <a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/03views">Views</a></td>
-<td><a href="https://github.com/SEIRFX-621/sql-carmen-san-diego">SQL Carmen San Diego</a></td>
-</tr>
+  <tr>
+    <td><strong>Saturday</strong><br />(8/13)</td>
+    <td><a href="">Task 3</a></td>
+    <td><a href="">Task 3</a></td>
+    <td><a href="">Task 3</a></td>
+    <td><a href="">Task 3</a></td>
+  </tr>
+</tbody>
+</table>
 
+
+## Unit 2: `Week 10 - Tasks...`
+
+<table>
+<thead>
+  <tr>
+    <td>Date</td>
+    <th>Module 1</th>
+    <th>Module 2</th>
+    <th>Module 3</th>
+    <th>Today's Lab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><strong>Tuesday</strong><br />(8/9)</td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+  </tr>
+  
+  <tr>
+    <td><strong>Wednesday</strong><br />(8/10)</td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+  </tr>
+
+  <tr>
+    <td><strong>Saturday</strong><br />(8/13)</td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+  </tr>
+</tbody>
+</table>
+
+## Unit 2: `Week 11 - Tasks...`
+
+<table>
+<thead>
+  <tr>
+    <td>Date</td>
+    <th>Module 1</th>
+    <th>Module 2</th>
+    <th>Module 3</th>
+    <th>Today's Lab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><strong>Tuesday</strong><br />(8/9)</td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+  </tr>
+  
+  <tr>
+    <td><strong>Wednesday</strong><br />(8/10)</td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+  </tr>
+
+  <tr>
+    <td><strong>Saturday</strong><br />(8/13)</td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+  </tr>
+</tbody>
+</table>
+
+## Unit 2: `Week 12 - Tasks...`
+
+<table>
+<thead>
+  <tr>
+    <td>Date</td>
+    <th>Module 1</th>
+    <th>Module 2</th>
+    <th>Module 3</th>
+    <th>Today's Lab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><strong>Tuesday</strong><br />(8/9)</td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+  </tr>
+  
+  <tr>
+    <td><strong>Wednesday</strong><br />(8/10)</td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+  </tr>
+
+  <tr>
+    <td><strong>Saturday</strong><br />(8/13)</td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+    <td><a href="">Task</a></td>
+  </tr>
+</tbody>
 </table>
