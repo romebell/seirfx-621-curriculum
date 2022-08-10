@@ -520,7 +520,7 @@
 <tr>
 <td><strong>Tuesday</strong><br />(8/9)</td>
 <td>Mid-Course Survey</td>
-<td><a href="">Unit 1 Assessment</a></td>
+<td><a href="https://github.com/SEIRFX-621/unit-1-assessment">Unit 1 Assessment</a></td>
 <td>---</td>
 <td>---</td>
 </tr>
