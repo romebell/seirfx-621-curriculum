@@ -537,7 +537,7 @@
 <td><strong>Saturday</strong><br />(8/13)</td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/databases/sql-intro">Into to SQL</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express">Intro to Express</a></td>
-<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/02routes">Express Routes</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/02routes">Express Routes</a> | <a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/03views">Views</a></td>
 <td><a href="https://github.com/SEIRFX-621/sql-carmen-san-diego">SQL Carmen San Diego</a></td>
 </tr>
 
