@@ -528,8 +528,8 @@
 <tr>
 <td><strong>Wednesday</strong><br />(8/10)</td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/development-workflow/installfest/osx#node">Installation</a> | <a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme/01intro-to-node">Intro to Node<a></td>
-<td><a href=""></a></td>
-<td><a href="">Task 3</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme/02modules">Node Modules</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme/03packages">Node Package Manager (NPM)</a></td>
 <td><a href="">Task 4</a></td>
 </tr>
 
@@ -538,7 +538,7 @@
 <td><a href="">Task 1</a></td>
 <td><a href="">Task 2</a></td>
 <td><a href="">Task 3</a></td>
-<td><a href="">Task 4</a></td>
+<td><a href="">Lab</a></td>
 </tr>
 
 </table>
