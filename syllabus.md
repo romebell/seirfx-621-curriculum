@@ -530,15 +530,15 @@
 <td><a href="https://romebell.gitbook.io/seirfx-621/development-workflow/installfest/osx#node">Installation</a> | <a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme/01intro-to-node">Intro to Node<a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme/02modules">Node Modules</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme/03packages">Node Package Manager (NPM)</a></td>
-<td><a href="">Task 4</a></td>
+<td><a href="https://github.com/SEIRFX-621/node_modules_practice/blob/main/README.md">Node Modules Practice</a></td>
 </tr>
 
 <tr>
 <td><strong>Saturday</strong><br />(8/13)</td>
-<td><a href="">Task 1</a></td>
-<td><a href="">Task 2</a></td>
-<td><a href="">Task 3</a></td>
-<td><a href="">Lab</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/databases/sql-intro">Into to SQL</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express">Intro to Express</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/02routes">Express Routes</a></td>
+<td><a href="https://github.com/SEIRFX-621/sql-carmen-san-diego">SQL Carmen San Diego</a></td>
 </tr>
 
 </table>
