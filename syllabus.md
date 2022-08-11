@@ -559,3 +559,32 @@
 </tr>
 
 </table>
+ 
+ ### Unit Two - Class Recordings 
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Recording One</td>
+<td>Recording Two</td>
+<td>Passcode</td>
+</tr>
+</thead>
+<tr><td>8/9</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/RIcISBVdLDnQTIEjKFwYulbzy3T1lqURwp9f4pd8NeWnxx-TTd5DYRjp_0AZeWdt.-uTvfxHW2rIJnYmM?startTime=1660095510000">Mid Course Survey</a></td>
+<td><a href="https://generalassembly.zoom.us/rec/share/RIcISBVdLDnQTIEjKFwYulbzy3T1lqURwp9f4pd8NeWnxx-TTd5DYRjp_0AZeWdt.-uTvfxHW2rIJnYmM?startTime=1660098478000">Unit One Assessment</a></td>
+ <td>Passcode: VA=L+235</td> 
+</tr>
+ 
+<!-- <tr><td>8/10</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/NcisKwQtKgggc9N5ox-YGoyV8KonQKXx3EW46_ursGo0yEJbZARkahZ8ppB3FBdR._D7L0uj76NvFlSW2?startTime=1655948922000">GitHub Troubleshoot</a> | <a href="https://generalassembly.zoom.us/rec/share/NcisKwQtKgggc9N5ox-YGoyV8KonQKXx3EW46_ursGo0yEJbZARkahZ8ppB3FBdR._D7L0uj76NvFlSW2?startTime=1655952770000">Intro to Command Line</a> </td>
+<td><a href="https://generalassembly.zoom.us/rec/share/NcisKwQtKgggc9N5ox-YGoyV8KonQKXx3EW46_ursGo0yEJbZARkahZ8ppB3FBdR._D7L0uj76NvFlSW2?startTime=1655959065000">Pro Tips: Signal vs Noise </a> | <a href="https://generalassembly.zoom.us/rec/share/NcisKwQtKgggc9N5ox-YGoyV8KonQKXx3EW46_ursGo0yEJbZARkahZ8ppB3FBdR._D7L0uj76NvFlSW2?startTime=1655959648000">Folder Structure</a></td>
+ <td>Passcode: NQW&E#6M </td>
+</tr>
+ 
+ <tr><td>6/25</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/8GBO0yNcZdJbs2F6GRMUiAUxOqui1_uULT7ZIkW9l1RBRdB4HpzSyou_TnIE2cRT.N4XR2wMilFHqr6ly?startTime=1656177184000">Intro to HTML | CSS Selectors</a></td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/8GBO0yNcZdJbs2F6GRMUiAUxOqui1_uULT7ZIkW9l1RBRdB4HpzSyou_TnIE2cRT.N4XR2wMilFHqr6ly?startTime=1656199478000">CSS Part 2</a></td>
+ <td>Passcode: Passcode: 8aw6y+YZ</td>
+</tr> -->
+ 
+</table>
