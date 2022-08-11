@@ -444,7 +444,7 @@
 <table>
  <tr><td>8/3</td>
  <td><a href="https://generalassembly.zoom.us/rec/share/4xdHjWoR87bnMxTkaI5vMYM-bKxGYrUO-nm-dsmmTuuYvhBvbKcMd-fQZgdsXPWJ.iZydefIPrB439jGe?startTime=1659587828000">Deploy to GitHub Pages</a> 
- <td>Passcode: Zx@d*C98 </td> 
+ <td> 8/3 Passcode: Zx@d*C98 </td> 
 </tr>
 </table>
 
@@ -502,6 +502,23 @@
 </tr>
 
 </table>
+ 
+ ### Class Recordings 
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Recording One</td>
+<td>Recording Two</td>
+<td>Passcode</td>
+</tr>
+</thead>
+ <tr><td>8/6</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/a5mVw0llaU3P_1oinUxxQa5xvwgf6w8hl0RgipEYh3Q3psSS9WLTzROpvhjenEU.-Ygz1_DhNdzqHklU?startTime=1659811828000">Unit One Presentations Part One</a></td>
+<td><a href="https://generalassembly.zoom.us/rec/share/a5mVw0llaU3P_1oinUxxQa5xvwgf6w8hl0RgipEYh3Q3psSS9WLTzROpvhjenEU.-Ygz1_DhNdzqHklU?startTime=1659819835000">Unit One Presentations Part Two</a> | <a href="https://generalassembly.zoom.us/rec/share/a5mVw0llaU3P_1oinUxxQa5xvwgf6w8hl0RgipEYh3Q3psSS9WLTzROpvhjenEU.-Ygz1_DhNdzqHklU?startTime=1659825092000">Unit One Presentations Part Three</a> </td>
+ <td>Passcode:T@j*a+B4</td> 
+</tr>
+</table>
+ 
 
 ## Unit 2: `Week 8 - Node, SQL`
 
