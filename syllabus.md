@@ -575,13 +575,13 @@
  <td>Passcode: VA=L+235</td> 
 </tr>
  
-<!-- <tr><td>8/10</td>
-<td><a href="https://generalassembly.zoom.us/rec/share/NcisKwQtKgggc9N5ox-YGoyV8KonQKXx3EW46_ursGo0yEJbZARkahZ8ppB3FBdR._D7L0uj76NvFlSW2?startTime=1655948922000">GitHub Troubleshoot</a> | <a href="https://generalassembly.zoom.us/rec/share/NcisKwQtKgggc9N5ox-YGoyV8KonQKXx3EW46_ursGo0yEJbZARkahZ8ppB3FBdR._D7L0uj76NvFlSW2?startTime=1655952770000">Intro to Command Line</a> </td>
-<td><a href="https://generalassembly.zoom.us/rec/share/NcisKwQtKgggc9N5ox-YGoyV8KonQKXx3EW46_ursGo0yEJbZARkahZ8ppB3FBdR._D7L0uj76NvFlSW2?startTime=1655959065000">Pro Tips: Signal vs Noise </a> | <a href="https://generalassembly.zoom.us/rec/share/NcisKwQtKgggc9N5ox-YGoyV8KonQKXx3EW46_ursGo0yEJbZARkahZ8ppB3FBdR._D7L0uj76NvFlSW2?startTime=1655959648000">Folder Structure</a></td>
- <td>Passcode: NQW&E#6M </td>
+<tr><td>8/10</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/45cKlCaH2WQ-nEHdWlHd5-5FLXht1Tf-kK_gBpNaKEC49zzMcNqrOP44z47gnMKT.Ct4ZFxZcFVguLRdz?startTime=1660181892000">Node Js</a> </td>
+<td><a href="https://generalassembly.zoom.us/rec/share/45cKlCaH2WQ-nEHdWlHd5-5FLXht1Tf-kK_gBpNaKEC49zzMcNqrOP44z47gnMKT.Ct4ZFxZcFVguLRdz?startTime=1660185259000">NPM</a></td>
+ <td>Passcode: aPN9b4y+ </td>
 </tr>
  
- <tr><td>6/25</td>
+<!--  <tr><td>6/25</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/8GBO0yNcZdJbs2F6GRMUiAUxOqui1_uULT7ZIkW9l1RBRdB4HpzSyou_TnIE2cRT.N4XR2wMilFHqr6ly?startTime=1656177184000">Intro to HTML | CSS Selectors</a></td>
  <td><a href="https://generalassembly.zoom.us/rec/share/8GBO0yNcZdJbs2F6GRMUiAUxOqui1_uULT7ZIkW9l1RBRdB4HpzSyou_TnIE2cRT.N4XR2wMilFHqr6ly?startTime=1656199478000">CSS Part 2</a></td>
  <td>Passcode: Passcode: 8aw6y+YZ</td>
