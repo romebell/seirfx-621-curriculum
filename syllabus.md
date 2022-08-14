@@ -581,10 +581,10 @@
  <td>Passcode: aPN9b4y+ </td>
 </tr>
  
-<!--  <tr><td>6/25</td>
-<td><a href="https://generalassembly.zoom.us/rec/share/8GBO0yNcZdJbs2F6GRMUiAUxOqui1_uULT7ZIkW9l1RBRdB4HpzSyou_TnIE2cRT.N4XR2wMilFHqr6ly?startTime=1656177184000">Intro to HTML | CSS Selectors</a></td>
- <td><a href="https://generalassembly.zoom.us/rec/share/8GBO0yNcZdJbs2F6GRMUiAUxOqui1_uULT7ZIkW9l1RBRdB4HpzSyou_TnIE2cRT.N4XR2wMilFHqr6ly?startTime=1656199478000">CSS Part 2</a></td>
- <td>Passcode: Passcode: 8aw6y+YZ</td>
-</tr> -->
+ <tr><td>8/14</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/QWGXqGRxOJn7XVRMoPgo2rgupnD-c61HNlQt_eMoL9FrvSfNbUEE5zDhWS0-msA4.0nXIUKlpwDWUQBuA?startTime=1660412382000">Node Module Review</a> | <a href="https://generalassembly.zoom.us/rec/share/QWGXqGRxOJn7XVRMoPgo2rgupnD-c61HNlQt_eMoL9FrvSfNbUEE5zDhWS0-msA4.0nXIUKlpwDWUQBuA?startTime=1660415558000">Intro SQL</a></td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/QWGXqGRxOJn7XVRMoPgo2rgupnD-c61HNlQt_eMoL9FrvSfNbUEE5zDhWS0-msA4.0nXIUKlpwDWUQBuA?startTime=1660430005000">ExpressJs</a></td>
+ <td>Passcode: 34L9*@QP</td>
+</tr>
  
 </table>
