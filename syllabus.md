@@ -615,7 +615,7 @@
 <td><strong>Wednesday</strong><br />(8/17)</td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/databases/sql-advanced">Advanced SQL</a> </td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/04templates">Express Templates</a></td>
-<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/01organization">Express Layouts and ControllersL</a> </td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/01organization">Express Layouts and Controllers</a> </td>
 <td><a href="https://github.com/SEIRFX-621/booktown">SQL Booktown</a> </td>
 </tr>
 
