@@ -588,3 +588,59 @@
 </tr>
  
 </table>
+
+## Unit 2: `Week 9 - Express and Sql Cont.`
+
+<table>
+<thead>
+<tr>
+<td>Date</td>
+<th>Module 1</th>
+<th>Module 2</th>
+<th>Module 3</th>
+<th>Today's Lab</th>
+</tr>
+</thead>
+<tbody>
+ 
+<tr>
+<td><strong>Tuesday</strong><br />(8/16)</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/03views">Views</a></td>
+<td><a href="">Express Lab</a></td>
+<td>---</td>
+<td>---</td>
+</tr>
+ 
+<tr>
+<td><strong>Wednesday</strong><br />(8/17)</td>
+
+</tr>
+
+<tr>
+<td><strong>Saturday</strong><br />(8/20)</td>
+</tr>
+
+</table>
+ 
+ ### Unit Two - week 9: Class Recordings 
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Recording One</td>
+<td>Recording Two</td>
+<td>Passcode</td>
+</tr>
+</thead>
+<tr><td>8/16</td>
+
+</tr>
+ 
+<tr><td>8/17</td>
+
+</tr>
+ 
+ <tr><td>8/20</td>
+ </tr>
+
+ 
+</table>
