@@ -606,9 +606,9 @@
 <tr>
 <td><strong>Tuesday</strong><br />(8/16)</td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/03views">Views</a></td>
+<td>---</td>
+<td>---</td>
 <td><a href="https://github.com/SEIRFX-621/express-routes-templates">Express Lab</a></td>
-<td>---</td>
-<td>---</td>
 </tr>
  
 <tr>
