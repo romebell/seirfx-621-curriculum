@@ -82,7 +82,7 @@ In the root of the views folder, add a layout called `layout.ejs`. It _must_ be 
 
 **layout.ejs**
 
-```markup
+```ejs
 <!DOCTYPE html>
 <html>
 <head>
@@ -102,7 +102,7 @@ In the views folder, create a `home.ejs` file:
 
 _**home.ejs**_
 
-```markup
+```html
 <h1>This is the home page!</h1>
 ```
 
@@ -128,7 +128,7 @@ app.get('/animals', (req, res) => {
 
 _**animals.ejs**_
 
-```markup
+```ejs
 <h1><%= title %></h1>
 <ul>
   <% animals.forEach((animal) => { %>
@@ -147,7 +147,7 @@ Add a simple navigation list to the to of the layout page so there's a link to e
 
 _**layout.ejs**_
 
-```markup
+```ejs
 <!DOCTYPE html>
 <html>
 <head>
