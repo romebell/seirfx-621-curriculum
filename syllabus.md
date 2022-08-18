@@ -635,7 +635,9 @@
 </tr>
 </thead>
 <tr><td>8/16</td>
-
+<td><a href="https://generalassembly.zoom.us/rec/share/d9Aa8E153i7Kn1pQEwVOBDjBaohnTEX1GilDNJbYBxq2L6SKqcL4Zs5SCMHYdfnR.CsJxN5_53af4buPa?startTime=1660702493000">Express Views</a></td>
+<td>N/A</a></td>
+ <td>Passcode: e7u4Pj8@</td> 
 </tr>
  
 <tr><td>8/17</td>
