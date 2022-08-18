@@ -183,7 +183,7 @@ app.get('/foods', (req, res) => {
 });
 
 app.get('/animals', (req, res) => {
-  res.render('faves/animals', { title: 'Favorite Animals', animals: ['sand crab', 'corny joke dog'] })
+  res.render('faves/animals', { title: 'Favorite Animals', animals: ['sand crab', 'corny joke dog'] });
 });
 ```
 
@@ -200,8 +200,14 @@ router.get('/foods', (req, res) => {
 });
 
 router.get('/animals', (req, res) => {
-  res.render('faves/animals', { title: 'Favorite Animals', animals: ['sand crab', 'corny joke dog'] })
+  res.render('faves/animals', { title: 'Favorite Animals', animals: ['sand crab', 'corny joke dog'] });
 });
+
+// Exercise 
+// Add layouts and controllers for the following:
+// favorite cars
+// favorite sports team
+// favorite books
 
 module.exports = router;
 ```
