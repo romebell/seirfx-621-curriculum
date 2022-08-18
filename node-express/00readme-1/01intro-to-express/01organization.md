@@ -122,7 +122,7 @@ _**index.js**_
 
 ```javascript
 app.get('/animals', (req, res) => {
-  res.render('animals', {title: 'Favorite Animals', animals: ['sand crab', 'corny joke dog']})
+  res.render('animals', { title: 'Favorite Animals', animals: ['sand crab', 'corny joke dog'] })
 });
 ```
 
@@ -131,9 +131,9 @@ _**animals.ejs**_
 ```markup
 <h1><%= title %></h1>
 <ul>
-  <% animals.forEach(function(animal) { %>
+  <% animals.forEach((animal) => { %>
     <li><%= animal %></li>
-  <% }) %>
+  <% }); %>
 </ul>
 ```
 
@@ -179,11 +179,11 @@ _**4.**_ Inside the `controllers` folder, create a file called `faves.js` with t
 
 ```javascript
 app.get('/foods', (req, res) => {
-  res.render('faves/foods', {title: 'Favorite Foods', foods: ['coconut', 'avocado']});
+  res.render('faves/foods', { title: 'Favorite Foods', foods: ['coconut', 'avocado'] });
 });
 
 app.get('/animals', (req, res) => {
-  res.render('faves/animals', {title: 'Favorite Animals', animals: ['sand crab', 'corny joke dog']})
+  res.render('faves/animals', { title: 'Favorite Animals', animals: ['sand crab', 'corny joke dog'] })
 });
 ```
 
@@ -196,11 +196,11 @@ const express = require('express');
 const router = express.Router();
 
 router.get('/foods', (req, res) => {
-  res.render('faves/foods', {title: 'Favorite Foods', foods: ['coconut', 'avocado']});
+  res.render('faves/foods', { title: 'Favorite Foods', foods: ['coconut', 'avocado'] });
 });
 
 router.get('/animals', (req, res) => {
-  res.render('faves/animals', {title: 'Favorite Animals', animals: ['sand crab', 'corny joke dog']})
+  res.render('faves/animals', { title: 'Favorite Animals', animals: ['sand crab', 'corny joke dog'] })
 });
 
 module.exports = router;
