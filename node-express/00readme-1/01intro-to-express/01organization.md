@@ -62,7 +62,7 @@ const express = require('express');
 const app = express();
 const ejsLayouts = require('express-ejs-layouts');
 
-const PORT = process.env.PORT;
+const PORT = process.env.PORT || 8000;
 
 app.set('view engine', 'ejs');
 app.use(ejsLayouts);
@@ -109,7 +109,7 @@ _**home.ejs**_
 Now create a home route in `index.js` below the middleware:
 
 ```javascript
-app.get('/', function(req, res) {
+app.get('/', (req, res) => {
   res.render('home');
 });
 ```
@@ -121,7 +121,7 @@ Ejs will assume that `home` means `home.ejs`. Now starte nodemon and check that 
 _**index.js**_
 
 ```javascript
-app.get('/animals', function(req, res) {
+app.get('/animals', (req, res) => {
   res.render('animals', {title: 'Favorite Animals', animals: ['sand crab', 'corny joke dog']})
 });
 ```
@@ -178,11 +178,11 @@ _**3.**_ Create a `controllers` folder inside the root directory that will conta
 _**4.**_ Inside the `controllers` folder, create a file called `faves.js` with the following routes:
 
 ```javascript
-app.get('/foods', function(req, res) {
+app.get('/foods', (req, res) => {
   res.render('faves/foods', {title: 'Favorite Foods', foods: ['coconut', 'avocado']});
 });
 
-app.get('/animals', function(req, res) {
+app.get('/animals', (req, res) => {
   res.render('faves/animals', {title: 'Favorite Animals', animals: ['sand crab', 'corny joke dog']})
 });
 ```
@@ -192,14 +192,14 @@ But wait! `app` doesn't exist in this file! Express has a `Router()` function th
 _**5.**_ Add these wrapper lines of code to `faves.js`, and replace `app` with `router`.
 
 ```javascript
-var express = require('express');
-var router = express.Router();
+const express = require('express');
+const router = express.Router();
 
-router.get('/foods', function(req, res) {
+router.get('/foods', (req, res) => {
   res.render('faves/foods', {title: 'Favorite Foods', foods: ['coconut', 'avocado']});
 });
 
-router.get('/animals', function(req, res) {
+router.get('/animals', (req, res) => {
   res.render('faves/animals', {title: 'Favorite Animals', animals: ['sand crab', 'corny joke dog']})
 });
 
