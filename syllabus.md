@@ -641,10 +641,13 @@
 </tr>
  
 <tr><td>8/17</td>
-
-</tr>
+<td><a href="https://generalassembly.zoom.us/rec/share/y1nNB5_6GEOlopRDQOq35FdmLv5TCeW8lEWVfMj-mWpRSE761HZVMfbZR1sCyQou.E6YfZjLRtaKnDAnp?startTime=1660787223000">Advanced SQL</a></td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/y1nNB5_6GEOlopRDQOq35FdmLv5TCeW8lEWVfMj-mWpRSE761HZVMfbZR1sCyQou.E6YfZjLRtaKnDAnp?startTime=1660799938000">SQL Part 2</a>| <a href="https://generalassembly.zoom.us/rec/share/y1nNB5_6GEOlopRDQOq35FdmLv5TCeW8lEWVfMj-mWpRSE761HZVMfbZR1sCyQou.E6YfZjLRtaKnDAnp?startTime=1660801234000">SQL Part 3</a </td>
+ <td>Passcode: 76iNy&0r</td> 
+ </tr>
  
  <tr><td>8/20</td>
+ 
  </tr>
 
  
