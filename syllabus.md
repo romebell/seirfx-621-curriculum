@@ -623,7 +623,7 @@
 <td><strong>Saturday</strong><br />(8/20)</td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/04templates">Express Templates (cont.)</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/01organization">Express Layouts and Controllers (cont.)</a> </td>
-<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/03apis-axios">Axios and Node/Express</a> </td> | <a href="https://romebell.gitbook.io/seirfx-621/html-css/css-bootstrap">Boostrap</a> </td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/03apis-axios">Axios and Node/Express</a> | <a href="https://romebell.gitbook.io/seirfx-621/html-css/css-bootstrap">Boostrap</a> </td>
 <td><a href="https://github.com/SEIRFX-621/OMDB-lab">OMDB Lab</a></td>
 </tr>
 </table>
