@@ -650,7 +650,9 @@
  </tr>
  
  <tr><td>8/20</td>
- 
+ <td><a href="https://generalassembly.zoom.us/rec/share/cNmJoS-yI4JgdZKjFu2kv3nAY8TC2VKK-mubPe3DatBlB5KK14CX9w4jKdDQ2jge.Cn1_ooKFO6HhCr-e?startTime=1661016163000">EJS Template Layouts</a> | <a href="https://generalassembly.zoom.us/rec/share/cNmJoS-yI4JgdZKjFu2kv3nAY8TC2VKK-mubPe3DatBlB5KK14CX9w4jKdDQ2jge.Cn1_ooKFO6HhCr-e?startTime=1661022226000">EJS Part 2</a></td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/cNmJoS-yI4JgdZKjFu2kv3nAY8TC2VKK-mubPe3DatBlB5KK14CX9w4jKdDQ2jge.Cn1_ooKFO6HhCr-e?startTime=1661035451000">Axios and Node JS</a> | <a href="https://generalassembly.zoom.us/rec/share/cNmJoS-yI4JgdZKjFu2kv3nAY8TC2VKK-mubPe3DatBlB5KK14CX9w4jKdDQ2jge.Cn1_ooKFO6HhCr-e?startTime=1661042994000">OMDB</a></td>
+ <td>Passcode: EEu2r#1J</td> 
  </tr>
 
  
