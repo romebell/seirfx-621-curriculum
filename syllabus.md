@@ -662,3 +662,42 @@
 
  
 </table>
+
+## Unit 2: `Week 10 - Bookstrap, CRUD, Sequelize`
+
+<table>
+<thead>
+<tr>
+<td>Date</td>
+<th>Module 1</th>
+<th>Module 2</th>
+<th>Module 3</th>
+<th>Today's Lab</th>
+</tr>
+</thead>
+<tbody>
+ 
+<tr>
+<td><strong>Tuesday</strong><br />(8/23)</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/html-css/css-bootstrap">Bootstrap</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/00readme">CRUD and REST</a> | <a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/00readme/01get-post">GET and POST</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/00readme/02put-delete">PUT and DELETE</a></td>
+<td>---</td>
+</tr>
+ 
+<tr>
+<td><strong>Wednesday</strong><br />(8/24)</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/02terms">Intro to Sequelize</a> | <a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/03setup">Setup</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/04usingmodels">Using Models</a> | <a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/seeding">Seeding Data</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/05validationsmigrations">Validations and Migrations</a> </td>
+<td>---</td>
+</tr>
+
+<tr>
+<td><strong>Saturday</strong><br />(8/27)</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/express-1-to-many">1:M Relationships</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/express-many-to-many">N:M Relationships</a> </td>
+<td><a href="">Code-Along: Express Blogpulse Part 1 (1:M)</a></td>
+<td><a href="">Lab/Deliverable: Blogpulse Part 2</a></td>
+</tr>
+</table>
