@@ -444,7 +444,7 @@
 <table>
  <tr><td>8/3</td>
  <td><a href="https://generalassembly.zoom.us/rec/share/4xdHjWoR87bnMxTkaI5vMYM-bKxGYrUO-nm-dsmmTuuYvhBvbKcMd-fQZgdsXPWJ.iZydefIPrB439jGe?startTime=1659587828000">Deploy to GitHub Pages</a> 
- <td>Passcode: Zx@d*C98 </td> 
+ <td> 8/3 Passcode: Zx@d*C98 </td> 
 </tr>
 </table>
 
@@ -502,6 +502,23 @@
 </tr>
 
 </table>
+ 
+ ### Class Recordings 
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Recording One</td>
+<td>Recording Two</td>
+<td>Passcode</td>
+</tr>
+</thead>
+ <tr><td>8/6</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/a5mVw0llaU3P_1oinUxxQa5xvwgf6w8hl0RgipEYh3Q3psSS9WLTzROpvhjenEU.-Ygz1_DhNdzqHklU?startTime=1659811828000">Unit One Presentations Part One</a></td>
+<td><a href="https://generalassembly.zoom.us/rec/share/a5mVw0llaU3P_1oinUxxQa5xvwgf6w8hl0RgipEYh3Q3psSS9WLTzROpvhjenEU.-Ygz1_DhNdzqHklU?startTime=1659819835000">Unit One Presentations Part Two</a> | <a href="https://generalassembly.zoom.us/rec/share/a5mVw0llaU3P_1oinUxxQa5xvwgf6w8hl0RgipEYh3Q3psSS9WLTzROpvhjenEU.-Ygz1_DhNdzqHklU?startTime=1659825092000">Unit One Presentations Part Three</a> </td>
+ <td>Passcode:T@j*a+B4</td> 
+</tr>
+</table>
+ 
 
 ## Unit 2: `Week 8 - Node, SQL`
 
@@ -544,182 +561,104 @@
 <td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express">Intro to Express</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/02routes">Express Routes</a> | <a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/03views">Views</a></td>
 <td><a href="https://github.com/SEIRFX-621/sql-carmen-san-diego">SQL Carmen San Diego</a></td>
-<td><a href="https://github.com/SEIRFX-621/sql-carmen-san-diego">SQL Carmen San Diego</a></td>
 </tr>
 
 </table>
-
-
-
-## Unit 2: `Week 9 - Advanced SQL, Layouts and Controllers, etc..`
-
+ 
+ ### Unit Two - Class Recordings 
 <table>
 <thead>
-  <tr>
-    <td>Date</td>
-    <th>Module 1</th>
-    <th>Module 2</th>
-    <th>Module 3</th>
-    <th>Today's Lab</th>
-    <th>Deliverable</th>
-  </tr>
+<tr><td>Date Assigned</td>
+<td>Recording One</td>
+<td>Recording Two</td>
+<td>Passcode</td>
+</tr>
 </thead>
-<tbody>
-  <tr>
-    <td><strong>Tuesday</strong><br />(8/9)</td>
-    <td><a href="">Task 1</a></td>
-    <td><a href="">Task 1</a></td>
-    <td><a href="">Task 1</a></td>
-    <td><a href="">Task 1</a></td>
-    <td><a href="">Task 1</a></td>
-  </tr>
-  
-  <tr>
-    <td><strong>Wednesday</strong><br />(8/10)</td>
-    <td><a href="">Task 2</a></td>
-    <td><a href="">Task 2</a></td>
-    <td><a href="">Task 2</a></td>
-    <td><a href="">Task 2</a></td>
-    <td><a href="">Task 2</a></td>
-  </tr>
-
-  <tr>
-    <td><strong>Saturday</strong><br />(8/13)</td>
-    <td><a href="">Task 3</a></td>
-    <td><a href="">Task 3</a></td>
-    <td><a href="">Task 3</a></td>
-    <td><a href="">Task 3</a></td>
-    <td><a href="">Task 3</a></td>
-  </tr>
-</tbody>
+<tr><td>8/9</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/RIcISBVdLDnQTIEjKFwYulbzy3T1lqURwp9f4pd8NeWnxx-TTd5DYRjp_0AZeWdt.-uTvfxHW2rIJnYmM?startTime=1660095510000">Mid Course Survey</a></td>
+<td><a href="https://generalassembly.zoom.us/rec/share/RIcISBVdLDnQTIEjKFwYulbzy3T1lqURwp9f4pd8NeWnxx-TTd5DYRjp_0AZeWdt.-uTvfxHW2rIJnYmM?startTime=1660098478000">Unit One Assessment</a></td>
+ <td>Passcode: VA=L+235</td> 
+</tr>
+ 
+<tr><td>8/10</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/45cKlCaH2WQ-nEHdWlHd5-5FLXht1Tf-kK_gBpNaKEC49zzMcNqrOP44z47gnMKT.Ct4ZFxZcFVguLRdz?startTime=1660181892000">Node Js</a> </td>
+<td><a href="https://generalassembly.zoom.us/rec/share/45cKlCaH2WQ-nEHdWlHd5-5FLXht1Tf-kK_gBpNaKEC49zzMcNqrOP44z47gnMKT.Ct4ZFxZcFVguLRdz?startTime=1660185259000">NPM</a></td>
+ <td>Passcode: aPN9b4y+ </td>
+</tr>
+ 
+ <tr><td>8/14</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/QWGXqGRxOJn7XVRMoPgo2rgupnD-c61HNlQt_eMoL9FrvSfNbUEE5zDhWS0-msA4.0nXIUKlpwDWUQBuA?startTime=1660412382000">Node Module Review</a> | <a href="https://generalassembly.zoom.us/rec/share/QWGXqGRxOJn7XVRMoPgo2rgupnD-c61HNlQt_eMoL9FrvSfNbUEE5zDhWS0-msA4.0nXIUKlpwDWUQBuA?startTime=1660415558000">Intro SQL</a></td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/QWGXqGRxOJn7XVRMoPgo2rgupnD-c61HNlQt_eMoL9FrvSfNbUEE5zDhWS0-msA4.0nXIUKlpwDWUQBuA?startTime=1660430005000">ExpressJs</a></td>
+ <td>Passcode: 34L9*@QP</td>
+</tr>
+ 
 </table>
 
-
-## Unit 2: `Week 10 - Tasks...`
+## Unit 2: `Week 9 - Express and Sql Cont.`
 
 <table>
 <thead>
-  <tr>
-    <td>Date</td>
-    <th>Module 1</th>
-    <th>Module 2</th>
-    <th>Module 3</th>
-    <th>Today's Lab</th>
-    <th>Deliverable</th>
-  </tr>
+<tr>
+<td>Date</td>
+<th>Module 1</th>
+<th>Module 2</th>
+<th>Module 3</th>
+<th>Today's Lab</th>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td><strong>Tuesday</strong><br />(8/9)</td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-  </tr>
-  
-  <tr>
-    <td><strong>Wednesday</strong><br />(8/10)</td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-  </tr>
+ 
+<tr>
+<td><strong>Tuesday</strong><br />(8/16)</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/03views">Views</a></td>
+<td>---</td>
+<td>---</td>
+<td><a href="https://github.com/SEIRFX-621/express-routes-templates">Express Lab</a></td>
+</tr>
+ 
+<tr>
+<td><strong>Wednesday</strong><br />(8/17)</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/databases/sql-advanced">Advanced SQL</a> </td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/04templates">Express Templates</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/01organization">Express Layouts and Controllers</a> </td>
+<td><a href="https://github.com/SEIRFX-621/booktown">SQL Booktown</a> </td>
+</tr>
 
-  <tr>
-    <td><strong>Saturday</strong><br />(8/13)</td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-  </tr>
-</tbody>
+<tr>
+<td><strong>Saturday</strong><br />(8/20)</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/04templates">Express Templates (cont.)</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/01organization">Express Layouts and Controllers (cont.)</a> </td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/03apis-axios">Axios and Node/Express</a> | <a href="https://romebell.gitbook.io/seirfx-621/html-css/css-bootstrap">Boostrap</a> </td>
+<td><a href="https://github.com/SEIRFX-621/OMDB-lab">OMDB Lab</a></td>
+</tr>
 </table>
-
-## Unit 2: `Week 11 - Tasks...`
-
+ 
+ ### Unit Two - week 9: Class Recordings 
 <table>
 <thead>
-  <tr>
-    <td>Date</td>
-    <th>Module 1</th>
-    <th>Module 2</th>
-    <th>Module 3</th>
-    <th>Today's Lab</th>
-    <th>Deliverable</th>
-  </tr>
+<tr><td>Date Assigned</td>
+<td>Recording One</td>
+<td>Recording Two</td>
+<td>Passcode</td>
+</tr>
 </thead>
-<tbody>
-  <tr>
-    <td><strong>Tuesday</strong><br />(8/9)</td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-  </tr>
-  
-  <tr>
-    <td><strong>Wednesday</strong><br />(8/10)</td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-  </tr>
+<tr><td>8/16</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/d9Aa8E153i7Kn1pQEwVOBDjBaohnTEX1GilDNJbYBxq2L6SKqcL4Zs5SCMHYdfnR.CsJxN5_53af4buPa?startTime=1660702493000">Express Views</a></td>
+<td>N/A</a></td>
+ <td>Passcode: e7u4Pj8@</td> 
+</tr>
+ 
+<tr><td>8/17</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/y1nNB5_6GEOlopRDQOq35FdmLv5TCeW8lEWVfMj-mWpRSE761HZVMfbZR1sCyQou.E6YfZjLRtaKnDAnp?startTime=1660787223000">Advanced SQL</a></td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/y1nNB5_6GEOlopRDQOq35FdmLv5TCeW8lEWVfMj-mWpRSE761HZVMfbZR1sCyQou.E6YfZjLRtaKnDAnp?startTime=1660799938000">SQL Part 2</a>| <a href="https://generalassembly.zoom.us/rec/share/y1nNB5_6GEOlopRDQOq35FdmLv5TCeW8lEWVfMj-mWpRSE761HZVMfbZR1sCyQou.E6YfZjLRtaKnDAnp?startTime=1660801234000">SQL Part 3</a </td>
+ <td>Passcode: 76iNy&0r</td> 
+ </tr>
+ 
+ <tr><td>8/20</td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/cNmJoS-yI4JgdZKjFu2kv3nAY8TC2VKK-mubPe3DatBlB5KK14CX9w4jKdDQ2jge.Cn1_ooKFO6HhCr-e?startTime=1661016163000">EJS Template Layouts</a> | <a href="https://generalassembly.zoom.us/rec/share/cNmJoS-yI4JgdZKjFu2kv3nAY8TC2VKK-mubPe3DatBlB5KK14CX9w4jKdDQ2jge.Cn1_ooKFO6HhCr-e?startTime=1661022226000">EJS Part 2</a></td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/cNmJoS-yI4JgdZKjFu2kv3nAY8TC2VKK-mubPe3DatBlB5KK14CX9w4jKdDQ2jge.Cn1_ooKFO6HhCr-e?startTime=1661035451000">Axios and Node JS</a> | <a href="https://generalassembly.zoom.us/rec/share/cNmJoS-yI4JgdZKjFu2kv3nAY8TC2VKK-mubPe3DatBlB5KK14CX9w4jKdDQ2jge.Cn1_ooKFO6HhCr-e?startTime=1661042994000">OMDB</a></td>
+ <td>Passcode: EEu2r#1J</td> 
+ </tr>
 
-  <tr>
-    <td><strong>Saturday</strong><br />(8/13)</td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-  </tr>
-</tbody>
-</table>
-
-## Unit 2: `Week 12 - Tasks...`
-
-<table>
-<thead>
-  <tr>
-    <td>Date</td>
-    <th>Module 1</th>
-    <th>Module 2</th>
-    <th>Module 3</th>
-    <th>Today's Lab</th>
-    <th>Deliverable</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><strong>Tuesday</strong><br />(8/9)</td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-  </tr>
-  
-  <tr>
-    <td><strong>Wednesday</strong><br />(8/10)</td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-  </tr>
-
-  <tr>
-    <td><strong>Saturday</strong><br />(8/13)</td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-    <td><a href="">Task</a></td>
-  </tr>
-</tbody>
+ 
 </table>
