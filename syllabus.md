@@ -682,7 +682,8 @@
 <td><a href="https://romebell.gitbook.io/seirfx-621/html-css/css-bootstrap">Bootstrap</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/00readme">CRUD and REST</a> | <a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/00readme/01get-post">GET and POST</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/node-express/00readme-1/01intro-to-express/00readme/02put-delete">PUT and DELETE</a></td>
-<td>---</td>
+<td><a href="https://github.com/SEIRFX-621/prehistoric-creatures">Lab/Del: Prehistoric Creatures</a></td>
+<td></td>
 </tr>
  
 <tr>
