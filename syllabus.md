@@ -702,8 +702,10 @@
 <td><a href="">Lab/Deliverable: Blogpulse Part 2</a></td>
 </tr>
 </table>
+ 
 ### Unit Two - week 10: Class Recordings 
-<table>
+
+ <table>
 <thead>
 <tr><td>Date Assigned</td>
 <td>Recording One</td>
