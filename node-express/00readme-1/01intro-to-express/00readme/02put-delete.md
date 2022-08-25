@@ -61,7 +61,7 @@ Since we can only use `POST` methods to activate the `method-override` functiona
 
 
 <ul>
-  <% myDinos.forEach(function(dino, index) { %>
+  <% myDinos.forEach((dino, index) => { %>
   <li><%= dino.name %> is a <%= dino.type %>
   
       <% let deleteRoute = "/dinosaurs/<%= index %>/?_method=DELETE"; %>
@@ -77,7 +77,7 @@ Since we can only use `POST` methods to activate the `method-override` functiona
 **index.js**
 
 ```javascript
-app.delete('/dinosaurs/:idx', function(req, res){
+app.delete('/dinosaurs/:idx', (req, res) => {
   const dinosaurs = fs.readFileSync('./dinosaurs.json');
   const dinoData = JSON.parse(dinosaurs);
 
@@ -107,7 +107,7 @@ First we need a way for the user to edit an item. Add an edit link to the dinosa
 
 
 <ul>
-  <% myDinos.forEach(function(dino, index) { %>
+  <% myDinos.forEach((dino, index) => { %>
   <li><%= dino.name %> is a <%= dino.type %>
   
      <% let editDinosaurLink = "/dinosaurs/edit/<%= index %>"
@@ -141,7 +141,7 @@ We need a `GET` route to view this form!
 **index.js**
 
 ```javascript
-app.get('/dinosaurs/edit/:idx', function(req, res){
+app.get('/dinosaurs/edit/:idx', (req, res) => {
   const dinosaurs = fs.readFileSync('./dinosaurs.json');
   const dinoData = JSON.parse(dinosaurs);
   res.render('dinosaurs/edit', {dino: dinoData[req.params.idx], dinoId: req.params.idx});
@@ -153,7 +153,7 @@ Finally we can write our `PUT` route! The form submission will return the editte
 **index.js**
 
 ```javascript
-app.put('/dinosaurs/:idx', function(req, res){
+app.put('/dinosaurs/:idx', (req, res) => {
   const dinosaurs = fs.readFileSync('./dinosaurs.json');
   const dinoData = JSON.parse(dinosaurs);
 
