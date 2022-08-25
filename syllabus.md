@@ -691,7 +691,7 @@
 <td><a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/02terms">Intro to Sequelize</a> | <a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/03setup">Setup</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/04usingmodels">Using Models</a> | <a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/seeding">Seeding Data</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/05validationsmigrations">Validations and Migrations</a> </td>
-<td>---</td>
+ <td><a href"https://github.com/SEIRFX-621/prehistoric-creatures">Prehistoric Creatures</a></td>
 </tr>
 
 <tr>
