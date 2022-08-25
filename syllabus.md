@@ -702,3 +702,33 @@
 <td><a href="">Lab/Deliverable: Blogpulse Part 2</a></td>
 </tr>
 </table>
+### Unit Two - week 10: Class Recordings 
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Recording One</td>
+<td>Recording Two</td>
+<td>Passcode</td>
+</tr>
+</thead>
+<tr><td>8/23</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/SMvYUhPF7rlrobaw01koammNg201TTE7dhIJ5ZZ5uxAoxSU0OzoOJZtu-VL8RQOf.1aM37NRSNrvtWjFf?startTime=1661305182000">OMDB Part 2</a></td>
+<td><a href="https://generalassembly.zoom.us/rec/share/SMvYUhPF7rlrobaw01koammNg201TTE7dhIJ5ZZ5uxAoxSU0OzoOJZtu-VL8RQOf.1aM37NRSNrvtWjFf?startTime=1661308574000">Bootstrap</a> | <a href="https://generalassembly.zoom.us/rec/share/SMvYUhPF7rlrobaw01koammNg201TTE7dhIJ5ZZ5uxAoxSU0OzoOJZtu-VL8RQOf.1aM37NRSNrvtWjFf?startTime=1661314976000">CRUD & REST</a<></td>
+ <td>Passcode: $53Iibxr</td> 
+</tr>
+ 
+<tr><td>8/24</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/70kNdfmagRllc9rXXSskeTen881LnMHZG_aOmEedcoW1SoEBjNTrmNcdtNx7__I-.qSjHYNVHDvoLuWDE?startTime=1661391960000">GET and POST</a></td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/70kNdfmagRllc9rXXSskeTen881LnMHZG_aOmEedcoW1SoEBjNTrmNcdtNx7__I-.qSjHYNVHDvoLuWDE?startTime=1661396710000">PUT and Delete</a> </td>
+ <td>Passcode: JJk$L7hg</td> 
+ </tr>
+ 
+<!--  <tr><td>8/20</td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/cNmJoS-yI4JgdZKjFu2kv3nAY8TC2VKK-mubPe3DatBlB5KK14CX9w4jKdDQ2jge.Cn1_ooKFO6HhCr-e?startTime=1661016163000">EJS Template Layouts</a> | <a href="https://generalassembly.zoom.us/rec/share/cNmJoS-yI4JgdZKjFu2kv3nAY8TC2VKK-mubPe3DatBlB5KK14CX9w4jKdDQ2jge.Cn1_ooKFO6HhCr-e?startTime=1661022226000">EJS Part 2</a></td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/cNmJoS-yI4JgdZKjFu2kv3nAY8TC2VKK-mubPe3DatBlB5KK14CX9w4jKdDQ2jge.Cn1_ooKFO6HhCr-e?startTime=1661035451000">Axios and Node JS</a> | <a href="https://generalassembly.zoom.us/rec/share/cNmJoS-yI4JgdZKjFu2kv3nAY8TC2VKK-mubPe3DatBlB5KK14CX9w4jKdDQ2jge.Cn1_ooKFO6HhCr-e?startTime=1661042994000">OMDB</a></td>
+ <td>Passcode: EEu2r#1J</td>  -->
+<!--  </tr> -->
+
+ 
+</table>
+
