@@ -725,12 +725,35 @@
  <td>Passcode: JJk$L7hg</td> 
  </tr>
  
-<!--  <tr><td>8/20</td>
- <td><a href="https://generalassembly.zoom.us/rec/share/cNmJoS-yI4JgdZKjFu2kv3nAY8TC2VKK-mubPe3DatBlB5KK14CX9w4jKdDQ2jge.Cn1_ooKFO6HhCr-e?startTime=1661016163000">EJS Template Layouts</a> | <a href="https://generalassembly.zoom.us/rec/share/cNmJoS-yI4JgdZKjFu2kv3nAY8TC2VKK-mubPe3DatBlB5KK14CX9w4jKdDQ2jge.Cn1_ooKFO6HhCr-e?startTime=1661022226000">EJS Part 2</a></td>
- <td><a href="https://generalassembly.zoom.us/rec/share/cNmJoS-yI4JgdZKjFu2kv3nAY8TC2VKK-mubPe3DatBlB5KK14CX9w4jKdDQ2jge.Cn1_ooKFO6HhCr-e?startTime=1661035451000">Axios and Node JS</a> | <a href="https://generalassembly.zoom.us/rec/share/cNmJoS-yI4JgdZKjFu2kv3nAY8TC2VKK-mubPe3DatBlB5KK14CX9w4jKdDQ2jge.Cn1_ooKFO6HhCr-e?startTime=1661042994000">OMDB</a></td>
- <td>Passcode: EEu2r#1J</td>  -->
-<!--  </tr> -->
-
  
 </table>
 
+  
+ ### Unit Two - Week 11 Class Recordings 
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Recording One</td>
+<td>Recording Two</td>
+<td>Passcode</td>
+</tr>
+</thead>
+<tr><td>8/27</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/hDRXsplzhyebkjkslQLVcO0TLzml7Xblqg4kfLamVFzKfbIabBxiu3sImAlNKR39.JxgxJ0KM7I-qkpqz?startTime=1661620700000">Sequelize</a></td>
+<td><a href="https://generalassembly.zoom.us/rec/share/hDRXsplzhyebkjkslQLVcO0TLzml7Xblqg4kfLamVFzKfbIabBxiu3sImAlNKR39.JxgxJ0KM7I-qkpqz?startTime=1661640385000">Sequelize:Seeding</a></td>
+ <td>Passcode: @B2@x#?^</td> 
+</tr>
+ 
+<!-- <tr><td>8/10</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/45cKlCaH2WQ-nEHdWlHd5-5FLXht1Tf-kK_gBpNaKEC49zzMcNqrOP44z47gnMKT.Ct4ZFxZcFVguLRdz?startTime=1660181892000">Node Js</a> </td>
+<td><a href="https://generalassembly.zoom.us/rec/share/45cKlCaH2WQ-nEHdWlHd5-5FLXht1Tf-kK_gBpNaKEC49zzMcNqrOP44z47gnMKT.Ct4ZFxZcFVguLRdz?startTime=1660185259000">NPM</a></td>
+ <td>Passcode: aPN9b4y+ </td>
+</tr>
+ 
+ <tr><td>8/14</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/QWGXqGRxOJn7XVRMoPgo2rgupnD-c61HNlQt_eMoL9FrvSfNbUEE5zDhWS0-msA4.0nXIUKlpwDWUQBuA?startTime=1660412382000">Node Module Review</a> | <a href="https://generalassembly.zoom.us/rec/share/QWGXqGRxOJn7XVRMoPgo2rgupnD-c61HNlQt_eMoL9FrvSfNbUEE5zDhWS0-msA4.0nXIUKlpwDWUQBuA?startTime=1660415558000">Intro SQL</a></td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/QWGXqGRxOJn7XVRMoPgo2rgupnD-c61HNlQt_eMoL9FrvSfNbUEE5zDhWS0-msA4.0nXIUKlpwDWUQBuA?startTime=1660430005000">ExpressJs</a></td>
+ <td>Passcode: 34L9*@QP</td>
+</tr> -->
+ 
+</table>
