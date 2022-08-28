@@ -724,12 +724,19 @@
  <td><a href="https://generalassembly.zoom.us/rec/share/70kNdfmagRllc9rXXSskeTen881LnMHZG_aOmEedcoW1SoEBjNTrmNcdtNx7__I-.qSjHYNVHDvoLuWDE?startTime=1661396710000">PUT and Delete</a> </td>
  <td>Passcode: JJk$L7hg</td> 
  </tr>
+  
+  <tr><td>8/27</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/hDRXsplzhyebkjkslQLVcO0TLzml7Xblqg4kfLamVFzKfbIabBxiu3sImAlNKR39.JxgxJ0KM7I-qkpqz?startTime=1661620700000">Sequelize</a></td>
+<td><a href="https://generalassembly.zoom.us/rec/share/hDRXsplzhyebkjkslQLVcO0TLzml7Xblqg4kfLamVFzKfbIabBxiu3sImAlNKR39.JxgxJ0KM7I-qkpqz?startTime=1661640385000">Sequelize:Seeding</a></td>
+ <td>Passcode: @B2@x#?^</td> 
+</tr>
+ 
  
  
 </table>
 
   
- ### Unit Two - Week 11 Class Recordings 
+<!--  ### Unit Two - Week 11 Class Recordings 
 <table>
 <thead>
 <tr><td>Date Assigned</td>
@@ -737,13 +744,13 @@
 <td>Recording Two</td>
 <td>Passcode</td>
 </tr>
-</thead>
-<tr><td>8/27</td>
+</thead> -->
+<!-- <tr><td>8/27</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/hDRXsplzhyebkjkslQLVcO0TLzml7Xblqg4kfLamVFzKfbIabBxiu3sImAlNKR39.JxgxJ0KM7I-qkpqz?startTime=1661620700000">Sequelize</a></td>
 <td><a href="https://generalassembly.zoom.us/rec/share/hDRXsplzhyebkjkslQLVcO0TLzml7Xblqg4kfLamVFzKfbIabBxiu3sImAlNKR39.JxgxJ0KM7I-qkpqz?startTime=1661640385000">Sequelize:Seeding</a></td>
  <td>Passcode: @B2@x#?^</td> 
 </tr>
- 
+  -->
 <!-- <tr><td>8/10</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/45cKlCaH2WQ-nEHdWlHd5-5FLXht1Tf-kK_gBpNaKEC49zzMcNqrOP44z47gnMKT.Ct4ZFxZcFVguLRdz?startTime=1660181892000">Node Js</a> </td>
 <td><a href="https://generalassembly.zoom.us/rec/share/45cKlCaH2WQ-nEHdWlHd5-5FLXht1Tf-kK_gBpNaKEC49zzMcNqrOP44z47gnMKT.Ct4ZFxZcFVguLRdz?startTime=1660185259000">NPM</a></td>
@@ -756,4 +763,4 @@
  <td>Passcode: 34L9*@QP</td>
 </tr> -->
  
-</table>
+<!-- </table> -->
