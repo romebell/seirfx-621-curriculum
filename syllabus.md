@@ -764,3 +764,43 @@
 </tr> -->
  
 <!-- </table> -->
+
+## Unit 2: `Week 11 - Sequelize, 1:m & n:m relationships, holiday`
+
+<table>
+<thead>
+<tr>
+<td>Date</td>
+<th>Module 1</th>
+<th>Module 2</th>
+<th>Module 3</th>
+<th>Today's Lab</th>
+</tr>
+</thead>
+<tbody>
+ 
+<tr>
+<td><strong>Tuesday</strong><br />(8/30)</td>
+<td>In class Sequelize Review | <a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/express-1-to-many">1:M Relationships</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/express-many-to-many">N:M Relationships</a> </td>
+<td><a href="">Code-Along: Express Blogpulse Part 1 (1:M)</a></td>
+<td><a href="">Lab/Deliverable: Blogpulse Part 2</a></td>
+<td></td>
+</tr>
+ 
+<tr>
+<td><strong>Wednesday</strong><br />(8/31)</td>
+<td>TBD</td>
+<td>TBD</td>
+<td>TBD</td>
+<td>TBD</td>
+</tr>
+
+<tr>
+<td><strong>Saturday</strong><br />(9/3)</td>
+<td>No Class 9/3 due to labor day weekend</td>
+<td>--</td>
+<td>--</td>
+<td>--</td>
+</tr>
+</table>
