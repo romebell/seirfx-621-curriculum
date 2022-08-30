@@ -783,7 +783,7 @@
 <td><strong>Tuesday</strong><br />(8/30)</td>
 <td>In class Sequelize Review | <a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/express-1-to-many">1:M Relationships</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/express-many-to-many">N:M Relationships</a> </td>
-<td><a href="hhttps://github.com/SEIRFX-621/express-blogpulse">Code-Along: Express Blogpulse Part 1 (1:M)</a></td>
+<td><a href="https://github.com/SEIRFX-621/express-blogpulse">Code-Along: Express Blogpulse Part 1 (1:M)</a></td>
 <td><a href="https://github.com/SEIRFX-621/express-blogpulse">Lab/Deliverable: Blogpulse Part 2</a></td>
 <td></td>
 </tr>
