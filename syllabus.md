@@ -785,7 +785,6 @@
 <td><a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/04usingmodels">Using Sequelize Models reviews</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/seeding">Seeding review</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/05validationsmigrations">Validation and migration review</a></td>
-<td>No Lab Today</td>
 </tr>
  
 <tr>
