@@ -749,17 +749,7 @@
 <td><a href="https://generalassembly.zoom.us/rec/share/7Jxiyk7rShhj6mkl9C2z1vlRfLb29xmWYljFpO0rxtZwensZPlombNvuYdbh_nNc.4h4IwddOqRPFHrir?startTime=1661915034000">Sequelize:Seeding Review & ejs-layouts</a></td>
  <td>Passcode: ^ek2p8*i </td> 
 </tr>
-<!--  <tr><td>8/10</td>
-<td><a href="https://generalassembly.zoom.us/rec/share/45cKlCaH2WQ-nEHdWlHd5-5FLXht1Tf-kK_gBpNaKEC49zzMcNqrOP44z47gnMKT.Ct4ZFxZcFVguLRdz?startTime=1660181892000">Node Js</a> </td>
-<td><a href="https://generalassembly.zoom.us/rec/share/45cKlCaH2WQ-nEHdWlHd5-5FLXht1Tf-kK_gBpNaKEC49zzMcNqrOP44z47gnMKT.Ct4ZFxZcFVguLRdz?startTime=1660185259000">NPM</a></td>
- <td>Passcode: aPN9b4y+ </td>
-</tr>
- 
- <tr><td>8/14</td>
-<td><a href="https://generalassembly.zoom.us/rec/share/QWGXqGRxOJn7XVRMoPgo2rgupnD-c61HNlQt_eMoL9FrvSfNbUEE5zDhWS0-msA4.0nXIUKlpwDWUQBuA?startTime=1660412382000">Node Module Review</a> | <a href="https://generalassembly.zoom.us/rec/share/QWGXqGRxOJn7XVRMoPgo2rgupnD-c61HNlQt_eMoL9FrvSfNbUEE5zDhWS0-msA4.0nXIUKlpwDWUQBuA?startTime=1660415558000">Intro SQL</a></td>
- <td><a href="https://generalassembly.zoom.us/rec/share/QWGXqGRxOJn7XVRMoPgo2rgupnD-c61HNlQt_eMoL9FrvSfNbUEE5zDhWS0-msA4.0nXIUKlpwDWUQBuA?startTime=1660430005000">ExpressJs</a></td>
- <td>Passcode: 34L9*@QP</td>
-</tr>  -->
+
 </table> 
 
 ## Unit 2: `Week 11 - Sequelize, 1:m & n:m relationships, holiday`
