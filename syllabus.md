@@ -749,6 +749,12 @@
 <td><a href="https://generalassembly.zoom.us/rec/share/7Jxiyk7rShhj6mkl9C2z1vlRfLb29xmWYljFpO0rxtZwensZPlombNvuYdbh_nNc.4h4IwddOqRPFHrir?startTime=1661915034000">Sequelize:Seeding Review & ejs-layouts</a></td>
  <td>Passcode: ^ek2p8*i </td> 
 </tr>
+ <tr><td>8/31</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/W7a7VcAPgM0S1Yvk6oiDK_rsIPNyujNwSw4V3dt6fm5HUFSkpbClGwT_4RWA74Iz.s6RkwAB8XrUdSGx_?startTime=1661996799000">Sequelize LAB</a></td>
+<td><a href="https://generalassembly.zoom.us/rec/share/W7a7VcAPgM0S1Yvk6oiDK_rsIPNyujNwSw4V3dt6fm5HUFSkpbClGwT_4RWA74Iz.s6RkwAB8XrUdSGx_?startTime=1662008935000">Pokedex Lab</a></td>
+ <td>Passcode: i!bxU&7&</td> 
+</tr>
+
 
 </table> 
 
