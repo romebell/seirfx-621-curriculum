@@ -796,3 +796,26 @@
 <td>--</td>
 </tr>
 </table>
+ 
+ ## Unit Two - Week 12 Class Recordings: Sequelize, 1:m & n:m relationships, 
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Recording One</td>
+<td>Recording Two</td>
+<td>Passcode</td>
+</tr>
+</thead>
+<tr><td>9/6</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/WS2YYyvPWuSideB7NdBgib3xxna6cOIP__rCBOnbFZxw479zSDjrB1vbsMXyzwvo.RnJdsnHH7NPcBxwo?startTime=1662515365000">1:M & N:M relationships</a></td>
+<td><a href="">N/A</a></td>
+ <td>Passcode: bm1*qTg#</td> 
+</tr>
+<!--  <tr><td>8/31</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/W7a7VcAPgM0S1Yvk6oiDK_rsIPNyujNwSw4V3dt6fm5HUFSkpbClGwT_4RWA74Iz.s6RkwAB8XrUdSGx_?startTime=1661996799000">Sequelize LAB</a></td>
+<td><a href="https://generalassembly.zoom.us/rec/share/W7a7VcAPgM0S1Yvk6oiDK_rsIPNyujNwSw4V3dt6fm5HUFSkpbClGwT_4RWA74Iz.s6RkwAB8XrUdSGx_?startTime=1662008935000">Pokedex Lab</a></td>
+ <td>Passcode: i!bxU&7&</td> 
+</tr> -->
+
+
+</table>  
