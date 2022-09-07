@@ -808,7 +808,7 @@
 </thead>
 <tr><td>9/6</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/WS2YYyvPWuSideB7NdBgib3xxna6cOIP__rCBOnbFZxw479zSDjrB1vbsMXyzwvo.RnJdsnHH7NPcBxwo?startTime=1662515365000">1:M & N:M relationships</a></td>
-<td><a href="">N/A</a></td>
+<td>N/A</td>
  <td>Passcode: bm1*qTg#</td> 
 </tr>
 <!--  <tr><td>8/31</td>
