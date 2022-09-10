@@ -797,7 +797,7 @@
 </tr>
 </table>
 
-## Unit Two: `Week 11 - Sequelize, 1:m & n:m relationships, holiday`
+## Unit Two: `Week 12 - Sequelize, 1:m & n:m relationships(cont.), Express Authentication, Project 2 intro`
 
 <table>
 <thead>
@@ -812,11 +812,19 @@
 <tbody>
  
 <tr>
-<td><strong>Tuesday/Wednesday</strong><br />(9/6)/(9/7)</td>
-<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/express-1-to-many">Review Lab</a></td>
-<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/express-many-to-many">N:M Relationships</a></td>
+<td><strong>Tuesday</strong><br />(9/6)</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/express-1-to-many">1:M Relationships (cont.)</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/express-many-to-many">N:M Relationships (cont.)</a></td>
 <td><a href="https://github.com/SEIRFX-621/express-blogpulse">Code-Along: Express Blogpulse Part 1 (1:M)</a> | <a href="https://github.com/SEIRFX-621/express-blogpulse">Code-Along: Express Blogpulse Part 2 (N:M)</a></td>
-<td><a href="https://github.com/SEIRFX-621/express-pokedex">Lab: Express pokedex</a></td>
+<td>--</td>
+</tr>
+
+<tr>
+<td><strong>Wednesday</strong><br />(9/7)</td>
+<td><a href="https://github.com/SEIRFX-621/express-blogpulse/tree/solution">Review Lab</a></td>
+<td>--</td>
+<td>--</td>
+<td>--</td>
 </tr>
 
 <tr>
