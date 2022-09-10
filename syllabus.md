@@ -11,7 +11,7 @@
 
 `Important Disclaimer`: This schedule is a guideline and serves as an estimate for what your instructional staff would like to accomplish. This calendar is not set in stone and is subject to change at any time for reasons such as snow days, staff illness, special events, and individual class pacing.
 
-## Unit 1: `Week 1 - Welcome, HTML & CSS!`
+## Unit One: `Week 1 - Welcome, HTML & CSS!`
 
 <table>
 <thead>
@@ -103,7 +103,7 @@
  
 </table>
 
-## Unit 1: `Week 2 - JS Fundamentals!`
+## Unit One: `Week 2 - JS Fundamentals!`
 
 <table>
 <thead>
@@ -194,7 +194,7 @@
 </tr>
  </table>
 
-## Unit 1: `Week 3 - JS continued(control flows and functions)!`
+## Unit One: `Week 3 - JS continued(control flows and functions)!`
 
 <table>
 <thead>
@@ -281,7 +281,7 @@
 </table>
 
 
-## Unit 1: `Week 4 - JS continued(API, Classes, OOP, Scoping)!`
+## Unit One: `Week 4 - JS continued(API, Classes, OOP, Scoping)!`
 
 <table>
 <thead>
@@ -374,7 +374,7 @@
 </tr>
 </table>
 
-## Unit 1: `Week 5 - DOM Labs, HTML Canvas Project 1)!`
+## Unit One: `Week 5 - DOM Labs, HTML Canvas Project 1)!`
 
 <table>
 <thead>
@@ -448,7 +448,7 @@
 </tr>
 </table>
 
-## Unit 1: `Week 6 - Project 1`
+## Unit One: `Week 6 - Project 1`
 <table>
 <thead>
 <tr>
@@ -475,7 +475,7 @@
 
 </table>
 
-## Unit 1: `Week 7 - Project 1`
+## Unit One: `Week 7 - Project 1`
 
 <table>
 <thead>
@@ -520,7 +520,7 @@
 </table>
  
 
-## Unit 2: `Week 8 - Node, SQL`
+## Unit Two: `Week 8 - Node, SQL`
 
 <table>
 <thead>
@@ -594,7 +594,7 @@
  
 </table>
 
-## Unit 2: `Week 9 - Express and Sql Cont.`
+## Unit Two: `Week 9 - Express and Sql Cont.`
 
 <table>
 <thead>
@@ -663,7 +663,7 @@
  
 </table>
 
-## Unit 2: `Week 10 - Bookstrap, CRUD, Sequelize`
+## Unit Two: `Week 10 - Bookstrap, CRUD, Sequelize`
 
 <table>
 <thead>
@@ -758,7 +758,7 @@
 
 </table> 
 
-## Unit 2: `Week 11 - Sequelize, 1:m & n:m relationships, holiday`
+## Unit Two: `Week 11 - Sequelize, 1:m & n:m relationships, holiday`
 
 <table>
 <thead>
@@ -794,6 +794,37 @@
 <td>--</td>
 <td>--</td>
 <td>--</td>
+</tr>
+</table>
+
+## Unit Two: `Week 11 - Sequelize, 1:m & n:m relationships, holiday`
+
+<table>
+<thead>
+<tr>
+<td>Date</td>
+<th>Module 1</th>
+<th>Module 2</th>
+<th>Module 3</th>
+<th>Today's Lab</th>
+</tr>
+</thead>
+<tbody>
+ 
+<tr>
+<td><strong>Tuesday/Wednesday</strong><br />(9/6)/(9/7)</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/express-1-to-many">Review Lab</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/sequelize/express-many-to-many">N:M Relationships</a></td>
+<td><a href="https://github.com/SEIRFX-621/express-blogpulse">Code-Along: Express Blogpulse Part 1 (1:M)</a> | <a href="https://github.com/SEIRFX-621/express-blogpulse">Code-Along: Express Blogpulse Part 2 (N:M)</a></td>
+<td><a href="https://github.com/SEIRFX-621/express-pokedex">Lab: Express pokedex</a></td>
+</tr>
+
+<tr>
+<td><strong>Saturday</strong><br />(9/10)</td>
+<td><a href="https://github.com/SEIRFX-621/express-blogpulse">Review Express Blogpulse Lab</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/express-authentication">Authenication</a></td>
+<td><a href="https://github.com/SEIRFX-621/express_authentication">Express Authentication Codealong</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/projects/project-2">Project 2</a></td>
 </tr>
 </table>
  
