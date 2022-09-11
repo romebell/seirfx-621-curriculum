@@ -850,11 +850,11 @@
 <td>N/A</td>
  <td>Passcode: bm1*qTg#</td> 
 </tr>
-<!--  <tr><td>8/31</td>
-<td><a href="https://generalassembly.zoom.us/rec/share/W7a7VcAPgM0S1Yvk6oiDK_rsIPNyujNwSw4V3dt6fm5HUFSkpbClGwT_4RWA74Iz.s6RkwAB8XrUdSGx_?startTime=1661996799000">Sequelize LAB</a></td>
-<td><a href="https://generalassembly.zoom.us/rec/share/W7a7VcAPgM0S1Yvk6oiDK_rsIPNyujNwSw4V3dt6fm5HUFSkpbClGwT_4RWA74Iz.s6RkwAB8XrUdSGx_?startTime=1662008935000">Pokedex Lab</a></td>
- <td>Passcode: i!bxU&7&</td> 
-</tr> -->
+<tr><td>8/31</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/JTVOBH4mFFN8vFhWVXbhq6ljp9hGdPenG-XFjxLx3F4MDFfLgcgjNFFHCG64HXQs.PtTcCZPuC8Q-9TIc?startTime=1662829875000">express-blogpulse Solution</a></td>
+<td><a href="https://generalassembly.zoom.us/rec/share/JTVOBH4mFFN8vFhWVXbhq6ljp9hGdPenG-XFjxLx3F4MDFfLgcgjNFFHCG64HXQs.PtTcCZPuC8Q-9TIc?startTime=1662837586000">express-authentication</a></td>
+ <td>Passcode: Cw89%.k*</td> 
+
 
 
 </table>  
