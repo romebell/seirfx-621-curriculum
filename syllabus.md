@@ -850,7 +850,7 @@
 <td>N/A</td>
  <td>Passcode: bm1*qTg#</td> 
 </tr>
-<tr><td>8/31</td>
+<tr><td>9/10</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/JTVOBH4mFFN8vFhWVXbhq6ljp9hGdPenG-XFjxLx3F4MDFfLgcgjNFFHCG64HXQs.PtTcCZPuC8Q-9TIc?startTime=1662829875000">express-blogpulse Solution</a></td>
 <td><a href="https://generalassembly.zoom.us/rec/share/JTVOBH4mFFN8vFhWVXbhq6ljp9hGdPenG-XFjxLx3F4MDFfLgcgjNFFHCG64HXQs.PtTcCZPuC8Q-9TIc?startTime=1662837586000">express-authentication</a></td>
  <td>Passcode: Cw89%.k*</td> 
