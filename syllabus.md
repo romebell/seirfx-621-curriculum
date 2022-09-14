@@ -52,7 +52,7 @@
 </tr>
 </table>
 
-### Week 1 - Deliverables
+### Week 1 - `Deliverables`
 
 <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
 <table>
@@ -144,7 +144,7 @@
 
 </table>
 
-### Week 2 - Deliverables
+### Week 2 - `Deliverables`
 
 <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
 <table>
@@ -235,7 +235,7 @@
 
 </table>
 
-### Week 3 - Deliverables
+### Week 3 - `Deliverables`
 
 <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
 <table>
@@ -321,7 +321,7 @@
 
 </table>
 
-### Week 4 - Deliverables
+### Week 4 - `Deliverables`
 
 <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
 <table>
@@ -565,7 +565,7 @@
 
 </table>
  
- ### Unit Two - Class Recordings 
+ ### Unit Two - `Class Recordings` 
 <table>
 <thead>
 <tr><td>Date Assigned</td>
@@ -633,7 +633,7 @@
 </tr>
 </table>
  
- ### Unit Two - week 9: Class Recordings 
+ ### Unit Two - `week 9: Class Recordings`
 <table>
 <thead>
 <tr><td>Date Assigned</td>
@@ -703,7 +703,7 @@
 </tr>
 </table>
  
-### Unit Two - week 10: Class Recordings 
+### Unit Two - `week 10: Class Recordings`
 
  <table>
 <thead>
@@ -735,7 +735,7 @@
  
 </table>
 
- ## Unit Two - Week 11 Class Recordings: Sequelize, 1:m & n:m relationships, holiday
+ ## Unit Two - `Week 11 Class Recordings: Sequelize, 1:m & n:m relationships, holiday`
 <table>
 <thead>
 <tr><td>Date Assigned</td>
@@ -836,7 +836,7 @@
 </tr>
 </table>
  
- ## Unit Two - Week 12 Class Recordings: Sequelize, 1:m & n:m relationships, 
+ ## Unit Two - `Week 12 Class Recordings: Sequelize, 1:m & n:m relationships` 
 <table>
 <thead>
 <tr><td>Date Assigned</td>
