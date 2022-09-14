@@ -854,7 +854,82 @@
 <td><a href="https://generalassembly.zoom.us/rec/share/JTVOBH4mFFN8vFhWVXbhq6ljp9hGdPenG-XFjxLx3F4MDFfLgcgjNFFHCG64HXQs.PtTcCZPuC8Q-9TIc?startTime=1662829875000">express-blogpulse Solution</a></td>
 <td><a href="https://generalassembly.zoom.us/rec/share/JTVOBH4mFFN8vFhWVXbhq6ljp9hGdPenG-XFjxLx3F4MDFfLgcgjNFFHCG64HXQs.PtTcCZPuC8Q-9TIc?startTime=1662837586000">express-authentication</a></td>
  <td>Passcode: Cw89%.k*</td> 
+</table> 
 
+## Unit Two: `Week 13 - Project 2 all week`
 
+<table>
+<thead>
+<tr>
+<td>Date</td>
+<th>Module 1</th>
+<th>Module 2</th>
+<th>Module 3</th>
+<th>Today's Lab</th>
+</tr>
+</thead>
+<tbody>
+ 
+<tr>
+<td><strong>Tuesday</strong><br />(9/13)</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/projects/project-2">Project 2</a></td>
+<td>--</td>
+<td>--</td>
+<td>--</td>
+</tr>
 
-</table>  
+<tr>
+<td><strong>Wednesday</strong><br />(9/14)</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/projects/project-2">Project 2</a></td>
+<td>--</td>
+<td>--</td>
+<td>--</td>
+</tr>
+
+<tr>
+<td><strong>Saturday</strong><br />(9/17)</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/projects/project-2">Project 2</a></td>
+<td>--</td>
+<td>--</td>
+<td>--</td>
+</tr>
+</table>
+
+## Unit Two: `Week 14 - Project 2 all week`
+
+<table>
+<thead>
+<tr>
+<td>Date</td>
+<th>Module 1</th>
+<th>Module 2</th>
+<th>Module 3</th>
+<th>Today's Lab</th>
+</tr>
+</thead>
+<tbody>
+ 
+<tr>
+<td><strong>Tuesday</strong><br />(9/20)</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/projects/project-2">Project 2</a></td>
+<td>--</td>
+<td>--</td>
+<td>--</td>
+</tr>
+
+<tr>
+<td><strong>Wednesday</strong><br />(9/21)</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/projects/project-2">Project 2</a></td>
+<td>--</td>
+<td>--</td>
+<td>--</td>
+</tr>
+
+<tr>
+<td><strong>Saturday</strong><br />(9/24)</td>
+<td>Project 2 presentations</td>
+<td>--</td>
+<td>--</td>
+<td>--</td>
+</tr>
+</table>
