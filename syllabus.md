@@ -947,8 +947,8 @@
 <td><a href="https://generalassembly.zoom.us/rec/share/j279h4Vif_cyZ08JR5KlCmqZxtAoXFgQTwDqZDXTES0Qpwxk5HROT34Ry9ZHdI1N.RjkxIWen8k-hI4vt?startTime=1663123010000">User Stories</a></td>
  <td>Passcode: Be*534Ri</td> 
 </tr>
-<!-- <tr><td>9/10</td>
-<td><a href="https://generalassembly.zoom.us/rec/share/JTVOBH4mFFN8vFhWVXbhq6ljp9hGdPenG-XFjxLx3F4MDFfLgcgjNFFHCG64HXQs.PtTcCZPuC8Q-9TIc?startTime=1662829875000">express-blogpulse Solution</a></td>
-<td><a href="https://generalassembly.zoom.us/rec/share/JTVOBH4mFFN8vFhWVXbhq6ljp9hGdPenG-XFjxLx3F4MDFfLgcgjNFFHCG64HXQs.PtTcCZPuC8Q-9TIc?startTime=1662837586000">express-authentication</a></td>
- <td>Passcode: Cw89%.k*</td>  -->
+<tr><td>9/17</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/YgjaB-Dp3avsLSv1mee5fwsbrxBOmdXl7FryF3EndymfgkM8ywyPJtqWeZwhU6aV.8VzfP2fnbOFRJIP8?startTime=1663443589000">Seeding 3rd Party Data(API)</a></td>
+<td>N/A</td>
+ <td>Passcode: K?XA4i6L</td> 
 </table> 
