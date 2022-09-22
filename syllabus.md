@@ -926,7 +926,7 @@
 </tr>
 
 <tr>
-<td><strong>Saturday</strong><br />(9/27)</td>
+<td><strong>Tuesday</strong><br />(9/27)</td>
 <td>Project 2 presentations</td>
 <td>--</td>
 <td>--</td>
