@@ -951,4 +951,10 @@
 <td><a href="https://generalassembly.zoom.us/rec/share/YgjaB-Dp3avsLSv1mee5fwsbrxBOmdXl7FryF3EndymfgkM8ywyPJtqWeZwhU6aV.8VzfP2fnbOFRJIP8?startTime=1663443589000">Seeding 3rd Party Data(API)</a></td>
 <td>N/A</td>
  <td>Passcode: K?XA4i6L</td> 
+ <tr><td>9/23</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/v7j__W5mcjqsHjje_lQEvKbEv79FPZCFvUSSrRz45q2I3pAKFZIuNSvkO-ylYy9L.x8ZeItvKPRcUaBDn?startTime=1663825820000">Bootstrap and Routes with Rome</a></td>
+<td>N/A</td>
+ <td>Passcode: b$78vBSC</td> 
+ 
+ 
 </table> 
