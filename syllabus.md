@@ -1011,5 +1011,59 @@
  <td>Passcode: BID0m?!2</td>  -->
 <!-- </tr> -->
 </table> 
+
+## Unit Two: `Week 16 - React(cont.)`
+
+<table>
+<thead>
+<tr>
+<td>Date</td>
+<th>Module 1</th>
+<th>Module 2</th>
+<th>Module 3</th>
+<th>Today's Lab</th>
+</tr>
+</thead>
+<tbody>
+ 
+<tr>
+<td><strong>Tuesday</strong><br />(10/4)</td>
+<td><a href="https://reactjs.org/tutorial/tutorial.html#inspecting-the-starter-code">Tic-tac-toe part two(codealong)</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/react-updated-2019/react-state/lifting-state">React: Lifting state</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/react-updated-2019/react-state/lifting-state">Fruits codealong(part of lifting state)</a></td>
+<td><a href="https://github.com/SEI802/todo-list">Todo list lab</a></td>
+</tr>
+
+<tr>
+<td><strong>Wednesday</strong><br />(10/5)</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/projects/project-2">React: useEfftect</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/react-updated-2019/fetch-and-apis/fetch-apis#lets-use-axios-instead">React: Fetch & Axios</a></td>
+<td>--</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/projects/project-2">Fetch Weather Lab</a></td>
+</tr>
+
+<tr>
+<td><strong>Saturday</strong><br />(10/8)</td>
+<td>--</td>
+<td>--</td>
+<td>--</td>
+<td>--</td>
+</tr>
+</table>
+
+## Unit Thre - `Week 16 Class Recordings: Unit-3 React` 
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Recording One</td>
+<td>Recording Two</td>
+<td>Passcode</td>
+</tr>
+</thead>
+  <tr><td>10/4</td>
+<td>TBD</td>
+ <td>Passcode: TBD</td> 
+</tr>
+</table> 
  
  
