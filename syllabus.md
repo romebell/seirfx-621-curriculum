@@ -1061,8 +1061,9 @@
 </tr>
 </thead>
   <tr><td>10/4</td>
-<td>TBD</td>
- <td>Passcode: TBD</td> 
+<td><a href="https://generalassembly.zoom.us/rec/share/l982M5-_CJnLquKrU7zG0XfsN-PgbBDj-58ReezaUdRejpXmYlpxegBea2Q_fRwo.MTDA2-mIDaPDKgyV?startTime=1664933935000">React-tic-tac-toe-CodeAlong</a></td>
+   <td><a href="https://generalassembly.zoom.us/rec/share/l982M5-_CJnLquKrU7zG0XfsN-PgbBDj-58ReezaUdRejpXmYlpxegBea2Q_fRwo.MTDA2-mIDaPDKgyV?startTime=1664944515000">Lifting State</a></td>
+ <td>Passcode: Ki1mE?^@</td> 
 </tr>
 </table> 
  
