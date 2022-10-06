@@ -1036,7 +1036,7 @@
 
 <tr>
 <td><strong>Wednesday</strong><br />(10/5)</td>
-<td><a href="https://romebell.gitbook.io/seirfx-621/projects/project-2">React: useEfftect</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/react-updated-2019/01-hooks-intro">React: hooks: useEfftect</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/react-updated-2019/fetch-and-apis/fetch-apis#lets-use-axios-instead">React: Fetch & Axios</a></td>
 <td>--</td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/projects/project-2">Fetch Weather Lab</a></td>
