@@ -1051,6 +1051,34 @@
 </tr>
 </table>
 
+## Unit Two: `Week 16 - React(cont.)`
+
+<table>
+<thead>
+<tr>
+<td>Due Date</td>
+<th>Assignment(s)</th>
+</tr>
+</thead>
+<tbody>
+ 
+<tr>
+<td><strong>Tuesday</strong><br />(10/4)</td>
+<td><a href="https://reactjs.org/tutorial/tutorial.html#inspecting-the-starter-code">Tic-tac-toe part two(codealong)</a></td>
+</tr>
+
+<tr>
+<td><strong>Wednesday</strong><br />(10/5)</td>
+<td>--</td>
+</tr>
+
+<tr>
+<td><strong>Saturday</strong><br />(10/8)</td>
+<td>--</td>
+<td>--</td>
+</tr>
+</table>
+
 ## Unit Thre - `Week 16 Class Recordings: Unit-3 React` 
 <table>
 <thead>
