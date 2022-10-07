@@ -1000,15 +1000,11 @@
 <td>--</td>
  <td>Passcode: 3@4P^Jva</td> 
 </tr>
-<!--  <tr><td>9/27</td>
-<td><a href="https://generalassembly.zoom.us/rec/share/rGMpjUwBU__bEYhnMU3R_k6utr85dgrlKtfLTvoN3TvAe_QRkGgUcc344YZcYd5-.rxm3TgOSvUu6JjrZ?startTime=1664329232000">Unit-2 Presntations(Romes Room)</a></td>
-<td>--</td>
- <td>Passcode: JN*fOw3g</td> 
-</tr>
-  <tr><td>9/28</td>
+
+<!--   <tr><td>9/28</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/MjXuKn3KT36MaPa5p7Lbm8xHthyz9OAwovabfY46edTs3-DlsKcMAr3o5rBaTAgB.02ItBvEd5KCFMR79?startTime=1664416586000">Intro-to-React</a></td>
 <td><a href="https://generalassembly.zoom.us/rec/share/MjXuKn3KT36MaPa5p7Lbm8xHthyz9OAwovabfY46edTs3-DlsKcMAr3o5rBaTAgB.02ItBvEd5KCFMR79?startTime=1664422802000">React Props</a></td>
- <td>Passcode: BID0m?!2</td>  -->
+ <td>Passcode: BID0m?!2</td>  --> -->
 <!-- </tr> -->
 </table> 
 
@@ -1092,6 +1088,12 @@
 <td><a href="https://generalassembly.zoom.us/rec/share/l982M5-_CJnLquKrU7zG0XfsN-PgbBDj-58ReezaUdRejpXmYlpxegBea2Q_fRwo.MTDA2-mIDaPDKgyV?startTime=1664933935000">React-tic-tac-toe-CodeAlong</a></td>
    <td><a href="https://generalassembly.zoom.us/rec/share/l982M5-_CJnLquKrU7zG0XfsN-PgbBDj-58ReezaUdRejpXmYlpxegBea2Q_fRwo.MTDA2-mIDaPDKgyV?startTime=1664944515000">Lifting State</a></td>
  <td>Passcode: Ki1mE?^@</td> 
+</tr>
+<tr><td>10/5</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/yTvFAhOlNz7TBItdzN4EuhXWIiiqXXl1IyXiULGsP9MirNcruKRAj8d2abI40Knn.GzfgtDwb8KIhv39K?startTime=1665026999000">React-Todo Part 2</a></td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/yTvFAhOlNz7TBItdzN4EuhXWIiiqXXl1IyXiULGsP9MirNcruKRAj8d2abI40Knn.GzfgtDwb8KIhv39K?startTime=1665028867000">React-Hooks</a>|<a href="https://generalassembly.zoom.us/rec/share/yTvFAhOlNz7TBItdzN4EuhXWIiiqXXl1IyXiULGsP9MirNcruKRAj8d2abI40Knn.GzfgtDwb8KIhv39K?startTime=1665032845000">React-Axios</a</td>
+<!--  <td>></td> -->
+ <td>Passcode: 51u+*aVb</td> 
 </tr>
 </table> 
  
