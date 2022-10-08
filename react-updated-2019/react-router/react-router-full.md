@@ -117,11 +117,10 @@ Let's add one `<h1>` that says `Dentist Website` and a paragraph with some short
 **App.js**
 
 ```javascript
-import React, { Component } from 'react';
+import React from 'react';
 import './App.css';
 
-class App extends Component {
-  render() {
+function App() {
     return (
       <div>
         <h1>Dentist Website</h1>
@@ -130,7 +129,6 @@ class App extends Component {
         </p>
       </div>
     )
-  }
 }
 
 export default App
@@ -156,18 +154,16 @@ Your `App.js` and `Home.js` files should look like this after you've properly cr
 **App.js**
 
 ```javascript
-import React, { Component } from 'react';
+import React from 'react';
 import './App.css';
 import Home from './Home';
 
-class App extends Component {
-  render() {
+function App() {
     return (
       <div>
         <Home></Home>
       </div>
     )
-  }
 }
 export default App
 ```
@@ -175,10 +171,9 @@ export default App
 **Home.js**
 
 ```javascript
-import React, { Component } from 'react';
+import React from 'react';
 
-class Home extends Component {
-  render() {
+function Home() {
     return (
       <div>
         <h1>Dentist Website</h1>
@@ -187,10 +182,9 @@ class Home extends Component {
         </p>
       </div>
     )
-  }
 }
 
-export default Home
+export default Home;
 ```
 
 ## Create Components for Procedures and Contact
@@ -209,15 +203,14 @@ Now that we have our components made, there's nothing stopping us from importing
 **App.js**
 
 ```javascript
-import React, { Component } from 'react';
+import React from 'react';
 import './App.css';
 
 import Home from './Home';
 import Procedures from './Procedures';
 import Contact from './Contact';
 
-class App extends Component {
-  render() {
+function App() {
     return (
       <div>
         <Home></Home>
@@ -225,10 +218,9 @@ class App extends Component {
         <Contact></Contact>
       </div>
     )
-  }
 }
 
-export default App
+export default App;
 ```
 
 > Check yourself! You should see all of content for each of the pages all stacked on top of each other on the homepage. If you don't see content from all three of your components, something is wrong. You must fix this before continuing. Always do simple things before doing complex things!
@@ -249,8 +241,7 @@ Here's the general syntax for creating routes. React Router uses some of its own
 Delete what is currently returned in the `render` function of your `App.js`, and replace it with a Router component call with three routes, as shown below.
 
 ```javascript
-class App extends Component {
-  render() {
+function App() {
     return (
       <Router>
         <div>
@@ -260,7 +251,6 @@ class App extends Component {
         </div>
       </Router>
     )
-  }
 }
 ```
 
@@ -299,7 +289,7 @@ Here's how the imports and all the components look like together for our dentist
 **App.js**
 
 ```javascript
-import React, { Component } from 'react';
+import React from 'react';
 import './App.css';
 
 import {
@@ -312,8 +302,7 @@ import Home from './Home';
 import Procedures from './Procedures';
 import Contact from './Contact';
 
-class App extends Component {
-  render() {
+function App() {
     return (
       <Router>
         <div>
@@ -323,7 +312,6 @@ class App extends Component {
         </div>
       </Router>
     )
-  }
 }
 
 export default App
@@ -405,8 +393,7 @@ And now the nav bar will have spaces like it should. Try it!
 Here's what our final `App.js` looks like:
 
 ```javascript
-class App extends Component {
-  render() {
+function App() {
     return (
       <Router>
         <div>
@@ -421,7 +408,6 @@ class App extends Component {
         </div>
       </Router>
     )
-  }
 }
 
 export default App
@@ -436,16 +422,13 @@ This is very cool but it lacks some very important functionality. We only know h
 It's actually very easy. Inside of our `<Route>`s we've been using the `component` attribute. If we want more custom control, we can use a function instead but we must change the attribute from `component` to `render`. First, let's simulate some data by adding a simple array into our App's render method:
 
 ```javascript
-render() {
-  var procedures = [
+  const procedures = [
     "Deep Cleaning",
     "Filling",
     "Crown",
     "Root Canal",
     "Oral Surgery"
   ]
-  ...
-}
 ```
 
 We would normally want to pass this data into our Procedures component as props but there is no way to do that with the `component` attribute. Let's change it to `render`:
