@@ -1035,15 +1035,15 @@
 <td><a href="https://romebell.gitbook.io/seirfx-621/react-updated-2019/01-hooks-intro">React: hooks: useEfftect</a></td>
 <td><a href="https://romebell.gitbook.io/seirfx-621/react-updated-2019/fetch-and-apis/fetch-apis#lets-use-axios-instead">React: Fetch & Axios</a></td>
 <td>--</td>
-<td><a href="https://romebell.gitbook.io/seirfx-621/projects/project-2">Fetch Weather Lab</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/react-updated-2019/fetch-and-apis/fetch-weather">Fetch Weather Lab</a></td>
 </tr>
 
 <tr>
 <td><strong>Saturday</strong><br />(10/8)</td>
-<td>--</td>
-<td>--</td>
-<td>--</td>
-<td>--</td>
+<td><a href="https://github.com/SEIRFX-621/burger-stacker">Burger Stacker</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/react-updated-2019/react-router">React Router</a> | <a href="https://romebell.gitbook.io/seirfx-621/react-updated-2019/react-router/react-router-full">React Router Lab</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/react-updated-2019/fetch-and-apis/fetch-weather">Weather Lab</a> | <a href="https://github.com/SEIRFX-621/portfolio">Portfolio Lab</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/databases/mongodb/intro-nosql">MongoDB Intro</a> | <a href="https://www.mongodb.com/docs/manual/administration/install-community/">MongoDB Setup</a></td>
 </tr>
 </table>
 
