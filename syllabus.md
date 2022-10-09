@@ -1047,7 +1047,7 @@
 </tr>
 </table>
 
-## Unit Two: `Week 16 - React(cont.)`
+## Unit Two: `Week 16 - home work`
 
 <table>
 <thead>
@@ -1069,8 +1069,8 @@
 </tr>
 
 <tr>
-<td><strong>Saturday</strong><br />(10/8)</td>
-<td>--</td>
+<td><strong>Saturday</strong><br />(10/15)</td>
+<td><a href="https://github.com/SEIRFX-621/ajax-swapi">React Swapi</a></td>
 <td>--</td>
 </tr>
 </table>
