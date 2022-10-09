@@ -1071,7 +1071,6 @@
 <tr>
 <td><strong>Saturday</strong><br />(10/15)</td>
 <td><a href="https://github.com/SEIRFX-621/ajax-swapi">React Swapi</a></td>
-<td>--</td>
 </tr>
 </table>
 
