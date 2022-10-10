@@ -1096,7 +1096,8 @@
 </tr>
 </tr>
 <tr><td>10/8</td>
-<td><a href="https://generalassembly.zoom.us/rec/share/dKh5h0qyCwR8YkP-mVbfOjZBewK5IDeuuq97sxKz2FYj7wLdFcOfXs1v76tXZb9e.yRZzPI5qKbLCaJmL">React review + routes</a></td>
+<td><a href="https://generalassembly.zoom.us/rec/share/dKh5h0qyCwR8YkP-mVbfOjZBewK5IDeuuq97sxKz2FYj7wLdFcOfXs1v76tXZb9e.yRZzPI5qKbLCaJmL">React Burger stacker</a></td>
+<td><a href="#">React Review + routes(Looking for URI)</a></td>
  <td>Passcode: r80o74u=</td> 
 </tr>
 </table> 
