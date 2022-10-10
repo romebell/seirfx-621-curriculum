@@ -1091,13 +1091,13 @@
 <tr><td>10/5</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/yTvFAhOlNz7TBItdzN4EuhXWIiiqXXl1IyXiULGsP9MirNcruKRAj8d2abI40Knn.GzfgtDwb8KIhv39K?startTime=1665026999000">React-Todo Part 2</a></td>
  <td><a href="https://generalassembly.zoom.us/rec/share/yTvFAhOlNz7TBItdzN4EuhXWIiiqXXl1IyXiULGsP9MirNcruKRAj8d2abI40Knn.GzfgtDwb8KIhv39K?startTime=1665028867000">React-Hooks</a>|<a href="https://generalassembly.zoom.us/rec/share/yTvFAhOlNz7TBItdzN4EuhXWIiiqXXl1IyXiULGsP9MirNcruKRAj8d2abI40Knn.GzfgtDwb8KIhv39K?startTime=1665032845000">React-Axios</a</td>
-<!--  <td>></td> -->
  <td>Passcode: 51u+*aVb</td> 
 </tr>
 </tr>
 <tr><td>10/8</td>
-<td><a href="https://generalassembly.zoom.us/rec/share/dKh5h0qyCwR8YkP-mVbfOjZBewK5IDeuuq97sxKz2FYj7wLdFcOfXs1v76tXZb9e.yRZzPI5qKbLCaJmL">React Burger stacker</a></td>
-<td><a href="#">React Review + routes(Looking for URI)</a></td>
+<td><a href="https://generalassembly.zoom.us/rec/share/OmPeN8_5ojTLTFOkfAW76-XBel5AOVmO4tTQBkkN2iTy55POVm4BjW8MF_OI2Bd6.fzhK5UgmRdb903Eg?startTime=1665249044000">React Burger stacker</a>|<a href="https://generalassembly.zoom.us/rec/share/OmPeN8_5ojTLTFOkfAW76-XBel5AOVmO4tTQBkkN2iTy55POVm4BjW8MF_OI2Bd6.fzhK5UgmRdb903Eg?startTime=1665257932000" </a> React Review + routes(Looking for URI) </td>
+<!-- <td></td> -->
+ <td><a href="https://generalassembly.zoom.us/rec/share/OmPeN8_5ojTLTFOkfAW76-XBel5AOVmO4tTQBkkN2iTy55POVm4BjW8MF_OI2Bd6.fzhK5UgmRdb903Eg?startTime=1665266423000"</a>React-Stadium(React-Router)</td>
  <td>Passcode: r80o74u=</td> 
 </tr>
 </table> 
