@@ -1047,7 +1047,7 @@
 </tr>
 </table>
 
-## Unit Two: `Week 16 - home work`
+## Unit Two: `Week 16 - homework`
 
 <table>
 <thead>
@@ -1103,7 +1103,7 @@
 </table> 
 
 
-## Unit Two: `Week 16 - React(cont.)`
+## Unit Two: `Week 17 - React/mongodb`
 
 <table>
 <thead>
@@ -1143,7 +1143,7 @@
 </tr>
 </table>
 
-## Unit Two: `Week 16 - home work`
+## Unit Two: `Week 17 - homework`
 
 <table>
 <thead>
@@ -1174,7 +1174,7 @@
 </tr>
 </table>
 
-## Unit Thre - `Week 16 Class Recordings: Unit-3 React` 
+## Unit Thre - `Week 17 Class Recordings: Unit-3 React` 
 <table>
 <thead>
 <tr><td>Date Assigned</td>
