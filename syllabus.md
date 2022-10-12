@@ -1184,8 +1184,8 @@
 </tr>
 </thead>
 <tr><td>10/11</td>
- <td><a href="#"</a>TBD</td>
- <td>Passcode: TBD</td> 
+ <td><a href="https://generalassembly.zoom.us/rec/share/LSj9tJU1zBcdvogHqqS4IY5F2KthGQNKE0NuN2igfCpB6xwn61vOp8h1odC5KiwL.BmyFFDj83mJBtKcg?startTime=1665550986000"</a>MongoDB</td>
+ <td>Passcode: 5%lAu2mL</td> 
 </tr>
 <tr><td>10/12</td>
  <td><a href="#"</a>TBD</td>
