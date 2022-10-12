@@ -1101,5 +1101,100 @@
  <td>Passcode: r80o74u=</td> 
 </tr>
 </table> 
+
+
+## Unit Two: `Week 16 - React(cont.)`
+
+<table>
+<thead>
+<tr>
+<td>Date</td>
+<th>Module 1</th>
+<th>Module 2</th>
+<th>Module 3</th>
+<th>Today's Lab</th>
+</tr>
+</thead>
+<tbody>
+ 
+<tr>
+<td><strong>Tuesday</strong><br />(10/11)</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/react-updated-2019/fetch-and-apis/fetch-weather">Weather Lab</a>
+</td>
+<td><a href="https://github.com/SEIRFX-621/portfolio">Portfolio Lab</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/databases/mongodb/intro-nosql">MongoDB Intro</a> | <a href="https://www.mongodb.com/docs/manual/administration/install-community/">MongoDB Setup</a></td>
+<td>--</td>
+</tr>
+
+<tr>
+<td><strong>Wednesday</strong><br />(10/12)</td>
+<td>TBD</td>
+<td>TBD</td>
+<td>TBD</td>
+<td>TBD</td>
+</tr>
+
+<tr>
+<td><strong>Saturday</strong><br />(10/15)</td>
+<td>TBD</td>
+<td>TBD</td>
+<td>TBD</td>
+<td>TBD</td>
+</tr>
+</table>
+
+## Unit Two: `Week 16 - home work`
+
+<table>
+<thead>
+<tr>
+<td>Assigned</td>
+<td>Due Date</td>
+<th>Assignment(s)</th>
+</tr>
+</thead>
+<tbody>
+ 
+<tr>
+<td>--</td>
+<td>--</td>
+<td>--</td>
+</tr>
+
+<tr>
+<td>--</td>
+<td>--</td>
+<td>--</td>
+</tr>
+
+<tr>
+<td>--</td>
+<td>--</td>
+<td>--</td>
+</tr>
+</table>
+
+## Unit Thre - `Week 16 Class Recordings: Unit-3 React` 
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Recording One</td>
+<td>Recording Two</td>
+<td>Passcode</td>
+</tr>
+</thead>
+<tr><td>10/11</td>
+ <td><a href="#"</a>TBD</td>
+ <td>Passcode: TBD</td> 
+</tr>
+<tr><td>10/12</td>
+ <td><a href="#"</a>TBD</td>
+ <td>Passcode: TBD</td> 
+</tr>
+<tr><td>10/15</td>
+ <td><a href="#"</a>TBD</td>
+ <td>Passcode: TBD</td> 
+</tr>
+</table> 
  
  
