@@ -1128,10 +1128,10 @@
 
 <tr>
 <td><strong>Wednesday</strong><br />(10/12)</td>
-<td>TBD</td>
-<td>TBD</td>
-<td>TBD</td>
-<td>TBD</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/databases/mongodb/crud">MongoDB CRUD</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/databases/mongodb/data-modeling">MongoDB Data Modeling</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/databases/mongodb/intermediate">MongoDB intermediate commands</a></td>
+<td><a href="https://github.com/SEIRFX-621/mongo-bounty-hunters">MongoDBBounty Hunter Lab</a></td>
 </tr>
 
 <tr>
