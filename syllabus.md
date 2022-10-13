@@ -1184,12 +1184,14 @@
 </tr>
 </thead>
 <tr><td>10/11</td>
- <td><a href="https://generalassembly.zoom.us/rec/share/LSj9tJU1zBcdvogHqqS4IY5F2KthGQNKE0NuN2igfCpB6xwn61vOp8h1odC5KiwL.BmyFFDj83mJBtKcg?startTime=1665550986000"</a>MongoDB</td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/LSj9tJU1zBcdvogHqqS4IY5F2KthGQNKE0NuN2igfCpB6xwn61vOp8h1odC5KiwL.BmyFFDj83mJBtKcg?startTime=1665550986000"</a>MongoDB Setup</td>
+ <td>N/A</td>
  <td>Passcode: 5%lAu2mL</td> 
 </tr>
 <tr><td>10/12</td>
- <td><a href="#"</a>TBD</td>
- <td>Passcode: TBD</td> 
+ <td><a href="https://generalassembly.zoom.us/rec/share/tKsQJXBJUzibqHhO_AaGl46JosVHZTMG4OqAeFoDCL3ZpT70U0h2-LEpyfyjlDYW.NOnD-9w7gAywh_Hi?startTime=1665625149000"</a>MongoDB Crud | <a href="https://generalassembly.zoom.us/rec/share/tKsQJXBJUzibqHhO_AaGl46JosVHZTMG4OqAeFoDCL3ZpT70U0h2-LEpyfyjlDYW.NOnD-9w7gAywh_Hi?startTime=1665629462000"</a>MongoDB Data Modeling</td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/tKsQJXBJUzibqHhO_AaGl46JosVHZTMG4OqAeFoDCL3ZpT70U0h2-LEpyfyjlDYW.NOnD-9w7gAywh_Hi?startTime=1665632756000"</a> MongoDB intermediate commands</td>
+ <td>Passcode: vLq7Z8?&</td> 
 </tr>
 <tr><td>10/15</td>
  <td><a href="#"</a>TBD</td>
