@@ -1136,10 +1136,10 @@
 
 <tr>
 <td><strong>Saturday</strong><br />(10/15)</td>
-<td>TBD</td>
-<td>TBD</td>
-<td>TBD</td>
-<td>TBD</td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/react-updated-2019/fetch-and-apis/fetch-weather">Weather Lab review</a></td>
+<td><a href="https://romebell.gitbook.io/seirfx-621/node-express/express-mongoose">Mongoose intro</a> | <a href="https://romebell.gitbook.io/seirfx-621/node-express/express-mongoose/mongoose-associations">Mongoose associations</a></td>
+<td><a href="https://github.com/SEIRFX-621/mongo-bounty-hunters">Remake bounty hunter with mongoose</a></td>
+<td>Build your own API</td>
 </tr>
 </table>
 
@@ -1168,9 +1168,9 @@
 </tr>
 
 <tr>
-<td>--</td>
-<td>--</td>
-<td>--</td>
+<td>10/8</td>
+<td><a href="https://github.com/SEIRFX-621/mongo-bounty-hunters">Mongodb bounty hunter</a></td>
+<td>10/15</td>
 </tr>
 </table>
 
