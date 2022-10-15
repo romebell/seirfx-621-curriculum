@@ -1169,8 +1169,8 @@
 
 <tr>
 <td>10/8</td>
-<td><a href="https://github.com/SEIRFX-621/mongo-bounty-hunters">Mongodb bounty hunter</a></td>
 <td>10/15</td>
+<td><a href="https://github.com/SEIRFX-621/mongo-bounty-hunters">Mongodb bounty hunter</a></td>
 </tr>
 </table>
 
