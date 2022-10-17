@@ -1194,8 +1194,8 @@
  <td>Passcode: vLq7Z8?&</td> 
 </tr>
 <tr><td>10/15</td>
- <td><a href="#"</a>TBD</td>
- <td>Passcode: TBD</td> 
+ <td><a href="https://generalassembly.zoom.us/rec/share/0OJn4lPrgfuy1LPyJo-t56Up7tx1vpMuYSlICiJfTE_ykPBGxQtipa_-CzyYQfdS.zzi4bgEeRENnRQdK"</a>Mongoose intro/mongoose associations and Postman</td>
+ <td>Passcode: *k%F41e8</td> 
 </tr>
 </table> 
  
