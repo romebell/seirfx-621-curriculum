@@ -1194,6 +1194,7 @@
  <td>Passcode: vLq7Z8?&</td> 
 </tr>
 <tr><td>10/15</td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/pMNZDY7gK0cGzegVPMH7DfcgYKMCVUfdv9SidEqivY1J4bcUNcQvXC-VU6hXLJVr.IvFH_mnHCr6YhNII?startTime=1665853774000"</a>React-WeatherApi | <a href="https://generalassembly.zoom.us/rec/share/pMNZDY7gK0cGzegVPMH7DfcgYKMCVUfdv9SidEqivY1J4bcUNcQvXC-VU6hXLJVr.IvFH_mnHCr6YhNIIstartTime=1665859076000"> MongoDB and Mongoose</a></td>
  <td><a href="https://generalassembly.zoom.us/rec/share/0OJn4lPrgfuy1LPyJo-t56Up7tx1vpMuYSlICiJfTE_ykPBGxQtipa_-CzyYQfdS.zzi4bgEeRENnRQdK"</a>Mongoose intro/mongoose associations and Postman</td>
  <td>Passcode: *k%F41e8</td> 
 </tr>
