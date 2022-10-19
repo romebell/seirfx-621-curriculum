@@ -1174,7 +1174,7 @@
 </tr>
 </table>
 
-## Unit Thre - `Week 17 Class Recordings: Unit-3 React` 
+## Unit Three - `Week 17 Class Recordings: Unit-3 React` 
 <table>
 <thead>
 <tr><td>Date Assigned</td>
@@ -1198,6 +1198,29 @@
  <td><a href="https://generalassembly.zoom.us/rec/share/0OJn4lPrgfuy1LPyJo-t56Up7tx1vpMuYSlICiJfTE_ykPBGxQtipa_-CzyYQfdS.zzi4bgEeRENnRQdK"</a>Mongoose intro/mongoose associations and Postman</td>
  <td>Passcode: *k%F41e8</td> 
 </tr>
+</table> 
+ 
+ ## Unit Thre - `Week 18 Class Recordings: Unit-3 React-MERN STACK` 
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Recording One</td>
+<td>Recording Two</td>
+<td>Passcode</td>
+</tr>
+</thead>
+<tr><td>10/19</td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/6ia3vDWJO03YxqBweEkF3u__PA0Ny_SSoLynxgWeS8JqDrGebY5_Mc4tOYNgtirJ.J0psGzoZtkIgNV7S "</a>Postman API(Mongoose) Review</td>
+ <td>N/A</td>
+ <td>Passcode: zNKU5Md? </td> 
+</tr>
+<!-- <tr><td>10/12</td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/tKsQJXBJUzibqHhO_AaGl46JosVHZTMG4OqAeFoDCL3ZpT70U0h2-LEpyfyjlDYW.NOnD-9w7gAywh_Hi?startTime=1665625149000"</a>MongoDB Crud | <a href="https://generalassembly.zoom.us/rec/share/tKsQJXBJUzibqHhO_AaGl46JosVHZTMG4OqAeFoDCL3ZpT70U0h2-LEpyfyjlDYW.NOnD-9w7gAywh_Hi?startTime=1665629462000"</a>MongoDB Data Modeling</td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/tKsQJXBJUzibqHhO_AaGl46JosVHZTMG4OqAeFoDCL3ZpT70U0h2-LEpyfyjlDYW.NOnD-9w7gAywh_Hi?startTime=1665632756000"</a> MongoDB intermediate commands</td>
+ <td>Passcode: vLq7Z8?&</td> 
+</tr> -->
+<!-- <tr><td>10/15</td>
+</tr> -->
 </table> 
  
  
