@@ -6,7 +6,7 @@
 
 The project manager, or PM, is responsible for planning and seeing a project from its initiation to its completion. A PM generally has to have strong leadership and communication skills, as well as the ability to keep others motivated and on track. Some other roles may include overseeing the scope of the project, planning out resources, time management, and monitoring progress throughout the project.
 
-#### Git Master \(Maintainer\)
+#### Tech Lead \(Maintainer\)
 
 Commonly known as the repository maintainer, but known in WDI as the "git master", the git master's job is to handle incoming pull requests and merge them appropriately. Their job is to handle the **state of the repo** and make sure that everything goes smoothly. Be prepared for merge conflicts if necessary.
 
