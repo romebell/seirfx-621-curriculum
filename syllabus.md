@@ -1214,11 +1214,11 @@
  <td>N/A</td>
  <td>Passcode: zNKU5Md? </td> 
 </tr>
-<!-- <tr><td>10/12</td>
- <td><a href="https://generalassembly.zoom.us/rec/share/tKsQJXBJUzibqHhO_AaGl46JosVHZTMG4OqAeFoDCL3ZpT70U0h2-LEpyfyjlDYW.NOnD-9w7gAywh_Hi?startTime=1665625149000"</a>MongoDB Crud | <a href="https://generalassembly.zoom.us/rec/share/tKsQJXBJUzibqHhO_AaGl46JosVHZTMG4OqAeFoDCL3ZpT70U0h2-LEpyfyjlDYW.NOnD-9w7gAywh_Hi?startTime=1665629462000"</a>MongoDB Data Modeling</td>
- <td><a href="https://generalassembly.zoom.us/rec/share/tKsQJXBJUzibqHhO_AaGl46JosVHZTMG4OqAeFoDCL3ZpT70U0h2-LEpyfyjlDYW.NOnD-9w7gAywh_Hi?startTime=1665632756000"</a> MongoDB intermediate commands</td>
- <td>Passcode: vLq7Z8?&</td> 
-</tr> -->
+<tr><td>10/20</td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/2sX1PO5udcaYOuV8MwhO2987UAVkG__pR2iUhJk_HuER2GAaPijG2UyQbNu1Oo36.jAAzwxeuajnoKO5j "</a>Postman and Mongoose Lab Routes Review</td>
+ <td>N/A</td>
+ <td>Passcode: ^b*Y1=0+</td> 
+</tr>
 <!-- <tr><td>10/15</td>
 </tr> -->
 </table> 
