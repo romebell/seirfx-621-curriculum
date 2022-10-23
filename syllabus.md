@@ -1219,8 +1219,11 @@
  <td>N/A</td>
  <td>Passcode: ^b*Y1=0+</td> 
 </tr>
-<!-- <tr><td>10/15</td>
-</tr> -->
+<tr><td>10/22</td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/lqNy2MWAtD0QIi6MX4kjTAno8St35zDXpprB3uE5NMzyBcLnD9XWwVIz2FW_eIbc.HKDKN2f1mg9zHdrG "</a>Github Collboration Review</td>
+ <td>N/A</td>
+ <td>Passcode: #H8WSLjG</td> 
+</tr>
 </table> 
  
  
