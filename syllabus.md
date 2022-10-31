@@ -1200,7 +1200,7 @@
 </tr>
 </table> 
  
- ## Unit Thre - `Week 18 Class Recordings: Unit-3 React-MERN STACK` 
+ ## Unit Three - `Week 18 Class Recordings: Unit-3 React-MERN STACK` 
 <table>
 <thead>
 <tr><td>Date Assigned</td>
@@ -1226,4 +1226,19 @@
 </tr>
 </table> 
  
+ ## Unit Three - `Week 19 Class Recordings: Unit-3 Project Week One` 
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Recording One</td>
+<td>Recording Two</td>
+<td>Passcode</td>
+</tr>
+</thead>
+<tr><td>10/26</td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/X42IuyUO1_WMnyx4ogWji835lIcIV-ohZ2Poq8CEw3MM6xIvxuqPqDhvM-XT4TRR.BPvCSAvJVoj26s92 "</a>Mongo Database Deployment</td>
+ <td>N/A</td>
+ <td>(Passcode: 7Y%g!?uz)</td> 
+</tr>
+</table> 
  
