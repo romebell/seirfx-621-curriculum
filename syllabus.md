@@ -1242,3 +1242,20 @@
 </tr>
 </table> 
  
+  ## Unit Four - `Week 22 Class Recordings: Unit-4 Intro to Python & Flask` 
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Recording One</td>
+<td>Passcode</td>
+</tr>
+</thead>
+<tr><td>11/15</td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/D5Yg9raoae2s8E3y83xyuoK6caWQmkXdQ9S1v5BbdVxrJWrQAvcjQG0YoqE0FofX.bx20a0dokVQ5Yoxn"</a>Intro to Python</td>
+ <td>(Passcode: T+YwGx7%)</td> 
+ <tr><td>11/16</td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/juvQvX7CbVECe6MHTglNZ5rqbUq-FMpCHX7KVtXxxrywfvNG_XltxgxYmyNZsrPt.wn_vLIFtg9vk04LD"/a>Intro to Flask and PyMongo</td>
+ <td>Passcode: &zpG$=&7)</td> 
+</tr>
+</table> 
+ 
