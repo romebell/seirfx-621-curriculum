@@ -1256,6 +1256,9 @@
  <tr><td>11/16</td>
  <td><a href="https://generalassembly.zoom.us/rec/share/juvQvX7CbVECe6MHTglNZ5rqbUq-FMpCHX7KVtXxxrywfvNG_XltxgxYmyNZsrPt.wn_vLIFtg9vk04LD"/a>Intro to Flask and PyMongo</td>
  <td>Passcode: &zpG$=&7)</td> 
+  <tr><td>11/19</td>
+   <td><a href="https://generalassembly.zoom.us/rec/share/uR1SEUbpLy7ls0wCayuYKDO89FLkrMh0CFuewhaUIOviyNGlM9YTuOSKcSOfvIY7.t5SAcTcWWh1uneq9?startTime=1668887247000"/a>Recursion | <a href="https://generalassembly.zoom.us/rec/share/uR1SEUbpLy7ls0wCayuYKDO89FLkrMh0CFuewhaUIOviyNGlM9YTuOSKcSOfvIY7.t5SAcTcWWh1uneq9?startTime=1668906172000">Python Classes and Inheritance </a></td>
+ <td>Passcode: h?*byv5&</td> 
 </tr>
 </table> 
  
