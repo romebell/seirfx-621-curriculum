@@ -1282,7 +1282,7 @@
 </tr>
 </table> 
  
- ## Unit Four - `Week 24 Class Recordings: Unit-4 Intro to Djano` 
+ ## Unit Four - `Week 24 Class Recordings: Unit-4 Intro to Django` 
 <table>
 <thead>
 <tr><td>Date Assigned</td>
