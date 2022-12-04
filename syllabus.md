@@ -1262,3 +1262,45 @@
 </tr>
 </table> 
  
+  ## Unit Four - `Week 23 Class Recordings: Unit-4 Data Structures and Algos` 
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Recording One</td>
+<td>Passcode</td>
+</tr>
+</thead>
+<tr><td>11/22</td>
+ <td><a href=""</a></td>
+ <td>na.a</td> 
+ <tr><td>11/23</td>
+ <td>No Class</td>
+ <td>n/a</td> 
+  <tr><td>11/24</td>
+   <td>No Class</td>
+ <td>n/a</td> 
+</tr>
+</table> 
+ 
+ ## Unit Four - `Week 24 Class Recordings: Unit-4 Intro to Djano` 
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Recording One</td>
+<td>Passcode</td>
+</tr>
+</thead>
+<tr><td>11/29</td>
+ <td><a href=""</a>N/a</td>
+ <td>n/a</td> 
+ <tr><td>11/30</td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/vPG5XQkcR_74w6Tifka_owFQnRezept11tz0pXTV3sRk-f0GGiM9VQFk-LEG1xEX.VueKksficnRti2Kx"/a>Intro to Django | catCollector part1</td>
+ <td>PPasscode: RVFf0u$8</td> 
+  <tr><td>12/3</td>
+   <td><a href="https://generalassembly.zoom.us/rec/share/fgIXLsteASFQX6E6rwDHKDGbGU2I8Cv1q0dx1Sq1FkYXXu3QS3pQGlVuVPYKJlpZ.iJ7lQSiVrPrhpans"/a> Django catCollector partl(Url,views,Templates)</td>
+ <td>Passcode: 3N^TndOa</td> 
+</tr>
+</table> 
+ 
+ 
+ 
