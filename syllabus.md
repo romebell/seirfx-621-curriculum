@@ -1302,5 +1302,26 @@
 </tr>
 </table> 
  
+ ## Unit Four - `Week 25 Class Recordings: Unit-4 Django` 
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Recording One</td>
+<td>Passcode</td>
+</tr>
+</thead>
+<tr><td>12/6</td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/1jjqdotukjkwONWJIVerKhFlDcq1Bd4tH12x6WwVYae0uGBroaVo5F8B3YbYi1H9.poWuk_PsZ37a9u_Z"</a>Django(Auth,Login,Logout,Signup)</td>
+ <td>Passcode: Q^Zs1V?u</td> 
+<!--  <tr><td>11/30</td>
+ <td><a href="https://generalassembly.zoom.us/rec/share/vPG5XQkcR_74w6Tifka_owFQnRezept11tz0pXTV3sRk-f0GGiM9VQFk-LEG1xEX.VueKksficnRti2Kx"/a>Intro to Django | catCollector part1</td>
+ <td>PPasscode: RVFf0u$8</td> 
+  <tr><td>12/3</td>
+   <td><a href="https://generalassembly.zoom.us/rec/share/fgIXLsteASFQX6E6rwDHKDGbGU2I8Cv1q0dx1Sq1FkYXXu3QS3pQGlVuVPYKJlpZ.iJ7lQSiVrPrhpans"/a> Django catCollector partl(Url,views,Templates)</td>
+ <td>Passcode: 3N^TndOa</td>  -->
+</tr>
+</table> 
+ 
+ 
  
  
